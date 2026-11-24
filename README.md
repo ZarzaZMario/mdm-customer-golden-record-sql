@@ -27,6 +27,8 @@ Raw files live in `data/` (CSV). `data/seed_postgres.sql` creates the four stagi
 
 I did not clean the source files before loading them. All standardization happens in SQL views.
 
+The raw `marketing_leads` extract has 510 rows but only 505 distinct `lead_id` values: five IDs appear twice in the source file.
+
 ## Approach
 
 The script in `sql/mdm_customer_golden_record.sql` is organized in six phases:
@@ -49,7 +51,16 @@ These are the rules implemented in the script:
 - **ERP deduplication:** one row per match key, keeping the latest `last_invoice_date` (then RFC, then `customer_no`).
 - **Golden record:** full outer join of the two staging views on the match key. A record can be `ERP + CRM`, `Solo ERP`, or `Solo CRM`. The join method is `Email` or `Teléfono (Rescatado)` when the key starts with `TEL_`.
 - **Field survivorship:** contact name prefers CRM, then ERP; company / legal name prefers ERP `razon_social`, then CRM company; phone prefers CRM, then ERP; address, city, state, and postal code prefer CRM, then ERP; RFC, credit limit, currency, and account status come from ERP (with defaults `MXN` and `Prospecto CRM` when ERP is absent).
-- **Leads:** the same email and phone cleaning is applied. A lead is matched to a golden record on email, or on the 10-digit phone when the lead has no email. The status is either `Ya es Cliente (…)` with the golden-record source, or `Prospecto Nuevo (No en ERP/CRM)`.
+- **Leads:** the same email and phone cleaning is applied. Each lead is matched to at most one golden record with a `LEFT JOIN LATERAL … LIMIT 1`, on email, or on the 10-digit phone when the lead has no email. If several golden records share that phone, the match prefers `ERP + CRM`, then `Solo ERP`, then `Solo CRM`. The status is either `Ya es Cliente (…)` with the golden-record source, or `Prospecto Nuevo (No en ERP/CRM)`.
+
+## Data quality notes
+
+A few checks in the script keep the audit and the match counts aligned with the raw extracts:
+
+- The internal-duplicate email query excludes sentinel values such as `n/a`, `na`, `null`, and `-`.
+- Credit limits that use a comma as the decimal separator (for example `15000,00`) are normalized before conversion, so those amounts are not inflated. The maximum cleaned credit limit in this dataset is 500,000.
+- The lateral `LIMIT 1` join above keeps the enrichment view at one golden match per lead row, even when a phone number appears on more than one customer.
+- Phase 6 status percentages are calculated over the 510 lead rows.
 
 ## Key results
 
@@ -66,14 +77,18 @@ Audit queries in Phase 6 returned the following totals on this dataset.
 | Solo ERP | Email | 277 |
 | Solo ERP | Teléfono (Rescatado) | 78 |
 
-**Lead enrichment (`mdm_leads_enriquecidos`)**
+**Lead enrichment (`mdm_leads_enriquecidos`): 510 rows**
+
+Of those, 333 leads (65.29%) already match a golden-record customer and 177 (34.71%) are net-new prospects.
 
 | Status (`estatus_mdm`) | Rows | Share |
 |---|---:|---:|
-| Ya es Cliente (Solo CRM) | 182 | 35.27% |
-| Prospecto Nuevo (No en ERP/CRM) | 177 | 34.30% |
-| Ya es Cliente (Solo ERP) | 83 | 16.09% |
-| Ya es Cliente (ERP + CRM) | 74 | 14.34% |
+| Prospecto Nuevo (No en ERP/CRM) | 177 | 34.71% |
+| Ya es Cliente (Solo CRM) | 177 | 34.71% |
+| Ya es Cliente (Solo ERP) | 82 | 16.08% |
+| Ya es Cliente (ERP + CRM) | 74 | 14.51% |
+
+The enrichment view keeps one row per source row, so the five duplicated `lead_id` values from the raw extract still appear twice.
 
 ## How to run
 

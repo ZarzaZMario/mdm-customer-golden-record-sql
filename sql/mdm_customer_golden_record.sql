@@ -99,10 +99,12 @@ FULL OUTER JOIN crm_customers c
     ON NULLIF(TRIM(e.customer_no), '') = NULLIF(TRIM(c."contact_id"), '')
 GROUP BY 1;
 
--- 3B. Detección de duplicados internos y textos basura ('n/a', 'null', '-') en Email
+-- 3B. [CORREGIDO] Detección de duplicados internos reales (excluyendo textos basura)
 SELECT 'ERP' AS origen, LOWER(TRIM(email)) AS email_crudo, COUNT(*) AS repeticiones
 FROM erp_customers
 WHERE NULLIF(TRIM(email), '') IS NOT NULL
+  AND LOWER(TRIM(email)) NOT IN ('n/a', 'na', 'null', '-', 'none', 'sin correo')
+  AND email LIKE '%@%'
 GROUP BY 2 HAVING COUNT(*) > 1
 
 UNION ALL
@@ -110,6 +112,8 @@ UNION ALL
 SELECT 'CRM', LOWER(TRIM("email")), COUNT(*)
 FROM crm_customers
 WHERE NULLIF(TRIM("email"), '') IS NOT NULL
+  AND LOWER(TRIM("email")) NOT IN ('n/a', 'na', 'null', '-', 'none', 'sin correo')
+  AND "email" LIKE '%@%'
 GROUP BY 2 HAVING COUNT(*) > 1
 ORDER BY origen, repeticiones DESC;
 
@@ -212,7 +216,21 @@ WITH cleaned AS (
             ELSE INITCAP(TRIM(estado))
         END AS clean_state,
         TRIM(cp) AS cp,
-        COALESCE(NULLIF(REGEXP_REPLACE(credit_limit, '[^0-9.]', '', 'g'), '')::NUMERIC, 0) AS clean_credit_limit,
+        -- [CORREGIDO] Normaliza comas decimales (ej. 15000,00 -> 15000.00) antes de limpiar caracteres
+        COALESCE(
+            NULLIF(
+                REGEXP_REPLACE(
+                    CASE 
+                        WHEN TRIM(credit_limit) ~ ',\d{1,2}$' 
+                            THEN REPLACE(REPLACE(TRIM(credit_limit), '.', ''), ',', '.')
+                        ELSE REPLACE(TRIM(credit_limit), ',', '')
+                    END,
+                    '[^0-9.]', '', 'g'
+                ),
+                ''
+            )::NUMERIC,
+            0
+        ) AS clean_credit_limit,
         currency,
         status,
         last_invoice_date
@@ -273,7 +291,7 @@ FROM stg_erp_customers e
 FULL OUTER JOIN stg_crm_customers c 
     ON e.match_key = c.match_key;
 
--- 5B. Enriquecimiento de Marketing Leads contra el Golden Record (516 registros)
+-- 5B. [CORREGIDO] Enriquecimiento de Marketing Leads (510 registros exactos, sin duplicados por teléfono compartido)
 CREATE VIEW mdm_leads_enriquecidos AS
 WITH leads_clean AS (
     SELECT 
@@ -304,16 +322,23 @@ SELECT
         ELSE 'Prospecto Nuevo (No en ERP/CRM)'
     END AS estatus_mdm
 FROM leads_clean l
-LEFT JOIN mdm_golden_customers g
-    ON (l.clean_email IS NOT NULL AND l.clean_email = g.email)
-    OR (l.clean_email IS NULL AND LENGTH(l.clean_phone) = 10 AND l.clean_phone = g.telefono_10_dig);
+LEFT JOIN LATERAL (
+    SELECT mdm_customer_id, origen_dato
+    FROM mdm_golden_customers g
+    WHERE (l.clean_email IS NOT NULL AND l.clean_email = g.email)
+       OR (l.clean_email IS NULL AND LENGTH(l.clean_phone) = 10 AND l.clean_phone = g.telefono_10_dig)
+    ORDER BY 
+        CASE WHEN g.origen_dato = 'ERP + CRM' THEN 1 WHEN g.origen_dato = 'Solo ERP' THEN 2 ELSE 3 END,
+        g.mdm_customer_id
+    LIMIT 1
+) g ON TRUE;
 
 
 -- ============================================================================
 -- FASE 6: AUDITORÍA DE RESULTADOS Y EXPORTACIÓN PARA TABLEAU
 -- ============================================================================
 
--- 6A. Métricas resumen de validación
+-- 6A. Métricas resumen de validación (Ahora calcula sobre los 510 leads exactos)
 SELECT origen_dato, metodo_cruce, COUNT(*) AS total
 FROM mdm_golden_customers
 GROUP BY 1, 2 ORDER BY 1, 2;
