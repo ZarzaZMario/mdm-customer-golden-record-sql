@@ -1,0 +1,941 @@
+contact_id,first_name,last_name,email,phone,street,city,state,postal_code,company,created_at,updated_at,source_system
+C-010001,Jimena,JUÁREZ OROZCO,jimena_juarez@icloud.com,993 084 0697,"Calz. de Tlalpan 3076, Col. Santa María",Villahermosa,Tab.,86104 ,Clínica Santa Cecilia,09/02/2025,2026-08-31,CRM
+C-010002, Karla ,Soto Chávez,karla_soto@empresa.mx,444-188-4922,"Calle Zaragoza 5715, Col. San Rafael",San Luis Potosí,San Luis Potosí,NA,Palacio de Hierro,2026-05-21,05/23/2026,CRM
+C-010003,Javier,Sandoval Núñez,javier73.sandoval@coppel.com.mx,0448170240244,"Calle Zaragoza 4545, Col. San Rafael"," Monterrey, N.L.",N.L.,64568,Tiendas Coppel S.A. De C.V.,13/11/2024,09/26/2026,CRM
+C-010004,Lorena,Carrillo Gallegos,lorena.carrillo@icloud.com,NA,"Calle Zaragoza 4522, Residencial Los Álamos",Morelia, MICH ,58392,Tecnologías Sierra Azul,28/06/2025,07/30/2025,CRM
+C-010005,Soledad,VILLANUEVA ORTIZ,soledad.villanuevacorreo.com.mx,045 667 163 9655,"pRiVADA LoS pInOS 4815, cOL. sAn raFAel",Culiacán,Sin.,80004,Soriana,02-feb-2025,2026-05-19,CRM
+C-010006,Mariana,Ibarra Márquez,marianaibarra@banorte.mx,744-406-8196,"Calle Hidalgo 9156, Residencial Los Álamos",Acapulco,Guerrero,39859,GRUPO FINANCIERO BANORTE S.A.B. DE C.V.,2023-07-21,2024-06-15,CRM
+C-010007,Martha,Acosta Franco, martha.acosta@escuelatecnicaho.com,(229) 264-1831,"Av. López Mateos 2230, Col. Narvarte",Veracruz,Veracruz,91918 ,escuela técnica horizonte,06/14/2026,NA,CRM
+C-010008,Juan,Valdez  Solís,juan.valdez@hotmail.com,+52 222 638 4836,-,Puebla, Puebla,72553,Servicios Industriales Tepic,15/12/2021,2024-04-26,CRM
+C-010009,Beatriz,Castro Beltrán,beatriz.castroicloud.com,+523121585053,"Av. Insurgentes Sur 6664, Col. Doctores",Colima,Colima,28012,Volaris,2021-10-23,03/10/2024,CRM
+CRM-10010,Mónica,Mejía Padilla,,5587458676,"Av. Colón 4548, Col. Roma Norte",Ciudad de México,CDMX ,11299 ,Hoteles Brisa Maya,20260323,2026-07-13,CRM
+CRM-10011,Hugo,Padilla Cárdenas,hugo.padilla@hotmail.com,981 358 0408,"Av. México 6468, Residencial Los Álamos",Campeche,Campeche,24091 ,Muebles Riviera,11/22/2022,05-sep-2024,CRM
+C-010012, Mariana ,Vargas Campos,-,0449513822730,"Calle Morelos 6467, Col. Condesa",Oaxaca,OAX,68046, Bimbo ,15-05-2021,2023-08-13,SFDC
+C-010013,Isabel,Vega Gómez,ivega@distribuidoranor.com.mx,+527442389419,"Calle Hidalgo 697, Col. Guerrero",Acapulco,Gro.,39912,Distribuidora Norteña,2026-06-01,2026-10-24,CRM
+C-010014,CRISTINA,ROMERO VEGA,CRISTINA.ROMERO@TECNOLOGIASSIERR.COM.MX,981-165-9519,"Calz. de Tlalpan 2600, Col. Del Valle",Campeche,CAMP,24067,Tecnologías Sierra Azul,04-06-2021,2021/08/19,CRM
+C-010015,Cristina,Franco Cervantes,cristinafranco@distribuidoranor.com.mx,0446143452790,"Cerrada Las Flores 7669, Col. Polanco",Chihuahua,CHIH,31452,Distribuidora Norteña,2026/04/02,2026-08-16,CRM
+C-010016,Margarita,Campos Vargas,margarita.campos@comercialdelvall.com.mx,+524446483755,"Av. Reforma 448, Col. Centro",San Luis Potosí,San Luis Potosi,78002,comercial del valle,2026-06-15,08/10/2026,CRM
+C-010017,Ignacio,Carrillo Mendoza,ignacio_carrillo@tvazteca.com.mx,0446863492446,"aV. peDREGal 4054, cOL. INduStrial",Mexicali,B.C.,21328, TV AZTECA S.A.B. DE C.V. ,2022-12-09,2025/06/14,SFDC
+C-010018,Javier,Cruz Díaz,javier_cruz@seguroslomaalta.com,NA,"CAMINO REAL 909, COL. OBRERA",León,GTO,37113 ,Seguros Loma Alta,02/25/2023,2023-04-19,crm
+C-10019,Valeria,Muñoz Vargas,valeria_munoz@energiasolardeld.mx,0445515338594,"Andador San Pedro 340, Col. Condesa",Ciudad de México,DF,06417,Energía Solar del Desierto,24-12-2022,01/27/2026,CRM
+C-010020,Ángel,Trejo Torres,angel.trejo@inmobiliariacerr.mx,(722) 932-6658,"Av. Pedregal 6113, Col. Anzures ",Toluca,Estado de Mexico,50118,Inmobiliaria Cerro Grande,21/04/2025,06/07/2026,CRM
+C-010021,Rosario,Muñoz Miranda,rosario.munoz@hotmail.com,+528144481437,"Calle 5 de Mayo 9820, Col. Jardines del Sur",Monterrey,N.L,64081,Inmobiliaria Cerro Grande,2026-01-20,07/21/2026,CRM
+C-010022,Rafael,Gutiérrez Flores,rgutierrez@outlook.com,+526181218765," Av. López Mateos 1675, Residencial Los Álamos",Durango,dGo ,34245 ,Fundición Santa Rosa,02/11/2024,2026-06-13,CRM
+C-010023,Ricardo,juÁreZ Gallegos,ricardo56.juarez@correo.com.mx,(222) 812-0941,"Calle Morelos 9633, Col. Narvarte",Puebla ,PUE,72523,Aceites y Grasas del Golfo,22/04/2023,20231227,CRM
+C-010024,Ana,Miranda Juárez,ana.miranda@hotmail.com,492 903 0136,"Calle Juárez 7737, Col. San Rafael",Zacatecas,ZACATECAS,98070,Aceites y Grasas del Golfo,2023-12-30,07/05/2025,CRM
+C-010025,Cristina,Contreras Bautista,cristina17.contreras@telcel.mx,686 494 4458,"Av. Tecnológico 2597, Col. Merced",Mexicali,b.c.,21283,Radiomovil Dipsa S.A. De C.V.,29/09/2024,12-06-2026,crm
+C-010026,PATRICIA,Tapia Vargas,patricia.tapia@serviciosindustr.com.mx,+52 1 477 163 4940,"Av. Revolución 1256, Col. Anzures",León,gto,37065 ,Servicios Industriales Tepic,20/10/2021,08/09/2026,CRM
+C-010027,GuaDAlUpE,Juárez  Vázquez,guadalupe.juarez@palaciodehierro.com,+527448485809,"Av. Tecnológico 7059, Col. Guerrero",Acapulco,Guerrero,NA,Palacio de Hierro,15/07/2025,2025-11-11,crm
+C-010028,Julio,Delgado,juliodelgado@cultivoshidropon.mx,993-393-0579,"Av. Madero 282, Col. San Rafael",Villahermosa,Tab.,86049,CULTIVOS HIDROPONICOS ANDA S. DE R.L. DE C.V.,09/07/2026,07/23/2026,SFDC
+C-010029,Soledad,Mejía Ramírez,,NA,"Av. Las Palmas 9373, Col. Condesa",Monterrey,NL ,64070,Oxxo,2025-03-14,30/06/2025,CRM 
+C-010030,Claudia,Arias Vázquez,claudia9.arias@empresa.mx,+52 1 492 850 5556,"Av. San Jerónimo 5787, Col. Condesa",Zacatecas,Zacatecas,98068,Transportes del Pacífico,,20261007,CRM
+C-010031,Renata,Sandoval Martínez,renata.sandoval@outlook.com,999-586-5217,"Calle Morelos 5163, Fracc. Lomas Verdes",Mérida,Yucatán,97362,Uniformes Industriales Lobo,2024-05-02,2026-04-18,CRM
+C-010032,alberto,Romero Peña,alberto42.romero@femsa.mx,52-33-8572-5516,"Calle Hidalgo 9541, Col. Narvarte",Guadalajara,Jal,44651,Femsa,06-09-2022,2023-12-12,CRM
+C-010033,Rosario,Bautista Miranda,rosario.bautista@yahoo.com.mx,6188253963,"Blvd. Manuel Ávila Camacho 3997, Col. San Rafael",Durango,Durango,34019,-,27-10-2024,20/02/2026,CRM
+C-010034,Isabel, juáRez vARGaS,ijuarez@outlook.com,045 833 225 5015,"Calle Allende 2750, Fracc. El Pedregal",Tampico,Tamps.,89199,Seguros Loma Alta,05-10-2022,29/09/2023,CRM
+CRM-10035,Diego,Trejo Molina,diego_trejo@bimbo.com.mx,4424816147,"Av. Madero 3352, Col. Guerrero",Querétaro,Querétaro,76130,Bimbo,2021-04-07,2024-09-27,CRM
+C-010036,Camila,Campos Márquez,Camilacampos@AGROPECUARIALASP.COM,+52 667 491 2982,"ANDADOR SAN PEDRO 587, FRACC. EL PEDREGAL",Culiacán,SIN,80386, aGrOpecUaria lAS palmAS ,2024-04-25,2026-05-07,CRM
+C-010037,Alberto,NA,alberto64.velazquez@fundicionsantaro..com.mx,+529810240146,NA,Campeche,Campeche,24078,fundición santa rosa,2025-07-24,2025-10-01,CRM
+C-010038,Cristina,Silva Benítez,cristinasilva@seguroslomaalta.com,618 540 6787,"Av. Revolución 6655, Fracc. Las Américas",Durango,Durango,34136,Seguros Loma Alta,2022/06/30,2025-10-09,CRM
+C-010039,Pablo, Lara Mendoza,pablo_lara@live.com.mx,52-33-5396-3456,"Cerrada Las Flores 3009, Col. Condesa",Guadalajara ,JAL,44621,Hoteles Brisa Maya,2022-08-17,2021-01-05,CRM
+C-010040,Rafael,Castillo Bautista,rafael.castillo@yahoo.com.mx,981 574 0142,"CALLE HIDALGO 1380, FRACC. LOMAS VERDES",Campeche,Campeche,24087,UNIFORMES INDUSTRIALES LOBO S.A. DE C.V.,2024-03-02,04/08/2024,SFDC
+C-010041,Concepción,juárez campos,concepcion33.juarez@icloud.com ,52-33-1890-8265,"av. CENtral 9655, Col. dOctorES",Guadalajara,Jal.,44155,Escuela Técnica Horizonte,2024-06-15,02/02/2022,Salesforce
+C-010042,emilio,Robles Miranda,emilio99.robles@empresa.mx,NA,"Av. Colón 5438, Col. Merced",Mexicali,BC,21211,uniforMEs iNDuStrialEs lobO,2025-08-07,2026-06-26,CRM
+C-010043,ÁLVArO,Calderón Robles,alvaro.calderon@imprentaoroverde.com.mx,+52 1 442 390 3407,"Av. División del Norte 9243, Col. Polanco",Querétaro,Queretaro,76184,IMPRENTA ORO VERDE S.A. DE C.V.,2024-01-23,2025-06-24,Salesforce
+C-010044,Óscar,Trejo Rosales,otrejo@empresa.mx,,"Av. Madero 8500, Col. Del Valle",Qro,Qro.,76122,Carpintería Río Blanco,2025-02-11,NULL,CRM
+C-010045,María,Cárdenas Campos,maria.cardenas@tvazteca.com.mx,+529612830676," Av. Madero 2877, Col. Jardines del Sur ",Tuxtla Gutierrez,Chiapas,29143,Tv Azteca S.A.B. De C.V.,20231227,2025-06-30,CRM
+C-010046, Manuel ,Benítez Solís,manuel.benitez@femsa.com,+52 492 853 1887,"Av.  Las Palmas 5861, Col. Jardines del Sur",Zacatecas,Zac.,98058,Femsa,05/01/2023,01/25/2025,CRM
+C-010047,martín,Herrera Muñoz,martin77.herrera@logisticadelbaji.mx,8100588141,"Cerrada Las Flores 6127, Col. Jardines del Sur",Monterrey,Nuevo León,64541,logística del bajío,26/09/2024,13-09-2025,CRM
+C-10048,Sebastián,Salinas Paredes,sebastiansalinas@outlook.com,951 793 9782,"Av. México 7253, Col. Guerrero",Oaxaca,OAX,68102,Seguros Loma Alta,2022-07-03,2025-09-12,CRM
+C-010049,saúl,Villanueva Acosta,saul9.villanueva@mueblesriviera.com,7714904786,"Av. Constitución 9689, Fracc. El Pedregal",Pachuca, Hidalgo ,42054,Muebles Riviera ,2022-11-01,19-09-2026,CRM
+C-010050,Rodrigo,Núñez Velázquez,rodrigo.nunez@editorabrujula.com.mx,045 444 567 3347,"Calle Allende 6009, Fracc. Las Américas",sAN LuIs potOSI,S.L.P.,78182,Editora Brújula,2025-03-04,2025-10-23,CRM
+C-010051,Hugo,Cervantes Medina,hugocervantes@correo.com.mx,,"Av. Insurgentes Sur 6199, Col. Narvarte",Toluca,Edo. de Méx.,50234,Panadería San Martín,2023-03-02,09/02/2024,CRM
+C-010052,Mónica,Ramírez Solís,monicaramirez@proton.me,+52 81 6517 4529,"Camino Real 2407, Col. Roma Norte",Monterrey,N.L.,64622,HOTELES BRISA MAYA S.A. DE C.V.,2024/03/04,2024-10-05,SFDC
+C-010053,Alicia,Medina Flores,alicia.medina@live.com.mx,2225642258,"Calle Independencia 8162, Col. Obrera",Puebla,Puebla,72198,Cafeterías La Estación,NA,2024-07-01,CRM
+C-010054,Fabiola,Pérez,fabiola.perez@fundicionsantaro..com,NA,"Av. Insurgentes Sur 3234, Col. Merced",Zacatecas, ZAC,98088,FUNDICION SANTA ROSA S.A. DE C.V.,2024-01-19,20250930,CRM_MX
+C-010055,Ximena,morales  gutiérrez,ximena.morales@mueblesriviera.com.mx,444 847 5000,"Cerrada Las Flores 7377, Col. Polanco",San Luis Potosí,S.L.P.,78058 ,Muebles Riviera,2025-06-08,11-03-2026,SFDC
+C-010056,martha,Molina Gutiérrez,marthamolina@outlook.com,229 032 9156,"Calle Independencia 4980, Fracc. Las Américas",Veracruz,Veracruz,91982 ,Alsea,13-01-2023,2023-11-20,CRM
+C-010057,margarita,Vargas Zamora,margarita.vargas@.com,492-794-1969,NULL,ZACATECAS,ZACATECAS,98078 ,Papelería y Oficina Atlas,2022-06-27,23-12-2022,CRM
+C-010058,Silvia ,Mejía Juárez,silvia.mejia@hotelesbrisamaya.mx ,n/a,"camino real 4075, fracc. el pedregal",Oaxaca,Oax.,68194,HOTELES BRISA MAYA S.A. DE C.V.,2023-04-09,01-04-2026,CRM
+C-010059,Luis,Padilla Rojas,lpadilla@tvazteca.com,0444777192846,"Calz. Ignacio Zaragoza 1401, Col. Doctores",León ,Gto,37349,Tv azteCa,2026-08-02,2026-08-25,SFDC
+C-010060,Armando,Orozco Márquez,armando69.orozco@agropecuarialasp.com,0052 771 677 2603,"Av. Madero 6891, Col. Jardines del Sur",Pachuca,Hidalgo,42067 ,Agropecuaria Las Palmas,2026-05-12,07-01-2023,CRM
+C-010061,Daniela,Peña Bautista,daniela_pena@comercialdelvall.com,52-442-962-6870,"Calle 5 de Mayo 4290, Col. Roma Norte", Querétaro,Qro.,NA,Comercial del Valle,2023-05-18,2024-06-10,CRM
+C-010062,Valeria,Carrillo Acosta,valeria.carrillo@correo.com.mx,9519875438,"Av. Central 8174, Col. Doctores",Oaxaca, Oaxaca,68048 ,N/A,21-03-2026,08/04/2026,CRM 
+C-010063,Natalia,Santiago Rangel,natalia_santiago@banorte.com ,0052 993 528 0538,"Calz. Ignacio Zaragoza 1077, Fracc. El Pedregal",Villahermosa,Tab.,86016,Banorte,03/09/2021,10/11/2028,CRM
+C-010064,Iván,Cervantes Ibarra,icervantes@proton.me,222-721-1682,"Privada Los Pinos 9706, Col. Narvarte",Puebla,Pue.,72021,Consultoria Montes Blancos S.C.,20251112,2026-07-16,CRM 
+CRM-10065, Sergio,Muñoz Salazar,sergio41.munoz@tecnologiassierr.mx,N/A,"Calle 5 de Mayo 6084, Col. Centro",Cuernavaca,Morelos,62025,TECNOLOGIAS  SIERRA AZUL S.A. DE C.V.,2025-04-01,2026-08-26,CRM
+C-010066,Isabel,Paredes Robles,iparedes@outlook.com,6623385868,"Andador San Pedro 5741, Col. Santa María",Hermosillo,SON,83099 ,Sistemas Águila Digital,2024/01/29,20251218,CRM
+C-010067,Paola,Trejo Miranda,ptrejo@empresa.mx,+52 492 573 8948,"Calle Zaragoza 6463, Fracc. Lomas Verdes",Zacatecas,Zac.,98091,Elektra,05/16/2022,03/07/2023,CRM
+C-010068,Natalia,Salazar Rodríguez,natalia_salazar@plasticosdelpedr.com.mx,0052 81 9328 8999,"Andador San Pedro 6197, Col. Moderna",Monterrey,Nuevo Leon,64522,Plásticos del Pedregal,26-01-2023,01/10/2023,CRM 
+C-010069,Manuel,Cruz Tapia,manuelcruz@fundicionsantaro.com.mx,0446860018538,"Calle Zaragoza 3923, Col. Condesa",Mexicali,BC,21306,fUNDICión Santa rosA,2024-10-21,13/07/2026,CRM
+C010070,Javier,Domínguez Salinas,jdominguez@cemex.com,+523335180992,"Blvd. Manuel Ávila Camacho 8047, Col. Anzures",Guadalajara,Jal,44479,Cemex,2024-05-15,08/01/2024,CRM_MX
+C-010071,Rosa,Ríos Guerrero,rosa_rios@joyeriaestrellad.com.mx,045 222 391 4025,"Calz. Ignacio Zaragoza 8302, Col. Jardines del Sur",Puebla,PUE,72294,Joyería Estrella del Sur,2023/07/20,2024-02-21,CRM
+010072,Itzel,Arias Ramírez,itzel_arias@consultoriamonte.mx,+52 81 8073 8676,"Av. Reforma 6155, Col. Narvarte",monterrey,N.L.,64200,CONSULTORIA MONTES BLANCOS S.C.,08-03-2023,10/03/2023,CRM
+C-010073,Verónica,Soto Torres,vsoto@empresa.mx,+52 55 0795 7062,"Av. López Mateos 5660, Col. Merced",Ciudad de México ,Cd. de México,01022,Hoteles Brisa Maya,04/06/2026,06/07/2026,CRM
+C-010074,Jorge,VÁzqueZ MIrAndA,jorgevazquez@clinicasantaceci.com,,"Av. Reforma 532, Col. Jardines del Sur",Querétaro,Queretaro,76195,Clínica Santa Cecilia,2022-04-18,12/08/2023,CRM
+C-010075,Renata,Navarro Miranda,rnavarro@hotmail.com,55 3792 4404,-,Ciudad de México,Ciudad de Mexico,04317,Laboratorios Nube Gris,2025-02-03,31-12-2025,CRM
+C-010076,Liliana,Silva Cruz,lilianasilvalacteoslapradera.com.mx,+52 999 620 3593," Blvd. Solidaridad 5844, Col. Obrera ",Merida,YUC,97011,LACTEOS LA PRADERA S.P.R. DE R.L. DE C.V.,2024-04-24,2026-04-05,crm
+C-010077,Claudia,Barrera Aguilar,claudia_barrera@correo.com.mx,0052 777 765 6307,"Av. Insurgentes Sur 924, Fracc. El Pedregal",Cuernavaca,MOR,62308,Televisa,10/06/2023,02/08/2023,CRM
+C-010078,Javier,Vargas Ramos,N/A,0447719882491,"Calle Hidalgo 3190, Col. Merced ",pachuca,Hgo.,42073,EL PALACIO DE HIERRO S.A. DE C.V.,2026-08-19,2026-10-12,CRM
+C-010079,Julio,Rosales Díaz,jrosales@mueblesriviera.com.mx,52-951-357-7133," Calz. de Tlalpan 9753, Col. Merced ",Oaxaca,OAX.,68105,Muebles Riviera,15/05/2021,01/10/2023,CRM
+C-010080,Emilio,Ruiz Ríos,N/A,+52 1 998 953 3283,"Av. Tecnológico 7202, Col. Merced", Canún ,Qr,77509,LACTEOS LA PRADERA S.P.R. DE R.L. DE C.V.,06-12-2023,2026-09-18,CRM
+C-010081,Fernanda,Beltrán Estrada,fernanda_beltran@hotmail.com,0052 844 609 9318,"Calz. Ignacio Zaragoza 1915, Col. Roma Norte",Saltillo,Coah.,CP 25099,Energía Solar del Desierto,27/02/2022,08/16/2026,CRM
+CRM-10082,Juan,Barrera Gutiérrez,juan.barrera@bimbo.com,52-744-245-7787,"Av. División del Norte 7005, Col. Santa María",Acapulco,Guerrero,39774,NA,19/08/2022,07/16/2025,CRM
+010083,Xmiena,Cortés Mejía,ximena_cortes@serviciosindustr.com,+52 222 117 9414,"AV. LÓPEZ MATEOS 6780, COL. GUERRERO",puebla,PUE.,72073,SERVICIOS INDUSTRIALES TEPIC S.A. DE C.V.,06/26/2026,07/03/2026,SFDC
+C-010084,Camila,Delgado Acosta,camila.delgado@empresa.mx,-,"Av. San Jerónimo 6607, Residencial Los Álamos",Cuernavaca,Mor.,,Cultivos Hidropónicos Anda,2024-06-29,23/05/2025,CRM
+C-010085,beatrIZ,Aguilar  Cortes,beatriz_aguilar@tecnologiassierr.com.mx,(444) 511-8486,"Av. Central 4261, Col. Jardines del Sur",San  Luis Potosi,San Luis Potosí,78226, Tecnologías Sierra Azul ,20211224,12/04/2023,CRM 
+C-010086,Pedro,Soto Jiménez,,0446182521027,,Durango,DGO ,3408,Chedraui,14/11/2024,2025-08-18,CRM
+C-010087,Andrea,RanGEl MEndOzA,N/A,+52 449 221 2391,"Calle Juárez 7880, Col. Roma Norte",Aguascalientes,Aguascalientes,20254,plásticos del pedregal,31-07-2023,2024-01-17,CRM
+C-010088,Alberto,Ríos Ortega,arios@correo.com.mx,(442) 214-7899,"calle zaragoza 9137, col. santa maría",QUERETARO,Queretaro,76231, Joyería Estrella del Sur,2026-01-27,07/09/2026,crm
+C-010089,vERÓnICa,Padilla Carrillo,veronica81.padilla@hotmail.com,444-923-3447,"Calle 5 de Mayo 1617, Col. Anzures",San Luis Potosí,SLP,CP 78226,Distribuidora Nortena S.A. De C.V.,06-01-2026,2026-08-01,CRM
+C-010090,Hugo,Franco Vázquez,hugo.franco@yahoo.com.mx,52-771-202-2574,"Calle Juárez 4875, Col. Anzures",Pachuca,hgo.,42084 ,Papelería y Oficina Atlas,2022/11/04,06/07/2026,CRM
+C-010091,Felipe,Espinoza Rodríguez,felipe43.espinoza@pescadosymarisco.com.mx,+52 1 998 990 8200,"Calle 16 de Septiembre 9794, Residencial Los Álamos",Canún,QR,77513,PESCADOS Y MARISCOS LA COSTA S.A. DE C.V.,2024-11-12,2026-10-22,CRM
+C-010092,Esteban,Valdez Romero,esteban76.valdez@americamovil.com.mx,0443356485075,"Av. Constitución 1212, Col. Condesa",Guadalajara,Jal,44985 ,AMERICA MOVIL S.A.B. DE C.V.,20-05-2026,08/27/2022,CRM_MX
+C-010001,Jimena,Juárez Orozco,jimena_juarez@icloud.com,9930840697,"Calz. de Tlalpan 3076, Col. Santa María",Villahermosa,Tabasco,86104,Clínica Santa Cecilia,2025-02-09,2026-08-31,CRM
+C-010094,Martín, Valdez Robles,martin_valdez@icloud.com,4927260910,"Av. Reforma 1184, Col. Condesa",zacatecas,Zac.,98053,Logística del Bajío,30/04/2023,20251201,CRM
+C-010095,Elena,Castro Miranda,elena_castro@aeromexico.con,+52 744 788 2868,"Av. Central 7771, Col. Polanco",Acapulco,GRO ,39858, AEROMÉXICO,2025-05-16,2025-09-15,CRM_MX
+C-010096,Ernesto,AriAs cárdenAs,N/A,045 449 366 8607,"Andador San Pedro 1817, Col. Doctores",Aguascalientes,Aguascalientes,NULL,Cemex S.A.B. De C.V.,20260607,22/04/2023,CRM
+C-010097,Guillermo,Arias Gómez,garias@tvazteca.com.mx,6188916688,"Camino Real 5017, Col. Centro",Durango,Durango,34149,TV Azteca,2023-10-10,2024-10-04,CRM
+C-010098,Elena,Navarro Pérez,elena.navarro@proton.me,492 286 1271,"Av. Constitución 4901, Col. Santa María",Zacatecas ,Zacatecas,98041,Panadería San Martín,2023-12-16,01-01-2025,CRM
+C-010099,Ricardo,Quintero Robles,ricardo.quintero@proton.me,+526148921487,"Av. División del Norte 6542, Col. Roma Norte",Chihuahua,Chih.,31359,Alimentos La Hacienda,27-jun-2024,20/03/2026,CRM
+C-010100,Joaquín,Villanueva Gallegos,joaquin.villanueva@bimbo.com.mx,(33) 6097-3829,"Blvd. Solidaridad 3629, Fracc. Las Américas",Guadalajara,Jal,44461,Bimbo,2022-07-11,-,CRM
+C-010101,Andrea,Cruz López,andrea_cruz@alimentoslahacie.com,,"calle independencia 8322, fracc. el pedregal",Cancún,QR,77508,ALIMENTOS LA HACIENDA S.P.R. DE R.L. DE C.V.,01/04/2021,14-05-2024,CRM
+C-010102,N/A,Ibarra Sandoval,elenaibarra@farmaciasdelcent.mx,,"Calle Morelos 335, Fracc. Las Américas",Culiacán,Sinaloa,80170 ,Farmacias del Centro,2025-04-04,20250709,CRM
+CRM-10103,Ignacio,Lara Salinas,ignaciolara@live.com.mx,,"Cerrada  Las Flores 250, Col. San Rafael",Veracruz,Ver.,91753,LAbORatOrios nubE GRis,2022-03-23,16/09/2022,CRM
+C-010104,José,Guerrero Chávez,jguerrero@hotelesbrisamaya.com.mx,52-33-8243-2032,"Calle 5 de Mayo 6393, Fracc. Lomas Verdes",Guadalajara,Jal.,-,Hoteles Brisa Maya,2025-03-09,28-10-2026,Salesforce
+C-010105,Camila,Trejo Ibarra,ctrejo@telcel.com,045 951 613 3053," Av. México 5843, Col. Merced",oaxAcA,OAX,6804,Telcel,2025-07-11,2025/11/13,CRM
+C-010106,Fernanda,Beltrán Soto,fernanda.beltran@.com,0446144577210,"Av. Reforma 1012, Col. Industrial",Chihuahua,CHIH,31459,Taller Mecánico Los Pinos,2025-07-02,2026-06-13,CRM
+C-010107,fernanda,Aguilar Castillo,faguilar@outlook.com,(722) 350-8663,"aV.  cONStITUcIóN 6602, col. roma NortE",Toluca,Edo. de Méx.,50232,Plasticos Del Pedregal S.A. De C.V.,2021-04-23,29/12/2023,crm
+C-10108,Elena,Navarro Pérez,elena.navarro@proton.me,4922861271,"Av. Constitución 4901, Col. Santa María",Zacatecas,Zacatecas,98041,Panadería San Martín,2023-12-16,2025-01-01,CRM
+C-010109,Julio,Vázquez Mendoza,jvazquez@televisa.com,664 026 9895,"av. méxico 2403, col. anzures",Tijuana,Baja California,22370,GRUPO TELEVISA S.A.B. ,03/09/2025,,CRM
+C-010110,Margarita,Campos Vargas,margarita.campos@comercialdelvall.com.mx,4446483755,"Av. Reforma 448, Col. Centro",San Luis Potosí,San Luis Potosí,78002,Comercial del Valle,2026-06-15,2026-08-10,CRM
+C-010111,Iván,Chávez Robles,ivan.chavez@empresa.mx,52-951-341-8454,"Av. Las Palmas 7169, Col. Obrera",Oaxaca,Oax.,68066,Imprenta Oro Verde,20220212,03/09/2024,CRM
+C-010112,Pilar,Vázquez Cortés,pilarvazquez@telcel.mx,,"Av. Insurgentes Sur 9207, Residencial Los Álamos",México,Cd. de México,10772,Telcel,08-01-2023,07/16/2023,CRM
+C-010113,Yesenia ,Torres Navarro,yeseniatorres@seguroslomaalta.com,0052 951 896 8807,"Camino Real 6950, Col. Polanco",Oaxaca,Oaxaca,68058, Seguros Loma Alta S.A. De C.V.,2024-07-17,2024-08-11,CRM
+C-010114,Lorena,ávila ríos,Lorena.avila@SEGUROSLOMAALTA.COM,52-961-995-7110,"Blvd. Manuel Ávila Camacho 2147, Col. San Rafael",Tuxtla Gutiérrez,Chis.,29051 ,Seguros Loma Alta,05/04/2026,05/06/2026,CRM
+C-010115,isabel,Ruiz Cabrera,isabelruiz@distribuidoranor.mx,+52 1 614 877 1695,"Calz. de Tlalpan 8414, Col. Industrial",Chihuahua,Chih.,31259,Distribuidora Norteña,22-feb-2023,07-08-2024,CRM
+C-010116,Alicia,Guerrero Soto,aliciaguerrero@proton.me,7713230661,"Av. División del Norte 6047, Col. Condesa",Pachuca,HGO,42099 ,Farmacias del Centro,11/01/2025,,CRM
+C-010117,César,Soto García,csoto@papeleriayoficin.mx,6679909890,"Av. Colón 8872, Col. Jardines del Sur",Culiacán,Sinaloa,80237,Papelería y Oficina Atlas,2026-06-26,2026-08-13,CRM
+C-010118,Ángel, Vargas Cárdenas ,avargas@papeleriayoficin.com,312 014 3415,"Av. Central 4935, Col. Del Valle",Colima,COL,28040,papelería y oficina atlas,20230715,14-05-2025,CRM
+C-010119,Daniela,Santiago Gallegos,DANIELA53.SANTIAGO@PROTON.ME,52-477-511-9778,"Calle Allende 1910, Col. Centro",León,Gto.,37029,Distribuidora Norteña,2022-07-30,09-ene-2026,CRM
+C-010120,Teresa,Santiago Salinas,teresasantiago@icloud.com,9935572747,"Privada Los Pinos 7567, Col. Industrial",Villahermosa,Tabasco,86122,Clínica Santa Cecilia,2022-12-29,2026-10-02,CRM
+C-010121,martín,Beltrán Santiago,martin_beltran@banorte.mx,312-758-2853," Av. López Mateos 6997, Col. Roma Norte ",Colima,Col,28066,Banorte ,15-12-2023,2024-08-30,CRM
+C-010122,Soledad,SANtIaGo mejÍA,soledadsantiago@editorabrujula.com.mx,998 066 1032,"Av. Colón 5335, Col. Industrial",Canún,QROO,77535,Editora Brújula,08/01/2026,10/22/2026,CRM
+C-010123,Cristina,Zamora Benítez,cristina.zamora@hotelesbrisamaya.mx,N/A,"Av. Colón 1424, Col. Moderna",Puebla,Pue.,72265,Hoteles Brisa Maya,21/02/2023,03/11/2024,CRM
+C-010124,Ricardo,Beltrán Acosta,ricardo.beltran@palaciodehierro.mx,(771) 666-7784,"Av. Las Palmas 5889, Fracc. Lomas Verdes",Pachuca,Hidalgo,42121,Palacio De Hierro,2025-02-22,22-06-2026,CRM_MX
+C-010125,Mariana,Vargas Campos,,+52 951 382 2730,"Calle Morelos 6467, Col. Condesa ",Oaxaca,Oax.,68046,GRUPO BIMBO S.A.B. DE C.V.,05/15/2021,13/08/2023,CRM
+010126,Beatriz,Delgado Gómez,bdelgado@pescadosymarisco.com.mx,3123067446,"Cerrada Las Flores 3473, Col. Merced",Colima,Colima,28056,Pescados y Mariscos La Costa,2024-12-03,2025-11-18,CRM
+C-010127,Adriana,Rodríguez Vázquez, adriana_rodriguez@comercialdelvall.com,(444) 161-3336,"CALLE HIDALGO 6334, COL. SANTA MARÍA",San  Luis Potosí,San Luis Potosi,78234,COMERCIAL DEL VALLE S.A. DE C.V.,21-09-2022,07-mar-2023,crm
+C-010128,Gerardo ,Franco Moreno,GERARDO.FRANCO@CORREO.COM.MX,(443) 716-1023,"Av. Madero 3552, Col. Industrial",Morelia,Mich.,58234 ,Carpintería Río Blanco,02/07/2026,31-08-2026,CRM
+C-010129,Julio,Santiago Lara,juliosantiago@soriana.mx,045 686 705 2323,"CALLE INDEPENDENCIA 9985, COL. MODERNA",Mexicali,Baja California,21224,Soriana,06/02/2024,10/02/2026,CRM
+C-010130,Álvaro,García Navarro,alvarogarcia@pescadosymarisco.com,045 449 597 9005,"Calle Juárez 1081, Col. Industrial",Aguascalientes,Ags.,2036,Pescados y Mariscos La Costa,11/22/2022,2025-05-09,CRM
+C-010131,Adriana,Molina Acosta,amolina@alsea.com,0052 777 482 6279,"Av. Constitución 3753, Col. Moderna",Cuernavaca,MOR,62369,NA,08/03/2024,2024-03-12,CRM
+C-010132,Verónica,Tapia Solís,veronica.tapia@empresa.mx,045 81 9947 4638,"Calz. Ignacio Zaragoza 5983, Fracc. Lomas Verdes", MONTERREY ,Nuevo Leon,64822,AGROPECUARIA LAS PALMAS S. DE R.L. DE C.V.,05/20/2022,17-03-2025,CRM
+C-010133,Lorena ,ramírez orozco,lorenaramirez@televisa.com,0052 998 726 4762,"Av. Madero 7484, Col. Industrial",Canún,Q. Roo,77500,Televisa,2023/04/03,2022-10-18,crm
+C-010134,Dolores,Acosta Cárdenas,dolores74.acosta@textilespueblano.com,52-81-4765-7148,n/a,MTY ,Nuevo Leon ,64353,Textiles Puebla Nova,2024-04-20,08-07-2026,CRM
+C-010135,RafAeL ,Peña Solís,rafael36.pena@cafeteriaslaesta.mx,-," Calz. Ignacio Zaragoza 7178, Col. Jardines del Sur ",Acapulco,Guerrero,39751,Cafeterías La Estación,2022-08-28,20250510,CRM
+C-010136,LUcIa ,Rojas Acosta,LUCIA_ROJAS@CULTIVOSHIDROPON.COM.MX,NULL,"CALLE JUÁREZ 2613, COL. SANTA MARÍA",CANCÚN,QROO,77502,cultivos hidropónicos anda ,23/09/2025,2026-03-20,CRM_MX
+C-010137,Felipe,Tapia Padilla,ftapia@mueblesriviera.com.mx,NA,"Blvd. Manuel Ávila Camacho 9019, Residencial Los Álamos",CANCÚN,Q.R.,77526,Muebles Riviera,2024-12-07,2025-10-05,CRM
+CRM-10138,Fernando,Calderón León,fernando49.calderon@live.com.mx,+526673277639,"Blvd.  Solidaridad 6002, Col. Narvarte",Culiacán,SIN,80362 ,Muebles Riviera,23-jun-2023,20240210,CRM
+C-010139, Ramón ,Espinoza Gallegos,ramon74.espinoza@outlok.com,045 33 8970 6907,"Calle Juárez 349, Col. Doctores",Guadalajara,Jal.,44991 ,BANORTE,07/02/2021,2026-08-08,CRM
+C-010140,,Rojas Medina,veronica_rojas@pescadosymarisco.com.mx,0443328799814,"Av.  Insurgentes Sur 4318, Col. Anzures",Guadalajara, JAL,44884,Pescados y Mariscos La Costa,2024-02-15,15/13/2025,CRM
+C-010141,Arturo, Sánchez Vázquez,ARTUROSANCHEZ@EMPRESA.MX,0444924330235,"Av. San Jerónimo 3166, Col. Del Valle ",Zacatecas,ZAC,98096,Carpintería Río Blanco,2024-09-12,2023-05-19,CRM
+C-010142,Liliana,trEjO IbArrA,liliana.trejo@lacteoslapradera.com,52-492-705-2965,"Av. Universidad 6692, Residencial Los Álamos",Zacatecas ,ZAC,98089,Lácteos La Pradera,05/11/2023,25/02/2024,CRM
+C-010143,Manuel,Velázquez Rangel,manuel_velazquez@vidriosyaluminio..com,(229) 163-5614,"Camino Real 2389, Col. Del Valle",Veracruz,VER,91758,Vidrios y Aluminios del Norte,2025-05-02,15-12-2025,Salesforce
+C-010144,Karla,González Castro,KARLA.GONZALEZ@OUTLOOK.COM,3121839020," Av. Colón 8679, Col. Industrial",Colima,COL,28062,Panadería San Martín,04/24/2022,n/a,CRM
+C-010145,Fernanda,Sandoval Quintero,fernanda_sandoval@live.com.mx,52-686-915-7169,"Av. Pedregal 3196, Col. Merced",Mexicali,B.C.,21197,Lácteos La Pradera,20210529,2024-02-19,CRM
+C-010146,Saúl,León Ortega,saul.leon@banorte.mx,4778890544,"Av. Madero 3634, Col. Roma Norte",León,Guanajuato,37331 ,Banorte,25/04/2026,2026-06-06,CRM_MX
+C-010147,Camila,Campos Márquez,camilacampos@agropecuarialasp.com,6674912982,"Andador San Pedro 587, Fracc. El Pedregal",Culiacán,Sin.,80386,Agropecuaria Las Palmas,04/25/2024,2026-05-07,CRM
+C-010148,Julio,Rojas Beltrán,julio.rojas@grupomodelo.com.mx,0052 222 467 1430,"Calle Rayón 5536, Col. Doctores",Puebla,Pue.,72006 ,Grupo Modelo S. De R.L. De C.V.,27-07-2023,12/27/2023,CRM
+C-010149,Ignacio,ÁVILA HERNÁNDEZ,ignacio76.avila@live.com.mx,(844) 625-4709,"av. insurgentes sur 8167, col. doctores",Saltillo,COAH,25182,Sistemas Águila Digital,07/18/2024,2022-08-06,CRM
+C-010150,Manuel,Guerrero Ávila,n/a,229-399-1752,"Av. San Jerónimo 9706, Col. Polanco",Veracruz,Ver.,91740, Uniformes Industriales Lobo ,08/03/2022,2023/02/19,CRM
+C-010151,Fernanda,Aguilar Calderón,faguilar@empresa.mx,0052 477 789 9180,"Calle Juárez 6283, Col. Moderna",León,Guanajuato,37060,America Movil S.A.B. De C.V.,03/03/2021,2025-02-18,CRM
+C-010152,Alberto,Vega Ávila,alberto_vega@outlook.com,0052 664 563 2982,"Calz. de Tlalpan 4977, Col. Santa María",Tijuana,Baja California,22064,Textiles Puebla Nova,2023-11-24,03/07/2024,CRM
+C-010153,,Castillo Cabrera,eduardo21.castillo@agropecuarialasp.com,045 744 214 2660,"Calz. Ignacio Zaragoza 1189, Fracc. Lomas Verdes",Acapulco,Guerrero,39974,Agropecuaria Las Palmas,28/08/2022,2024-05-04,CRM_MX
+C010154,Vicente ,Silva Mejía,vicente39.silva@hotmail.com,045 833 152 8538,"Calle Allende 1895, Col. Narvarte",Tampico,TAMPS.,89316 ,Sistemas Águila Digital,2022-12-25,2026-08-06,CRM
+c-010155,Jorge,MIRANDA  CASTRO,jorge.miranda@soriana.com,+52 686 774 1464,"av. madero 5059, col. roma norte",Mexicali,Baja California ,21096,ORGANIZACION SORIANA S.A.B. DE C.V.,14-03-2023,2025-06-07,CRM
+C-010156,Valeria,Guerrero  Fuentes,vguerrero@oxxo.com.mx,+52 1 662 175 2370,"Av. San Jerónimo 7737, Col. Merced",Hermosillo,SON,83269,Oxxo,23-09-2023,06/08/2026,CRM
+C-010157,Javier,Rojas Orozco,javier.rojas@banorte.com,,"Calle Morelos 4461, Col. Centro",San Luis Potosí,S.L.P.,78320, Banorte,29-04-2026,09/23/2026,CRM
+C-010158,natalia, Ortiz Pérez ,natalia.ortiz@live.com.mx,7779362283,"Andador San Pedro 1602, Col. Del Valle",Cuernavaca,Morelos,62288,Cafeterias La Estacion S.A. De C.V.,22-08-2026,2026-10-03,CRM
+C-010159,ELENA,Sandoval Cortés,elena27.sandoval@panaderiasanmart.mx,0052 664 427 8434,"Av. Universidad 37, Fracc. Lomas Verdes",Tijuana,Baja Calif.,22101,Panadería  San Martín,2025-08-23,2025-11-10,CRM
+C-010160,Patricia,Soto Ríos,patricia_soto@cultivoshidropon.com,52-312-177-3592,"Av. Central 195, Fracc. Las Américas",Colima,col ,28007,N/A,19-ago-2022,2023-03-05,CRM
+C-010161, Carlos , Quintero Torres ,carlosquintero@vidriosyaluminio.mx,6640811331,"Calle Independencia 4384, Col. Narvarte",Tijuana,BC,22521, Vidrios Y Aluminios Del Norte,2023-00-10,2022-01-03,CRM
+C-010162,Yesenia,Moreno Cruz,yesenia.moreno@fundicionsantaro.com.mx,2223012690,"Av. Central 3793, Col. Del Valle",Puebla, Puebla ,72612,Fundición Santa Rosa,30-03-2022,2023-07-05,CRM_MX
+C-010163,paola,Ortega Cabrera,paolaortega@panaderiasanmart.com,52-444-452-6535,"AV. COLÓN 9161, COL. INDUSTRIAL", San Luis Potosí,SLP,78232,Panadería San Martín,04/02/2025,03/10/2026,CRM
+C-010164,Ximena ,Acosta  Castañeda,xacosta@lacteoslapradera.com,52-686-922-4973,"caLLe juárEZ 8497, cOl. iNDuSTriaL",mexiCali,B.C.,21380 ,Lácteos La Pradera,,2025-01-17,crm
+C-010165,Valeria,rosales,valeria.rosales@gmail.com,+52 1 961 376 8492,"Calle 16 de Septiembre 6955, Col. Obrera",Tuxtla Gutiérrez,Chiapas,29014 ,RADIOMOVIL DIPSA S.A. DE C.V.,2023-11-28,31/10/2025,CRM 
+C-010166,Verónica,Soto Torres,vsoto@empresa.mx,5507957062,"Av. López Mateos 5660, Col. Merced",Ciudad de México,Ciudad de México,01022,Hoteles Brisa Maya,2026-04-06,2026-07-06,CRM
+C-010167,SOLEDAD,Ríos Carrillo,srios@empresa.mx,0449933390991," Av. López Mateos 3412, Col. Guerrero",Villahermosa,Tab.,86132 ,TALLER MECANICO LOS PINOS S.A. DE C.V.,04/05/2026,11/05/2026,crm
+C-010168,Pedro,NA,pedro.herrera@plasticosdelpedr.com.mx,+529935844516,"Av. San Jerónimo 1889, Col. Jardines del Sur",Villahermosa,TAB,86149 ,PLASTICOS DEL PEDREGAL S.A. DE C.V.,27/07/2021,20210113,CRM
+C-010169,Martín,Cárdenas Valdez,martin.cardenas@icloud.com ,9612855239,"Cerrada  Las Flores 4503, Col. Condesa",Tuxtla Gutiérrez,CHIS,29093,Pescados y Mariscos La Costa,12/30/2023,2025-05-04,CRM
+C-010170,Ramón,Rodríguez Ramírez,NA,+52 1 999 431 7760," Camino Real 4377, Col. Condesa",Mérida,Yucatan,97208,Aeroméxico ,05/08/2022,20-03-2026,CRM
+C-010171,NULL,Lara Gallegos ,felipe.lara@tvazteca.mx,+52 1 222 839 9332,"Calle Zaragoza 1515, Col. Roma Norte",Puebla,PUE,72601,Tv Azteca S.A.B. De C.V.,,2023-04-29,CRM
+C-010172,Jimena,Benítez Cabrera,jimena.benitez@oxxo.com.mx,444 881 2947," Av. Colón 9287, Col. Roma Norte",San Luis Potosí,S.L.P.,78239,n/a,2026-07-13,2026-11-08,CRM
+C-010173,Mariana,Ibarra Tapia,mibarra@alimentoslahacie.com.mx,0446640409456," Calz. Ignacio Zaragoza 9573, Col. Industrial ",Tijuana,B.C.,22214,Alimentos La Hacienda,09/11/2021,04/24/2023,CRM
+C-010174,Iván,Domínguez Castro,ivan.dominguez@chedraui.com.mx,722 140 3303,"Av. México 6165, Col. Jardines Del Sur",Toluca,Estado de Mexico,50120,GRUPO COMERCIAL CHEDRAUI S.A.B. DE C.V.,13-ago-2025,20260311,crm
+C-010175,Julio,Delgado López,juliodelgado@cultivoshidropon.mx,+52 1 993 393 0579,"av. madero 282, col. san rafael",viLlAhErMOsA,Tabasco ,86049,Cultivos Hidroponicos Anda S. De R.L. De C.V.,09/07/2026,23/07/2026,CRM
+C-010176,manuel ,González Ramos,manuel.gonzalez@consultoriamonte.mx,52-81-3169-7059,"Calle Juárez 4530, Col. Roma Norte",Monterrey,Nuevo Leon,64624 ,Consultoría Montes Blancos,2025-11-28,2025-12-14,CRM
+C-010177,Arturo,García Domínguez,arturo36.garcia@fundicionsantaro.com,0052 686 243 0046,"cERrADA Las FLOres 5942, col. meRCed",Mexicali,B.C.,21299 ,Fundición Santa Rosa ,2025-08-18,2025-09-30,CRM
+C-010178,Beatriz,Delgado Gómez,bdelgadopescadosymarisco.com.mx,NULL,"Cerrada Las Flores 3473, Col. Merced",Colima,Col.,28056,Pescados  y Mariscos La Costa,03/12/2024,18/11/2025,CRM
+C-010179,Verónica,navarro rojas,n/a,0442299119375,"blvd. ManueL áVilA caMAcHo 1922, fRaCC. LAS aMÉrICas", VERACRUZ ,VERACRUZ,91809 ,Cafeterías La Estación,2024-03-03,27-oct-2025,CRM
+C-010180,Gabriela,Mejía Guerrero,gabriela12.mejia@outlook.com,+52 1 662 519 2721,"Av. Universidad 8855, Fracc. El Pedregal",Hermosillo,Son.,83122,Refacciones El Águila,2025-01-29,30-06-2025,CRM
+C-010181,Guillermo,Torres Aguilar,guillermotorres@live.com.mx,+52 662 878 6707,"Av. San Jerónimo 101, Col. San Rafael",Hermosillo,Son.,83338,IMPRENTA ORO VERDE S.A. DE C.V.,20250116,2026-02-10,CRM_MX
+C-010182,Esteban,Soto  Díaz, estebansoto@live.com.mx,(961) 551-2926,"Av. Las Palmas 2677, Col. Narvarte",Tuxtla Gutiérrez,CHIS,29182,América Móvil,18-09-2024,01-05-2026,CRM
+C-010183,Sergio,Gutiérrez Delgado,sergio.gutierrez@aceitesygrasasde.mx,(229) 786-4244,"Calle Juárez 547, Col. Anzures",Veracruz,Ver.,91810 ,Aceites y Grasas del Golfo,2022-08-06,2022/08/14,CRM
+C-010184,Patricia,Navarro Ramos,patricia.navarro@proton.me,6645518317,"Camino Real 4832, Col. Narvarte",Tijuana,Baja Calif.,22078,Coppel,2022-07-07,2026-04-27,CRM
+CRM-10185,Martín ,Robles Gutiérrez,martin.robles@proton.me,722-238-1017,"Av. División del Norte 4426, Col. Santa María",Toluca,Edo. de Méx.,N/A,Agencia Aduanal Bahia S.C.,26/05/2026,2026-08-21,CRM
+C-10186,Daniela,Rojas Moreno,drojas@correo.com.mx,9991793232,"Calz. Ignacio Zaragoza 3022, Col. Obrera",Mérida,Yucatán,97307,Aeroméxico,2026-02-03,2026-10-15,CRM
+C-010187,Daniela,rojas moreno,drojas@correo.com.mx,9991793232,,Merida, Yucatan ,97307,Aeroméxico,03/02/2026,20261015,CRM
+C-010188,PeDrO,Barrera Cárdenas,pedro51.barrera@proton.me,,"Calle Hidalgo 5407, Col. Jardines del Sur",Tuxtla Gutiérrez,CHIS,29193 ,N/A,2021/07/31,31/07/2025,CRM
+C-010189,Ximena,Vázquez García,ximena_vazquez@live.com.mx,662-668-1606,"Andador San Pedro 1887, Col. Narvarte",Hermosillo, SON ,83203 ,,2025-09-01,2026-10-04,CRM
+C-010190,Valeria,Bneítez  González,valeriabenitez@inmobiliariacerr.mx ,744 447 2887," bLvd. MANUeL ávila cAmacHo 6705, col. aNzURes",Acapulco,gro.,39379,INMOBILIARIA CERRO GRANDE S.A. DE C.V.,14/02/2024,2026/01/22,CRM 
+C-010191,Martha,García Moreno, martha6.garcia@telcel.com.mx,0447772739393,"Av. López Mateos 3518, Fracc. Las Américas",Cuernavaca,MOR,62449,Telcel,2026-02-18,2026-03-27,CRM
+C-010192,RegInA,Guerrero Reyes,regina_guerrero@yahoo.com.mx,(981) 170-7649,"Calle Rayón 7347, Col. Roma Norte",Campeche,Camp.,24002 ,Muebles Riviera,2022/09/16,14/08/2026,CRM
+C-010193,Enrique,Rodríguez Franco,enriquerodriguez@panaderiasanmart.com,0052 614 803 9076,"Av. Central 4783, Fracc. Las Américas",Chihuahua,CHIH,31411 ,Panadería San Martín,16-abr-2025,20250418,CRM 
+C-010194,Sergio,Torres Peña,sergio_torres@papeleriayoficin.com.mx,0449996300982,N/A, Mérida, Yucatán ,9719,Papelería y Oficina Atlas,2023-09-25,,CRM
+C-010195,Cristina,Contreras Pacheco,cristina64.contreras@icloud.com,+52 1 999 967 5751,"Av. sAn JeRÓnImo 7988, COl. san rafAeL",Mérida,YUC,97098,Boutique Luna de Plata,2025-01-24,2026-04-09,CRM
+C-010196,Javier,Rojas  Lara,javier93.rojas@panaderiasanmart.com.mx,045 443 948 8530,"Av. Reforma 4115, Col. Narvarte",Morelia,MICH,58170,PANADERIA  SAN MARTIN S.A. DE C.V.,04/21/2024,01/01/2026,crm
+C-010197,Felipe,Tapia Padilla,ftapia@mueblesriviera.com.mx,9984037164,"Blvd. Manuel Ávila Camacho 9019, Residencial Los Álamos",Cancún,Quintana Roo,77526,Muebles Riviera,2024-12-07,2025-10-05,CRM
+C-010198,Rodrigo,Lara Mendoza,rodrigo73.lara@tecnologiassierr.com.mx,0449618603569,"Calle Hidalgo 7521, Col. Anzures",Tuxtla,Chiapas,29180,tecnologías sierra azul,16/07/2026,08/10/2026,CRM
+C-010199,ISABEL ,Benítez Medina,isabelbenitez@mueblesriviera.com,+523306378609,"Av. México 592, Col. Centro",Guadalajara,JAL,44915,Muebles Riviera,2025-06-02,2025-06-05,CRM
+C-010200,Vicente,Lara Arias,vicentelara@construccionesde.mx,045 614 740 0967,"Av. México 8111, Col. Guerrero",Chihuahua,Chih.,CP 31053,Construcciones del Sureste,29/05/2022,2021-09-08,CRM
+C-010201,Mónica,Delgado Salazar,mdelgado@gmail.com,n/a,"Blvd. Manuel Ávila Camacho 8988, Col. Obrera",Mexicali,Baja California,NA,Aeroméxico,2022-01-04,20220401,CRM
+C-010202,Alicia,n/a,Alicia_robles@ICLOUD.COM,+52 722 679 7598,"Av. Insurgentes Sur 125, Col. Jardines del Sur",Toluca ,Méx.,50269 ,cafeterías la estación,2022-11-12,06/02/2024,CRM
+010203,Francisco,Reyes Rojas,freyes@agropecuarialasp.com,4439655655,"Calle Allende 5795, Col. Industrial",Morelia,Michoacán,58007,Agropecuaria Las Palmas,2023-03-23,2022-06-17,CRM
+C-010204,Elena,Ortiz Ramírez,ELENAORTIZ@GRUPOMODELO.COM,+52 1 662 571 4307,"Calle Independencia 2718, Col. San Rafael",Hermosillo, SONORA,83354,GRUPO MODELO S. DE R.L. DE C.V.,31/08/2023,30/09/2026,CRM 
+C-010205,Julio,Herrera Rojas,julio.herrera@correo.com.mx,0052 442 077 8808,"Blvd. Solidaridad 139, Fracc. Las Américas",Querétaro,Qro.,76112,Soriana,NA,2024-03-28,CRM
+C-010206,Enrique,Castro Valdez,enrique.castro@banorte.mx,52-81-2296-2855,"Andador San Pedro 8908, Col. Anzures",Monterrey,nueVo leÓN,64395,Banorte,08-02-2025,07/11/2025,CRM
+CRM-10207,Jimena,contreras domínguez,jimena.contreras@.com,+524496877150,"Calle Allende 8472, Col. Roma Norte",Aguascalientes,AGS,20006,Vidrios y Aluminios del Norte,14-05-2026,2026-07-02,CRM
+C-010208,César,Soto Reyes,cesar.soto@consultoriamonte.mx,(443) 594-7610,"Av. División del Norte 6273, Col. Condesa",Morelia,Mich.,58169,CONSULTORIA MONTES BLANCOS S.C.,2024-09-28,2026/09/21,CRM
+C-010209,César,Contreras Morales,cesar.contreras@panaderiasanmart.com,8136458934,"Av. Tecnológico 5808, Fracc. El Pedregal",Monterrey,Nuevo León,64961,Panadería San Martín,2021-08-06,2024-06-01,CRM
+C-010210,Enrique,Rosales Cervantes,enrique.rosales@correo.com.mx,9989392240,"Av. Constitución 5193, Col. Doctores",Cancún,Quintana Roo,77515,Liverpool,2026-03-24,2026-11-08,CRM
+C-010211,Luis,Rosales Medina,luis_rosales@herramientasdeli.com,52-618-512-7047,"Privada Los Pinos 6175, Col. Santa María",Durango,Durango,34281,Herramientas del Istmo,07-03-2022,N/A,CRM
+C-010212,Arturo,Navarro Jiménez,arturo_navarro@outlook.com,+52 312 078 9017,"AV.  CENTRAL 4646, COL. DEL VALLE",Colima,COLIMA,28010,Aceites y Grasas del Golfo,24-07-2021,2025-02-11,SFDC
+C-010213,GERARDO,pérez zamora,gerardoperez@serviciosindustr.mx,045 449 230 3758,"Av. Las Palmas 6210, Col. Obrera",Aguascalientes,AGS ,20063,Servicios Industriales Tepic,26/04/2021,2022-08-15,CRM
+C-010214,RodriGO,Gómez Cárdenas,rodrigo_gomez@hotmail.com,0052 443 998 5780,-,Morelia ,michoacan,58094,Fundición Santa Rosa,08-11-2022,2025-09-18,CRM
+C-010215,Francisco,Velázquez Peña,franciscovelazquez@gmail.com,3360381502,"privada  los pinos 6925, col. centro",GDL,Jalisco,44608,Fomento Economico Mexicano S.A.B. De C.V.,28/03/2023,25/04/2023,CRM
+C-010216,Juan,Núñez Salinas,juan.nunez@carpinteriariobl.com,777-339-7120,"Av. Tecnológico 4267, Col. Jardines del Sur",Cuernavaca,Morelos,62113, Carpintería Río Blanco,25-10-2025,2026-11-07,CRM
+C-010217,Gerardo,Padilla Gutiérrez,gerardo54.padilla@empresa.mx,0052 961 650 2039,"Av. Universidad 3279, Col. Obrera",Tuxtla Gutiérrez,Chiapas,29182,aLimeNtos la hacIENDA,2022-02-22,2025-02-09,CRM
+C-010218,Rosario,FLORES DELGADO,rosarioflores@carpinteriariobl.com,+52 993 430 3150,"Calle Rayón 660, Col. Narvarte",Villahermosa,Tabasco,8617,Carpintería Río Blanco,25-11-2021,22/09/2024,CRM
+C-010219,Isabel,Rosales Pacheco,irosales@outlook.com,3351782901,"Av. México 3727, Col. Guerrero",Guadalajara,Jalisco,44882,Uniformes Industriales Lobo,2025-07-15,2026-03-15,CRM
+010220,yeSENIA,beltrán hernández,ybeltran@uniformesindustr.mx,+52 477 950 9318," Calle Hidalgo 2411, Col. Condesa",León,Gto,37221,Uniformes Industriales Lobo,06/07/2023,2023/11/13,CRM
+C-010221,Gerardo,Carrillo Cabrera,gerardo.carrillo@outlook.com,+52 492 761 4595,"Av. Madero 9281, Col. San Rafael",Zacatecas ,Zacatecas,98038,ALSEA S.A.B. DE C.V.,10/10/2024,08/01/2025,CRM
+CRM-10222,cHávez,Hugo Cruz,hugo_chavez@correo.com.mx,0449619633754,"CaLLE MorElos 1870, col. polanco",tuxtla gutierrez,Chis.,29028,Hoteles Brisa Maya,12/06/2024,2026/09/21,CRM 
+C-010223,Luis,Navarro Gutiérrez,luis26.navarro@gmail.com,n/a,"Blvd. Manuel Ávila Camacho 4674, Col. Obrera",Tuxtla Gutiérrez,Chiapas,29057,CARPINTERÍA RÍO BLANCO,02/02/2024,2025-01-18,CRM
+C010224,Felipe,Soto Aguilar,felipesoto@vidriosyaluminio.com,(312) 942-0147,"Av. Constitución 8086, Col. Merced",Colima, Col.,28022,Vidrios y Aluminios del Norte,2022-11-17,25-01-2026,CRM
+C-010225,Rosa,orozco cortés,rosa.orozco@correo.com.mx,045 777 441 3674,"Av. Constitución 961, Fracc. Lomas Verdes",Cuernavaca,Morelos,62403,Imprenta Oro Verde,2025-01-28,19-oct-2026,CRM
+C-010226,Teresa,Zamora García,tzamora@correo.com.mx,4421426293,"Av. Constitución 2034, Col. San Rafael",Querétaro,Querétaro,76081,Oxxo,2024-03-18,2026-02-28,CRM
+C-010227,Jimena, ibarra, jibarra@empresa.mx,+52 771 389 1970,"Av. López Mateos 3087, Col. Santa María",Pachuca,Hgo.,42194,Imprenta Oro Verde,02-05-2022,2025-03-19,CRM
+C-010228,Alicia,Castillo  Sánchez,aliciacastillo@cafeteriaslaesta.com.mx,+52 981 923 6066,"Calle Morelos 6390, Col. Jardines del Sur",Campeche,Camp.,24097,Cafeterías La Estación,06/23/2026,05-nov-2028,CRM
+C-010229,Silvia,Quintero Mendoza,NA,+52 222 687 6676,"Calz. de Tlalpan 6879, Col. Doctores",Puebla,PUE,CP 72142,Volaris ,2022-04-30,2025/06/11,CRM
+C-010230,Arturo,Bautista Medina,arturo_bautista@imprentaoroverde.com,+52 1 222 260 6156,"Calle 16 de Septiembre 7765, Col. Guerrero",Puebla,Pue.,72018,IMPRENTA ORO VERDE,07/04/2021,2025-12-07,CRM_MX
+C-010231,Alejandro,Vázquez Ruiz,Alejandrovazquez@GMAIL.COM,449-886-8907,"Calle Morelos 1178, Col. San Rafael",Aguascalientes, AGS ,20001,Elektra,2022-06-12,04/20/2025,CRM
+C-010232,Sebastián,Villanueva Ávila,sebastian.villanueva@live.com.mx,+52 1 442 965 4375,"av. pedregal 3113, col. san rafael",Querétaro,Queretaro,76245,Taller Mecánico Los Pinos,N/A,20250428,SFDC
+C-010233,Patricia,Ávila Jiménez,patriciaavila@hotmail.com,6644717183,"Av. Las Palmas 7937, Fracc. Las Américas",Tijuana,Baja Calif.,22082,Soriana,2021-04-19,NA,CRM
+C-010234,Soledad,Pacheco Martínez,soledad.pacheco@correo.com.mx,961-146-0855,"Av. Colón 901, Col. Moderna",Tuxtla Gutierrez,Chiapas,29061,REFACCIONES EL ÁGUILA,01-04-2022,31-07-2025,CRM
+C-010235,Armando,Morales Muñoz,armando_morales@mueblesriviera.com,+52 1 844 189 2391,"blvd. solidaridad 9094, col. san rafael",Saltillo,COAH,25266,Muebles Riviera,09/25/2022,2025-03-03,Salesforce
+C-010236,Natalia,Medina Estrada,nataliamedina@correo.com.mx,+52 961 585 1548,"AV. CONSTITUCIÓN 7668, COL. SAN RAFAEL",TUXTLA GUTIÉRREZ,Chiapas,29155,Comercial del Valle,2024/07/27,2025-01-11,CRM
+C-010237,Yesenia,n/a,YESENIA.PADILLA@SEGUROSLOMAALTA.MX,+52 1 443 005 3954,"Calle Morelos 9423, Col. Moderna",Morelia,michoacan,58382 ,Seguros Loma Alta,01/27/2023,18/06/2024,CRM
+C-010238,Fernando,vega cruz,fernando.vega@gmail.com,(771) 749-4664,"Av. Colón 1111, Col. Industrial",Pachuca,Hgo.,42139,Chedraui,2023-02-18,13-oct-2024,CRM
+C-010239,Salvador,Ortiz Núñez,SALVADOR41.ORTIZ@EDITORABRUJULA.MX,0052 614 814 1649,"av. constItuciÓn 5145, CoL. aNZURes",Chihuahua,CHIH ,31130 ,Editora Brújula,2024-11-28,2025-04-27,CRM
+C-010240,Isabel,Muñoz Herrera,isabel.munoz@escuelatecnicaho.mx,(771) 521-4198,"Av. Universidad 7158, Col. Narvarte",Pachuca,HGO,42119,Escuela Técnica Horizonte,07/14/2021,28/12/2022,CRM
+C-010241,Rosa,Valdez Aguilar,rvaldez@oxxo.com,+528333903727,"CALLE ZARAGOZA 5003, COL. DEL VALLE",Tampico,TAMPS,89031,cadEna COMERCIal oxXo S.a. de c.v.,2025-02-24,31/07/2025,CRM
+C-010242,Rosa,Gutiérrez Pacheco,rosagutierrez@volaris.com,52-55-7999-0169,"Blvd. Solidaridad 7266, Col. Roma Norte",Ciudad de México,D.F.,07670,Volaris,2023-10-07,2022-02-06,CRM
+C-010243,Gerardo,Carrillo Cabrera,gerardo.carrillo@outlook.com,4927614595,"Av. Madero 9281, Col. San Rafael",Zacatecas,Zacatecas,98038,Alsea,2024-10-10,2025-01-08,CRM
+C-010244,raúl,Miranda Rosales,raul.miranda@live.com.mx,55-6786-1134,"Av. Las Palmas 1098, Fracc. El Pedregal",Ciudad de México, CDMX ,07008,Volaris,28-03-2024,2024-06-19,CRM 
+C-010245,Alberto,Romero Peña,alberto42.romero@femsa.mx,3385725516,"Calle Hidalgo 9541, Col. Narvarte",Guadalajara,Jalisco,44651,Femsa,2022-09-06,2023-12-12,CRM
+C-010246,Regina,Ríos Mendoza,regina.rios@.com,045 444 832 2845,"Calle Rayón 2928, Col. Polanco",San Luis Potosí,SLP,78010 ,Clínica Santa Cecilia ,2024-11-02,2025-03-14,CRM 
+C-010247, PATricia,Herrera Arias,patricia60.herrera@uniformesindustr.com.mx,0449982317105,"Av. Tecnológico 8239, Col. Centro",Cancún,QR,77533,uniformes industriales lobo,20250628,2026-07-04,CRM
+C-010248,IVÁN,Juárez Beltrán,NA,52-961-037-5949,"Blvd. Manuel Ávila Camacho 8513, Col. Polanco",tuxtla,CHIS,29069 ,NULL,NULL,2026-06-27,CRM
+C-010249,Enrique,Ortega Valdez,enrique89.ortega@imprentaoroverde.com.mx,+529516656205,"Andador San Pedro 4786, Residencial Los Álamos",Oaxaca,Oax.,6814,Imprenta Oro Verde,2022-03-06,20250916,CRM
+C-010250,,Ríos Mejía,arios@volaris.mx,9513080419,"Calle 16 de Septiembre 142, Col. Doctores",Oaxaca,Oaxaca,68175,volaris,13/11/2021,06/29/2023,CRM
+C-010251,Itzel,Castañeda Morales,icastaneda@refaccioneselagu.com.mx,N/A,"Av. División del Norte 9418, Col. Moderna",Morelia,MICH,58310,Refacciones El Águila,2023-05-03,25-03-2024,CRM
+C-010249,Enrique,Ortega Valdez,enrique89.ortega@imprentaoroverde.com.mx,9516656205,"Andador San Pedro 4786, Residencial Los Álamos",Oaxaca,Oaxaca,68141,Imprenta Oro Verde,2022-03-06,2025-09-16,CRM
+C-010253,Saúl,Pacheco Martínez,spacheco@icloud.com,+525557430616,"Av. Tecnológico 5560, Col. Santa María",Ciudad de México,México,14888,Tecnologías Sierra Azul,20221030,2021-09-25,CRM
+C-010254,José,García Delgado,N/A,+52 981 528 9747," Av. Las Palmas 1283, Fracc. El Pedregal ",Campeche,Camp.,24045,Inmobiliaria Cerro Grande,02/14/2025,29/11/2025,CRM
+C-010255,Sofía,Cabrera Zamora,sofia.cabrera@palaciodehierro.mx,52-81-9435-3880,"Av. Central 3814, Col. Industrial",Monterrey ,NUEVO LEON,64657,Palacio de Hierro,01/10/2022,2022-09-20,CRM
+C-010256,Héctor,Valdez Bautista,hectorvaldez@vidriosyaluminio.com,492-655-2342,"Calle 5 de Mayo 34, Col. Moderna",Zacatecas,ZAC ,98047,Vidrios Y Aluminios Del Norte S.A. De C.V.,2028-08-15,19-09-2023,crm
+C010257,Alejandro,Rojas Vázquez,arojas@sistemasaguiladi.mx,045 442 887 4372,,Querétaro ,QUERÉTARO,76070 ,Sistemas Aguila Digital S.A. De C.V.,2023-04-18,2024-01-21,CRM
+C-010258,Dolores,Benítez Domínguez,dbenitez@hotelesbrisamaya.com.mx,6622990960,"Cerrada Las Flores 1780, Col. Obrera",HeRMoSillo,Son.,83285,Hoteles Brisa Maya,15/12/2022,23/03/2023,CRM
+C-010259,Guadalupe,Molina Torres,gmolina@seguroslomaalta.com.mx,045 55 7979 2813,"Calle Juárez 7819, Col. Centro",Ciudad de México,D.F.,1063,seguROS LomA alTA,2026-04-12,09-05-2026,CRM
+C-010260,Álvaro,Castañeda Sandoval,acastaneda@joyeriaestrellad.mx,9818132440,"Blvd. Solidaridad 4769, Col. Merced",Campeche,Campeche,24023,Joyería Estrella del Sur,2022-04-10,2023-01-13,CRM
+C-010261,Adriana,Mendoza Calderón,adriana66.mendoza@hotmail.com,4778888018,"Calz.  Ignacio Zaragoza 596, Col. Anzures",León,Gto,37384,Consultoría Montes Blancos,21/12/2025,2025-10-07,CRM
+C-010262,Ignacio,Avila Hernandez,ignacio76.avila@live.com.mx,n/a," Av. Insurgentes Sur 8167, Col. Doctores",Saltillo,COAH,25182 ,SISTEMAS AGUILA DIGITAL S.A. DE C.V.,2024-07-18,06/08/2022,CRM 
+C-010263,Isabel ,Domínguez,idominguez@papeleriayoficin.com,0446642980299,"Calle Zaragoza 7436, Col. Centro",Tijuana,B.C.,22203, papelería y oficina atlas,20221116,2023-09-02,CRM_MX
+C-010264,Alejandra,Salazar Lara,alejandra_salazar@vidriosyaluminio.com,0446143891412,"Calle Juárez 4927, Col. Doctores",Chihuahua,CHIH,31309,Vidrios y Aluminios del Norte,09/01/2025,05/13/2025,CRM
+C-010265,GERARDO,aguilar romero,gerardoaguilar@icloud.com,0449612808484,"Av. Colón 505, Col. Obrera", Tuxtla Gutiérrez ,Chiapas,29032,Televisa,2025-09-30,28-01-2026,CRM
+C-010266,vaLerIA,Rosales Fuentes,valeria.rosales@gmail.com,961 376 8492,"Calle 16 de Septiembre 6955, Col. Obrera",Tuxtla Gutierrez,Chis.,29014 ,TelCel,2023-11-28,10/31/2025,CRM
+C-010267,Luis,Rangel Santiago,luis_rangel@proton.me,045 33 4403 0146,"Cerrada Las Flores 7072, Residencial Los Álamos","Guadalajara, Jal.",Jalisco,44208,Energía  Solar del Desierto,2021-04-01,2024-05-21,CRM
+C-010268,Diana,Ortega Villanueva,dortega@americamovil.com.mx,+527712095764,NA,Pachuca ,Hgo.,42165,América Móvil,05/11/2022,2026-08-14,CRM
+C-010269, Miguel,Vega Robles,mvega@soriana.com.mx,6626441448,"Blvd. Manuel Ávila Camacho 3688, Fracc. Las Américas ",Hermosillo,Sonora,83191 ,orGaNiZaCIon SoRIanA S.A.B. de C.v.,04/06/2021,2023-06-13,CRM
+C-010270,Rosario,Gómez Quintero,rgomez@televisa.mx,664-398-8973,"Av. México 4817, Fracc. Las Américas",Tijuana,B.C.,22474,Televisa,19-11-2023,27/09/2026,CRM
+C-010271,Felipe,Quintero Miranda,felipe.quintero@yahoo.com.mx,+52 1 777 446 3405,"Av. Universidad 2443, Col. Merced", Cuernavaca,Morelos,62101 ,Logística del Bajío,29/02/2024,2026-01-06,CRM
+C-010272,Saúl,Ríos Ávila,saulrios@cultivoshidropon.mx,52-449-631-2707,"CALLE 5 DE MAYO 300, COL. SANTA MARÍA",Aguascalientes,AGS,20252,Cultivos Hidropónicos Anda,2021-09-27,14/03/2021,CRM_MX
+C-010273,Ángel,Rojas Ortega,angel_rojas@yahoo.com.mx,,"Av. Insurgentes Sur 3689, Fracc. El Pedregal",Ciudad de México,ciudad de méxico,09342,Carpinteria Rio Blanco S.A. De C.V.,2023-05-31,2024-08-30,CRM
+C-010274,Hugo,Gallegos Delgado, hgallegos@gmail.com,+526627626842," Calz. de Tlalpan 7987, Col. Jardines del Sur ",Hermosillo,Son.,83238,Editora Brujula S.A. De C.V.,2025-02-15,26/11/2025,CRM
+C-010275,Martín,Mejía Villanueva,mmejia@construccionesde.com.mx,664 876 7176,"Privada Los Pinos 6268, Col. Roma Norte",Tijuana,BC,22496,CONSTRUCCIONES  DEL SURESTE,2024-06-06,2024-09-18,CRM
+C-010276,Rosa,Orozco Cortes,rosa.orozco@correo.com.mx,777-441-3674,"AV. CONSTITUCIÓN 961, FRACC. LOMAS VERDES",Cuernavaca,Mor.,62403,IMPRENTA ORO VERDE S.A. DE C.V.,28/01/2025,2026-10-19,Salesforce
+C-010277, Lucía,Torres Martínez,lucia.torres@correo.com.mx,0447446562247,"Av. Pedregal 1500, Col. Obrera",acapuLCO,Gro.,39310,Consultoría Montes Blancos,2025-01-22,28/07/2025,CRM
+C-010278,Jesús,vEgA cERVaNtEs,jesus.vega@bimbo.mx,0448334821606,"Av. Reforma 660, Col. Doctores",Tampico,Tamps.,89376,bImbo,2026-06-30,06/30/2026,CRM
+C-010279,Martín,Santiago Vázquez,martin_santiago@chedraui.com.mx,52-312-674-9204,"calz. ignacio zaragoza 3541, col. san rafael",Colima,Col.,28013 ,GRUPO COMERCIAL CHEDRAUI S.A.B. DE C.V.,2023-11-24,10-05-2026,CRM
+C-10280,Camila,Campos Carrillo,camila_campos@proton.me,744-277-9650,"CErraDa LaS fLoREs 6470, ResiDeNciAl Los áLAMos",Acapulco,GRO,39499,Taller Mecánico Los Pinos,2024-02-13,2025-05-27,CRM
+C-010281,N/A,Ramírez Silva,gramirez@lacteoslapradera.com.mx,+52 1 222 990 6969," Calle 5 de Mayo 5495, Col. Doctores",Puebla,Pue.,72536,Lácteos La Pradera,23-may-2023,09/02/2026,CRM
+C-010282,Alicia, Torres Martínez,NULL,9982028083,"av. lópEZ MaTEoS 8094, fracc. lOMaS VerdeS",Cancún,Q.R.,77528 ,Plásticos del Pedregal,2022-07-23,30/06/2023,CRM
+C-010283,Iván, Domínguez Castro ,ivan.dominguez@chedraui.com.mx,045 722 140 3303,"Av. México 6165, Col. Jardines del Sur",Toluca ,Edo. Mex.,50120,Chedraui,13/08/2025,03/11/2026,CRM
+C010284,Silvia,Paredes Vega,silvia.paredes@consultoriamonte.com,+524920158530,"calle juárez 8046, fracc. lomas verdes",Zacatecas,ZacaTecas,98078,Consultoría Montes Blancos,2022-03-17,2024-12-10,Salesforce
+C-010285,Elena,Ortiz Ramírez ,elenaortiz@grupomodelo.com,0446625714307," Calle Independencia 2718, Col. San Rafael",Hermosillo,Sonora,83354,GRUPO MODELO S. DE R.L. DE C.V.,31/08/2023,2026/09/30,crm
+C-010286,Enrique,VILLANUEVA SANDOVAL,ENRIQUE_VILLANUEVA@HOTMAIL.COM,(777) 556-3864," Blvd. Manuel Ávila Camacho 6937, Col. Guerrero ",Cuernavaca,MOR,62343,Pescados y Mariscos La Costa,26/06/2026,06/11/2026,CRM
+C-010287,Emilio,Ruiz  Ríos,eruiz@correo.com.mx,998 953 3283,"Av. Tecnológico 7202, Col. Merced",Cancún,QROO,77509,Lácteos La Pradera,06/12/2023,09/18/2026,crm
+C-010288,Miranda,raúl rosales,raul.miranda@live.con.mx,55-6786-1134," AV. LAS PALMAS 1098, FRACC. EL PEDREGAL ",México,Ciudad de México,07008,CONCESIONARIA VUELA COMPANIA DE AVIACION S.A.B. DE C.V.,28-03-2024,2024-06-19,CRM_MX
+C-010289,Cristina,Valdez Vázquez,NA,449-502-4536,"AV. REFORMA 2774, COL. ANZURES",Aguascalientes,Ags,20272 ,Seguros Loma Alta,2023/02/07,2024-11-18,Salesforce
+C-010290,, Muñoz Silva,mmunoz@escuelatecnicaho.com.mx,52-833-832-0613,NULL,Tampico,Tamaulipas,89191,Escuela Técnica Horizonte,2022-12-03,2026-06-22,CRM
+C-010291, Ángel ,Medina León,angel13.medina@panaderiasanmart.com,-,"Cerrada Las Flores 4005, Col. Obrera",aCAPUlCo,Gro.,39845,Panadería San Martín,NA,2025-03-10,CRM
+C-010292,Liliana,Salinas González,N/A,+527445272131,"Calle Hidalgo 3094, Fracc. El Pedregal",Acapulco, GRO,39863,Aeroméxico,16-02-2024,24/10/2024,CRM
+C-010293,Natalia,MIranDA mArtÍnEz,nataliamiranda@joyeriaestrellad.mx,045 951 718 0955,"Av. Madero 6169, Fracc. Las Américas",Oaxaca, Oaxaca ,68037,Joyería Estrella del Sur,20240602,2026-08-07,CRM_MX
+C-010294,Andrés,Rangel Gutiérrez,arangel@.com,9818756157,"Blvd. Manuel Ávila Camacho 5822, Col. Moderna",Campeche,Camp.,24060 ,Agropecuaria Las Palmas,2021-04-07,2021-03-16,CRM
+C-010295,Alberto,Padilla  Tapia,apadilla@icloud.com,998-392-3448,"Av. López Mateos 3658, Col. San Rafael",Cancún,Q. Roo,77507,Banorte,2023-01-06,15-08-2023,CRM
+C-010296,Sebastián,Valdez Salinas,svaldez@outlook.com,52-667-652-3864,"Privada Los Pinos 3784, Col. San Rafael",Culiacán,Sin.,80121,América Móvil,05-nov-2025,2026-07-23,CRM
+C-010297,Mariana,Torres Moreno,mariana.torres@imprentaoroverde.mx,771-656-1850," AV. CENTRAL 4284, COL. ANZURES ",Pachuca,Hidalgo,42177 ,Imprenta Oro Verde S.A. De C.V.,2026-02-05,2026/03/23,CRM
+C-010298,Karla,López Carrillo,karla47.lopez@inmobiliariacerr.com,951 657 3615,"Av. Las Palmas 3811, Fracc. Lomas Verdes",Oaxaca,OAX,68087,Inmobiliaria Cerro Grande,05-12-2021,N/A,CRM
+C-010299,rOSariO,González Torres,ROSARIO.GONZALEZ@FUNDICIONSANTARO.COM.MX,+52 1 667 248 8553,"Blvd. Solidaridad 1336, Col. Doctores",Culiacán,SIN,80007,FUNDICION SANTA ROSA S.A. DE C.V.,2025-09-24,2025-11-11,CRM
+C-010300,Carmen,Muñoz Arias,carmen_munoz@hotelesbrisamaya.com.mx,+52 442 344 8387,"Camino Real 234, Col. Del Valle",Querétaro,Queretaro,76033,Hoteles Brisa Maya,2021/07/16,2026-10-23,CRM
+C-010301,Rodrigo,Ramos González,rodrigo.ramos@comercialdelvall.com,0449510816897,"Av. Tecnológico 76, Residencial Los Álamos",Oaxaca,Oax. ,68008,Comercial del Valle,2021-12-08,17-05-2025,CRM
+C-010302,Eduardo,León Soto,eleon@bimbo.com,(312) 627-2900,"Calle Zaragoza 4134, Fracc. Las Américas",Colima,COLIMA,28044,Bimbo,25/03/2025,2025-12-26,CRM
+C-010303,Jimena,Ramírez Estrada,jimena12.ramirez@icloud.com,0052 81 5225 9271,"Calle Juárez 2461, Col. Narvarte",Monterrey,N.L.,64215,telcel,2022-09-16,2025-04-01,CRM
+C-010304,Pablo,Velázquez Aguilar,pablo_velazquez@outlook.com,(951) 741-9926,"Av. Madero 4466, Col. Del Valle",Oaxaca,Oaxaca,68095,Alimentos La Hacienda,2025-05-12,2021-11-01,CRM
+C010305, Armando,Reyes Martínez,-,+52 33 3848 2988,"Av. Pedregal 1702, Col. Anzures",Guadalajara,JAL,44439,Vidrios Y Aluminios Del Norte,2022-09-20,11-11-2023,CRM
+C-010306,Eduardo,Arias Velázquez,earias@cemex.com,8171223419,"Av. Reforma 9562, Col. Anzures",MTY,N.L,64290 ,Cemex,2026-05-12,13/09/2026,crm
+C-010307,paulIna,Lara Pérez,paulina.lara@proton.me,0052 449 039 1555,"Privada Los Pinos 4654, Col. Moderna ",agUASCaLientES,AGUASCALIENTES,20217,Alsea,2026-08-10,2026-09-16,CRM
+C-010308,Sofía,Molina Estrada,Sofia_molina@VIDRIOSYALUMINIO.COM,998 049 0471,"Av. Las Palmas 2072, Residencial Los Álamos",Cancún,qUinTAna roO,77537 ,Vidrios y Aluminios del Norte,10/03/2026,2026-04-15,Salesforce
+C-010309,Isabel,Domínguez Rosales,idominguez@papeleriayoficin.com,52-664-298-0299,"Calle Zaragoza 7436, Col. Centro",Tijuana,Baja Calif.,22203,Papelería y Oficina Atlas,2022-11-16,09/02/2023,CRM
+C-010310,Elena,Romero  Carrillo,elena_romero@farmaciasdelcent.com,+526861161336,"CALLE ALLENDE 1319, FRACC. EL PEDREGAL",Mexicali,Baja California,21098,Farmacias del Centro,2025-06-27,2026-09-14,CRM
+C-010311,,Tapia Campos,btapia@farmaciasdelcent.com.mx,N/A,"Av.  Constitución 2042, Col. Roma Norte",león,Gto.,37069,Farmacias del Centro,2026-02-25,2026-03-30,CRM
+C-010312,Manuel,Reyes  Medina,mreyes@serviciosindustr.com,771-228-7888,"av. méxico 8208, col. san rafael",Pachuca,HGO,42091,Servicios Industriales Tepic,2021-11-06,12-ene-2024,CRM
+C-010313,lucía,Barrera Núñez,lucia_barrera@mueblesriviera.com,222-363-8510,"Av. Insurgentes Sur 9459, Fracc. El Pedregal", Puebla,PUE,72092,Muebles Riviera,2026-05-16,2026-10-10,CRM_MX
+C-010314,Martín,,martin.rodriguez@empresa.mx,0052 444 291 5481,"AV. CONSTITUCIÓN 2569, COL. DEL VALLE",San Luis Potosi,San Luis Potosi,78398,Femsa,01/01/2022,,CRM
+C-010315,Pedro,Márquez Rangel,pedromarquez@joyeriaestrellad.mx,+528441688413,"Blvd. Manuel Ávila Camacho 2493, Fracc. El Pedregal",Saltillo,Coahuila,25142,Joyería Estrella del Sur,22/06/2025,2025-09-25,CRM
+C-010316,Iván,Díaz Lara,idiaz@outlook.com,045 442 858 8024,"Av. Insurgentes Sur 4539, Fracc. Lomas Verdes", Queretaro ,Qro.,76208,Servicios Industriales Tepic,31/12/2021,03/11/2025,CRM
+C-010317,Natalia,Cruz Hernández,natalia.cruz@bimbo.com.mx,NULL,"Andador San Pedro 4657, Fracc. Las Américas",Cancún, Quintana Roo,77527,Grupo Bimbo S.A.B. De C.V. ,2022-12-25,2023-12-13,CRM
+C-010318,Medina,YESENIA TORRES,NA,(951) 658-4237,"Blvd. Manuel Ávila Camacho 1125, Col. Narvarte ",Oaxaca,OAX,68047,UNIFORMES INDUSTRIALES LOBO S.A. DE C.V.,2022-10-17,11/22/2022,CRM 
+C-010319,Teresa,tREjo espinOzA,,+52 722 654 7814,,Toluca,Méx.,50252,Femsa,2021-05-09,2021-08-04,CRM
+C-010320,Cristina,Ibarra Vega,cristina.ibarra@outlook.com,442 003 0471,"Av. Universidad 1994, Fracc. Las Américas", Querétaro ,Querétaro,76048,Banorte,23-02-2025,19-ago-2026,CRM
+C-010321,Itzel,Velázquez Rodríguez,itzel15.velazquez@live.com.mx,0052 222 634 9566,"Av. Universidad 3430, Col. Guerrero",Puebla,Pue.,CP 72353,AGROPECUARIA LAS PALMAS S. DE R.L. DE C.V.,27-11-2022,20240713,CRM
+C-010322,Soledad,Mejía Fuentes, smejia@icloud.com,777-219-0264,"Av. México 8959, Col. San Rafael",Cuernavaca,MOR,62298, Servicios Industriales Tepic,21/02/2024,2026-07-20,CRM_MX
+C-010323,Mónica,Padilla  Gallegos,monica_padilla@americamovil.com,4422868024,"Av. Central 6035, Col. Centro",Querétaro ,Queretaro,76185, América Móvil ,14/08/2025,03-ene-2026,CRM
+C-10324,Cmaila,jImENEz SaLaZar,camila.jimenez@proton.me,+52 951 863 0872,"Av. México 7721, Fracc. Lomas Verdes",Oaxaca,Oaxaca,68150,Telcel,2026-06-26,2026-08-09,CRM
+C-010325, José ,Contreras Delgado,jose_contreras@icloud.com,229 602 4338,"Av. Tecnológico 4316, Col. Condesa",Veracruz,Ver.,91788,Bimbo,27-06-2023,2026-06-13,CRM
+C-010326,Óscar,Pérez León,oscar_perez@live.com.mx,833 776 8329,"Calz. Ignacio Zaragoza 5929, Fracc. Lomas Verdes",Tampico,Tamps.,89351,DISTRIBUIDORA NORTEÑA,2022-11-26,13-06-2026,Salesforce
+C-010327,Alicia,Fuentes Ramírez,afuentes@yahoo.com.mx,0444432692732,"CALLE RAYÓN 5781, COL. JARDINES DEL SUR",Morelia,Michoacán,58358,Sistemas Águila Digital,2024-05-29,09/09/2024,CRM
+C-010328,Ramón,Espinoza Zamora,ramon_espinoza@live.com.mx,045 998 711 8304,"Av. Central 9122, Col. Merced",Cancún, Q.R.,77512,Refacciones El Águila,2025-11-24,2026-01-09,CRM
+C-010329,Vicente,Soto Jiménez,N/A,045 667 336 0295,"Andador San Pedro 9203, Col. Polanco",Culiacán,Sin. ,80327,Cultivos Hidropónicos Anda,2022-10-06,20211119,CRM
+C-010330,Diego ,Zamora Morales, dzamora@tvazteca.com,+52 999 051 3394," Privada Los Pinos 793, Col. Polanco ",Mérida,Yucatán,N/A,TV Azteca,2026-06-06,2026-06-28,CRM
+C-010331,Ignacio,Orozco,iorozco@gmail.com,N/A,"AV. CENTRAL 9528, FRACC. LOMAS VERDES",Villahermosa,Tab,86131,FOMENTO ECONOMICO MEXICANO S.A.B. DE C.V.,2021-03-10,2024-11-07,Salesforce
+C-010332,Alicia,Mejía Soto,amejia@yahoo.com.mx,+524926063126,"Av. Constitución 22, Fracc. Lomas Verdes",Zacatecas,Zac.,98077,America Movil S.A.B. De C.V.,20250928,2025-11-03,CRM
+C-010333,Martín,Hernández Cárdenas,martinhernandez@grupomodelo.com,6675539249,"Camino Real 1799, Fracc. Las Américas",Culiacán,Sinaloa,80069,Grupo Modelo,2022-04-17,2024-08-14,CRM
+C-010334,Silvia,Hernández Ramos,silvia5.hernandez@fundicionsantaro.mx,+52 844 889 5763,"Blvd.  Manuel Ávila Camacho 6856, Col. Polanco",Saltillo,Coah.,25186,fundición santa rosa,-,10/11/2023,CRM
+C-10335, Carmen,Márquez Rojas,carmen.marquez@serviciosindustr.mx,+524429558349,"Av. Pedregal 3802, Col. Merced ",Querétaro,Queretaro,76251 ,Servicios Industriales Tepic,2025-10-13,2026-06-22,CRM
+C-010336,Andrea,Ramírez  Miranda,andrea.ramirez@yahoo.com.mx,0052 999 711 0967,"Av. Madero 6790, Col. Narvarte",Mérida,Yucatan,97020,ChEDRAUi,2021-12-14,2026/03/02,CRM_MX
+C-010337,Lorena,Robles Calderón,lorenarobles@textilespueblano.mx,52-229-095-0580,"Calz. Ignacio Zaragoza 1209, Fracc. Lomas Verdes",Veracruz,Ver.,91887,Textiles Puebla Nova S.A. De C.V.,13/06/2022,08/02/2022,CRM
+C-010338,Beatriz ,Ramírez Soto,beatriz3.ramirez@vidriosyaluminio.com.mx,52-312-083-0689,"Av. San Jerónimo 5169, Col. Guerrero",Colima ,COL,28079 ,Vidrios y Aluminios del Norte,07/06/2023,2026-01-03,CRM
+C-010339, Alejandro ,Ávila Cabrera,alejandro75.avila@live.com.mx,0052 618 792 9767,"Calle Independencia 2007, Col. Polanco",Durango,Durango,34240,PAPELERÍA Y OFICINA ATLAS,2025-08-23,03/12/2026,CRM
+C-10340,esteban,Tapia Rodríguez,estebantapia@carpinteriariobl.com,52-744-037-4746,"Cerrada Las Flores 9435, Col. Moderna",Acapulco,Gro.,39416,Carpintería Río Blanco,20251013,2026-08-28,CRM
+C-010341,Alberto ,LópeZ Gómez,alopez@hotelesbrisamaya.com,N/A,"Camino Real 3464, Col. Centro",Querétaro,QRO,76008,Hoteles Brisa Maya,2025-11-17,09/08/2026,CRM
+C-010342,Manuel,Vázquez Ramírez,mvazquez@.com,+52 1 667 363 1854,"Calle Rayón 5953, Col. Del Valle",Culiacán,sin,80390,Telcel,2025-02-09,02/25/2025,CRM
+C-010343,NA,Flores Rangel,armando76.flores@live.com.mx,7774280414,"Calle Juárez 5827, Col. Anzures",Cuernavaca,MOR,,Femsa,20210520,27/09/2024,CRM
+C-010344,Concepción,Muñoz Núñez,concepcionmunoz@hotelesbrisamaya.com,+52 1 618 193 9985,"Av. López Mateos 7652, Col. Anzures",Durango,Durango,34242,Hoteles Brisa Maya,,02/07/2022,crm
+C-010345,N/A,Pacheco Muñoz,teresa.pacheco@icloud.com,52-686-718-5742," AV. SAN JERÓNIMO 3738, COL. INDUSTRIAL",Mexicali,BC,CP 21141,pescAdOs y MarisCOs LA cOStA S.a. de c.V.,18-05-2022,N/A,CRM
+C-010346,NA,Ríos Solís,alejandra94.rios@live.com.mx,045 844 314 5280,"Calz. de Tlalpan 5147, Fracc. Lomas Verdes",Saltillo ,Coah.,CP 25103,Cemex,2022/09/17,2022-11-24,CRM
+C-010347,Roberto,Ramos Orozco,roberto.ramos@bimbo.com.mx,0052 33 8080 3901,"Blvd. Manuel Ávila Camacho 1645, Col. Santa María",Guadalajara,Jal,CP 44452,Bimbo,28/03/2026,05/24/2026,CRM
+C-010348,Andrea,Sánchez Gallegos,NULL,,"cerrada las flores 2507, col. moderna","Guadalajara, Jal.",Jalisco,44290,Distribuidora Norteña,25/12/2022,06-dic-2023,CRM
+C-010349,Saúl,Franco Medina,saulfranco@hotmail.com,52-999-070-1938,"Av. Las Palmas 2524, Col. Anzures",Mérida,Yucatan,97131,Laboratorios Nube Gris,02/19/2022,2026-02-07,CRM
+C-010350,SILvia,Calderón Molina,silvia_calderon@farmaciasdelcent.com.mx,9989015858,"Av. Constitución 4577, Col. Doctores",CANCÚN, QROO,77524,Farmacias del Centro,2022-10-05,24/03/2025,CRM
+C-010351,Iván,Salazar  Santiago,ivansalazar@cemex.com.mx,9514245046,"Calle 5 de Mayo 8207, Residencial Los Álamos",Oaxaca,Oaxaca,68075,Cemex,2026-03-12,2026-09-02,CRM
+C-010352,Jorge,Ibarra Solís,jibarra@inmobiliariacerr.mx,(981) 224-3592,"Av. López Mateos 428, Col. Doctores",Campeche,Camp.,24086,iNMobilIARiA CerRO GRanDE s.A. de c.v.,2025-06-14,2026-02-26,CRM
+C-010353,Camila ,Jiménez Rojas,cjimenez@joyeriaestrellad.com,0448334586292,"Andador San Pedro 9417, Col. Merced",Tampico,Tamps.,89102,JOYERIA ESTRELLA DEL SUR S.A. DE C.V.,2024-01-19,11/08/2026,CRM
+C-010354,Regina,Solís Navarro,regina.solis@tecnologiassierr.com.mx,55-7684-3391,NA,Mexico City,Ciudad de México,04117,Tecnologías Sierra Azul,2023-12-22,2026/09/25,CRM
+C-010355,Liliana,silva cruz,lilianasilva@lacteoslapradera.com.mx,999-620-3593,"Blvd. Solidaridad 5844, Col. Obrera",Mérida,Yucatan,97011,LACTEOS LA PRADERA S.P.R. DE R.L. DE C.V.,2024-04-24,05/04/2026,SFDC
+C-10356,Mariana,SANDOVAL MORALES,mariana.sandoval@uniformesindustr.com.mx ,0052 664 513 1343,"Av. Central 9865, Col. Obrera",Tijuana,Baja Calif.,22028 ,Uniformes Industriales Lobo,2023-03-20,01-12-2024,CRM
+C-010357,Daniela,Medina Padilla,daniela_medina@cemex.mx,(771) 933-8078,"Calle 16 de Septiembre 8085, Col. Jardines del Sur",Pachuca,HGO,42162 ,Cemex,2026-06-20,02/07/2026,CRM
+C-010358,Norma,Ortega Calderón,normaortega@farmaciasdelcent.com.mx,(449) 644-3033,"Calle Juárez 9466, Col. Centro",aguascalientes,AGS,20073,Farmacias del Centro,11/29/2021,2024-01-10,CRM
+C-010359,N/A,Cortés Tapia,alicia_cortes@vidriosyaluminio.com,-,"Av. Central 7426, Col. Narvarte",Aguascalientes,Ags.,CP 20112,Vidrios y Aluminios del Norte,16/04/2021,2025-08-31,CRM
+C-010360,Enrique, Molina Franco ,-,999 756 7158,"Av. Tecnológico 398, Residencial Los Álamos",Mérida,Yucatan,97179,Escuela Técnica Horizonte,18/10/2023,12-11-2024,CRM
+C-010361,Ángel,Miranda Jiménez,N/A,81 1669 0995,,MTY,Nuevo Leon,64299 ,Taller Mecánico Los Pinos,2021-09-28,2026-02-20,CRM
+C-010362,ARTuRo,Padilla Sandoval,arturo_padilla@sistemasaguiladi.mx,0052 55 9274 0325,"Av. Central 7561, Col. Polanco",Ciudad de México, D.F. ,15817 ,sistemas águila digital,30-08-2025,2026-06-13,CRM
+C010363,Joaquín,Cabrera Beltrán,joaquin.cabrera@carpinteriariobl.mx,771 284 1007,"Av. Constitución 9624, Col. Del Valle",Pachuca,HGO,42074 ,Carpintería Río Blanco,2026-08-10,08/11/2026,CRM
+CRM-10364,Daniela, Contreras Sandoval,daniela80.contreras@banorte.com.mx,833-378-9517,"privada loS pinOS 515, CoL. RoMa NOrTe",Tampico,Tamaulipas,89230,Banorte,10/07/2022,2025-03-25,CRM
+C-010365,Fernanda,Pérez Trejo ,fernanda.perez@yahoo.com.mx,(993) 238-6242,"Av. San Jerónimo 1135, Col. Del Valle",Villahermosa, Tab. ,86184,Escuela Técnica Horizonte,14/09/2022,2025-03-28,SFDC
+C-010366,Ernesto,HeRreRA ContrERAS,ernestoherrera@farmaciasdelcent..com,NULL,"Av. Las Palmas 2343, Col. Santa María",Veracruz,ver ,91833,FARMACIAS DEL CENTRO,2025-07-28,01/27/2026,CRM
+C-010367, Alicia ,Franco Quintero,alicia_franco@live.com.mx,0444927673550,n/a,Zacatecas,Zacatecas,98055 ,Agencia Aduanal Bahía,2026/02/06,14/05/2026,CRM_MX
+C-010368,Álvaro ,Arias Santiago,alvaroarias@empresa.mx,+525541105657,"Calle Independencia 4044, Col. Narvarte",Ciudad de México,Ciudad de Mexico,11058,HOTELES BRISA MAYA S.A. DE C.V.,2024/09/09,2026-02-01,CRM_MX
+C-10369,Jimena,Pérez Castro,jimena.perez@alsea.com.mx,-,"Av. Constitución 9527, Fracc. Las Américas",Canún,Quintana Roo,77532,Alsea,2024-11-24,2025-05-21,CRM
+C-010029,Soledad,Mejía Ramírez,soledadmejia@outlook.com,8132277595,"Av. Las Palmas 9373, Col. Condesa",Monterrey,Nuevo León,64070,Oxxo,2025-03-14,2025-06-30,CRM
+C-010371,VErÓniCa,Díaz Solís,-,0444495381452,"Av. Tecnológico 7820, Col. Polanco",Aguascalientes,Ags.,20045,,2025-04-17,2025-10-25,CRM
+C-010357,Daniela,Medina Padilla,daniela_medina@cemex.mx,7719338078,"Calle 16 de Septiembre 8085, Col. Jardines del Sur",Pachuca,Hidalgo,42162,Cemex,2026-06-20,2026-07-02,CRM
+C-010373,Liliana,NULL,liliana.gomez@logisticadelbaji.mx,(981) 288-4784,"Cerrada Las Flores 2273, Col. Santa María",campeche,CAMP,CP 24012,Logística del Bajío,20220928,02/03/2022,CRM
+C-010374,Salvador ,Aguilar Ortiz,salvadoraguilar@correo.com.mx,52-33-1279-6764,"Calz. Ignacio Zaragoza 8623, Col. Condesa",Guadalajara,Jal.,44247,Energía Solar del Desierto ,05-10-2023,2023-12-12,CRM
+C-010375,Silvia,Calderón Castro,scalderon@proton.me,52-951-026-7286,"Calle Zaragoza 715, Col. Centro",Oaxaca,Oax.,68035,Alsea,2024-07-21,16-04-2026,CRM
+C-010376, MARGARITA ,Salazar Juárez,margarita.salazar@empresa.mx,4446493648,"Blvd. Solidaridad 120, Col. Moderna",SLP,S.L.P.,78048,Herramientas del Istmo,12/08/2022,2025-12-10,CRM
+C-010377,Luis,Soto Ortiz,luis.soto@gmail.com,33-5123-9250,"Calle Allende 7155, Col. Condesa",Guadalajara,Jal,44545,Construcciones Del Sureste S.A. De C.V.,n/a,25-08-2026,CRM
+C010378,Felipe, Velázquez Medina,felipe.velazquez@aeromexico.com,7449071720,"Calle Independencia 6802, Col. Jardines del Sur",Acapulco,GRO,39712,Aerovías De Mexico S.A. De C.V.,19/07/2024,2025-07-08,CRM
+C-010379,Iván,Rojas Molina,irojas@gmail.com,045 771 664 4712,"Calle Juárez 9627, Col. San Rafael",Pachuca,HGO,42177,Chedraui,23-06-2021,2022-12-02,CRM
+C-010380,Iván,Molina Salinas,imolina@vidriosyaluminio.mx,+524438017155,"Av. Universidad 8586, Col. Centro",Morelia,Michoacán,58012,Vidrios y Aluminios del Norte,10/15/2022,31/03/2024,CRM
+C-010381,Enrique,Villanueva Miranda,enrique_villanueva@editorabrujula.com.mx,0052 999 108 5896,"Andador San Pedro 7243, Col. Obrera",Mérida,Yucatan ,97130,Editora Brújula,16/03/2024,2025-05-02,CRM
+C-010382,Silvia,Ávila Herrera,silvia28.avila@hotmail.com,4922352514,"Blvd. Manuel Ávila Camacho 5534, Col. Condesa",Zacatecas,Zacatecas,98083,Carpintería Río Blanco,2024-08-21,2025-06-06,CRM
+C-010383,Valeria,Jiménez Domínguez,valeria_jimenez@correo.com.mx,+52 1 833 470 6541," caLlE RayóN 6702, col. sANta MARÍa",Tampico,Tamps.,89212,Energía Solar del Desierto,10/09/2021,02/07/2025,crm
+C-10384,Cristina,Romero Vega,cristina.romero@tecnologiassierr.com.mx,+52 981 165 9519,"calz. de tlalpan 2600, col. del valle",Campeche,Campeche,24067,Tecnologías Sierra Azul,2021-06-04,19/08/2021,CRM
+C-010385,Guadalupe,Gómez Domínguez,guadalupe12.gomez@alsea.com.mx,0447775703506,"Blvd. Manuel Ávila Camacho 5554, Col. Jardines del Sur",CuErnavacA,Morelos,62433,ALSEA S.A.B. DE C.V.,08-feb-2024,02/28/2026,CRM
+C-010386,Beatriz,bautista tapia,Bbautista@PROTON.ME,449 763 7102,"Av. México 7961, Col. Santa María ",Aguascalientes,AGS.,20323,CARPINTERIA RIO BLANCO S.A. DE C.V.,2024-11-14,2025-04-07,Salesforce
+C-010387,Iván,Cortés Espinoza,ivan.cortes@chedraui.com.mx,+528445735342,"CeRrADA LaS floRes 4016, cOl. San rafAeL",Saltillo,Coahuila,25239,Chedraui ,2026-03-04,2026-07-20,CRM
+C-010388,Andrea,Beltrán Silva,andrea.beltran@aeromexico.mx,045 492 305 0689,"Cerrada Las Flores 2372, Col. San Rafael",Zacatecas,Zacatecas,98026,Aeroméxico,21-09-2022,N/A,CRM
+C-010389,martín,Lara Vázquez,martin.lara@empresa.mx,6185285301," Av. Universidad 6728, Col. Guerrero",Durango,Durango,34020,Carpintería Río Blanco,-,2025-06-12,CRM
+C-010390,Margarita,Ramos Juárez,margarita20.ramos@yahoo.com.mx,9988163339,"Av. Pedregal 5580, Col. Del Valle", Cancún ,QR,77506,Vidrios y Aluminios del Norte,2025-08-30,17-09-2026,CRM
+C-010391,Fernanda,León Sandoval,fleon@escuelatecnicaho.com,52-664-216-4305,"Av. Madero 2510, Col. Santa María", Tijuana ,BC,22679,Escuela Técnica Horizonte,02/03/2024,2024-05-30,CRM
+C-010392,Concepción,Jiménez Beltrán,concepcion_jimenez@icloud.com,+522292758368,"Calle Independencia 5456, Col. Doctores",Veracruz,Ver.,91845,Servicios Industriales Tepic,2025-02-26,27-feb-2025,CRM
+C-010393,JULIO,Ortega Cortés,julio55.ortega@papeleriayoficin.mx,222 834 7829,"Camino Real 746, Col. Centro",Puebla,Pue.,72153,Papelería y Oficina Atlas,08/26/2026,2026-11-07,CRM
+c-010394,Rodrigo,Contreras Rosales,rodrigo.contreras@tvazteca.com,52-722-261-6957,"Cerrada Las Flores 8345, Col. Condesa",Toluca,Estado  De Mexico,50071 ,TV Azteca,2025-07-27,13-08-2026,CRM
+C-010395,NA,Núñez Aguilar,felipe.nunez@comercialdelvall.com,045 222 769 4163,"calle 16 de septiembre 2901, col. polanco",Puebla,pue.,72625,COMERCIAL DEL VALLE,-,08/10/2021,CRM
+C-010396,Eduardo,León Ramos,eleon@farmaciasdelcent.mx,+52 1 492 989 1463,"Av. Madero 1099, Col. Santa María",Zacatecas,Zacatecas,98016,Farmacias del Centro,10/16/2024,07/06/2026,CRM
+C-010397,Jorge,Benítez Chávez,JBENITEZ@YAHOO.COM.MX,81-6843-2992,"Blvd. Manuel Ávila Camacho 4414, Col. Anzures",Monterrey,Nuevo Leon,64376 ,Farmacias del Centro,2022-10-18,07-08-2024,CRM
+C-010398,Brenda,Castillo Navarro,brenda76.castillo@correo.com.mx,0448443926229,"Av. División del Norte 2317, Fracc. El Pedregal",Saltillo,Coahuila,25269 ,FARMACIAS DEL CENTRO S.A. DE C.V.,06/05/2021,2023-04-19,CRM
+C-010399,CamilA, Ortiz Vazquez ,camila_ortiz@americamovil.con.mx,(667) 305-3765,"Calle Allende 815, Fracc. Las Américas",culiacán,Sin.,80192,AMERICA MOVIL S.A.B. DE C.V.,2024-13-40,03/11/2026,Salesforce
+C-010400,Soledad,Ríos Carrillo,srios@empresa.mx,9933390991,"Av. López Mateos 3412, Col. Guerrero",Villahermosa,Tab.,8613,NA,20260405,2026-05-11,CRM
+C010401,Liliana,Flores Villanueva,lilianaflores@serviciosindustr.com.mx,," Av. Las Palmas 5595, Fracc. El Pedregal",Oaxaca,Oaxaca,68172,Servicios Industriales Tepic,2021-04-23,09-03-2024,CRM
+C-010402,Carmen,Flores Hernández,Carmen.flores@EMPRESA.MX,0444776542393,"Av. México 2101, Col. Polanco",León,Gto,37264,Palacio de Hierro,2024-07-03,03-11-2026,CRM
+C-010403,Felipe,lara gallegos,felipe.lara@tvazteca.mx,+52 222 839 9332,"Calle Zaragoza 1515, Col. Roma Norte",Puebla,Puebla,72601,tv AzTeCa,01-10-2022,29-abr-2023,SFDC
+C-010404,ANDREA,ranGEL meNdOza,andrearangel@empresa.mx,449 221 2391,"CALLE JUÁREZ 7880, COL. ROMA NORTE ",Aguascalientes,AGS,20254,pLáSticos dEL pEDrEGal,2028-12-03,2024-01-17,CRM
+C-10405,Andrea,Gallegos  Sánchez,ANDREA_GALLEGOS@REFACCIONESELAGU.MX,0444920233803," Andador San Pedro 6734, Col. Jardines del Sur ",Zacatecas,Zac.,n/a, Refacciones El Águila,06/06/2021,22-03-2022,CRM
+C-010406,Ricardo,Quintero  Robles,ricardo.quintero@proton.me ,(614) 892-1487,"Av. División del Norte 6542, Col. Roma Norte",Chihuahua,CHIH,31359,ALIMENTOS LA HACIENDA S.P.R. DE R.L. DE C.V.,27/06/2024,20/03/2026,crm
+C-010407, Jimena,Trejo Gutiérrez,jimena_trejo@live.com.mx,+52 662 325 0925,"Blvd. Solidaridad 1477, Col. Condesa",Hermosillo,Sonora,83077,Boutique Luna de Plata,2024-11-27,20231209,Salesforce
+C-010408,Alejandro,Díaz Martínez, alejandro_diaz@icloud.com,NA,"Calle Zaragoza 198, Col. Moderna",Toluca,Méx.,50235,NA,2022-01-09,2025-11-25,crm
+C-010409,Castañeda,Rafael Guerrero,,+52 1 449 914 4791,"Av. División del Norte 4134, Fracc. El Pedregal ",Aguascalientes,Ags.,20097,INMOBILIARIA CERRO GRANDE S.A. DE C.V.,28/05/2021,20250515,CRM
+C-010410,Renata,Barrera Molina,renata.barrera@cultivoshidropon.com.mx,662 811 6609,"Calle Morelos 2956, Col. Del Valle",Hermosillo,Son.,83233,Cultivos Hidropónicos Anda,n/a,2023-11-05,CRM 
+C-010411,Diego,Pacheco Sánchez,diego.pacheco@hotmail.com,+526186947799,"Av. Madero 965, Fracc. Lomas Verdes",Durango,DGO,34222,Soriana,18/04/2023,23/04/2023,CRM
+C-010412,JUAN,Rodríguez Medina,juan.rodriguez@correo.com.mx,+527710497254,"av. universidad 1971, col. polanco",Pachuca,Hgo.,42047,Grupo Modelo,2024/12/10,2026-06-21,CRM
+C-010413,Felipe,Domínguez Mejía,felipe78.dominguez@sistemasaguiladi.com,4434443552,"Av. Central 2663, Col. Industrial",Morelia,MICH,58077,Sistemas Águila Digital,2026-08-27,2026/10/24,CRM
+C-010414,Esteban,Rangel González,,NA,"Av. Reforma 7017, Col. Centro",Zacatecas,Zac.,98053,Tecnologías Sierra Azul,07/06/2025,2025-12-22,CRM
+C-010415,Carlos,Márquez Velázquez,NA,0446621525716,,Hermosillo,Son.,83181,Aceites y Grasas del Golfo,2021-11-21,,CRM
+C-010416,Fernanda,Salinas Muñoz,fernanda.salinas@carpinteriariobl.com,443-264-3275,"Av. Madero 4920, Col. Doctores",Morelia,Michoacan,CP 58194,Carpintería Río Blanco,14/04/2023,01/12/2026,Salesforce
+C-010417,Carlos,Benítez Ríos,NA,(614) 890-6993,"Av. Colón 1287, Col. Santa María",Chihuahua,Chihuahua,31084,Cultivos Hidropónicos Anda,2026-03-06,2026-04-05,CRM
+C-010418,N/A,Moreno Rodríguez,itzel.moreno@panaderiasanmart.com.mx,0052 33 8026 7186," Av. México 5402, Col. Guerrero ",Guadalajara,Jal,44902,n/a,06-09-2025,2026-05-22,CRM
+C-010419,Camila,Martínez Cárdenas,camila10.martinez@gmail.com,+526148250626,"Av. Constitución 6155, Col. Doctores",Chihuahua,CHIH,31564,Consultoría Montes Blancos,07-dic-2023,2023/12/28,CRM
+C-010420,Martín,Medina Márquez,mmedinadistribuidoranor.mx,+52 1 443 671 4674,"Av. Universidad 9875, Col. Condesa",Morelia,Michoacan,58367,distRibuidORa nOrteÑa ,28/06/2025,06/06/2026,CRM
+C-010421,Gerardo,Muñoz Paredes,gerardomunoz@aeromexico.com.mx,52-312-140-5666,"Calle Morelos 2633, Col. Guerrero",Colima,coL.,28058,aeroméxico,30/12/2023,01/07/2026,CRM
+C-010422,Mariana,Padilla Santiago,marianapadilla@tecnologiassierr.com,045 442 388 7557,"Calle Juárez 1677, Col. Doctores",Querétaro,Qro.,76084,Tecnologías  Sierra Azul,22-02-2025,22/01/2021,CRM
+C-010423,Sergio,Gutiérrez Delgado,sergio.gutierrez@aceitesygrasasde.mx,2297864244,"Calle Juárez 547, Col. Anzures",Veracruz,Veracruz,91810,Aceites y Grasas del Golfo,2022-08-06,2022-08-14,CRM
+C-010424,Óscar,Mendoza Jiménez,oscar.mendoza@energiasolardeld.mx,n/a,"Calle 16 de Septiembre 1183, Col. Polanco",GDL,Jalisco,44589,Energía Solar del Desierto,02/19/2024,2025-01-24,CRM
+C-010425,Armando,Morales Medina,armando.morales@yahoo.com.mx,618-203-3542,"ANDADOR SAN PEDRO 6299, COL. GUERRERO",Durango,Durango,34166,RADIOMOVIL DIPSA S.A. DE C.V.,20211218,2024-06-23,CRM
+C-010426,Juan,Trejo Herrera,juan.trejo@outlook.com,0446861808680,"Privada Los Pinos 5403, Col. Moderna",Mexicali,BC,2118,Taller Mecánico Los Pinos,2026-08-05,15/10/2026,CRM
+C-010427, Jorge,Solís Morales,jorge.solis@agropecuarialasp.com.mx,7227316652,-,Toluca,Edo. México,50046,Agropecuaria Las Palmas,2022/01/20,2025-04-16,CRM
+C-010428,Juan,Rosales Reyes,juan.rosales@icloud.com,+52 667 074 7815,"Calle Hidalgo 9737, Col. Industrial",Culiacán,Sin.,80160,NA,08/29/2025,2026-10-09,CRM 
+C-010429,Pedro,Villanueva Moreno,pedro.villanueva@refaccioneselagu.com,664 305 4674,"Calle Independencia 2448, Fracc. El Pedregal",Tijuana,Baja Calif.,22492,Refacciones El Águila,2021/04/05,2022-02-02,CRM
+C-010430,Óscar,Cruz Fuentes,oscar.cruz@yahoo.com.mx ,229-003-0461,"Blvd. Solidaridad 7641, Col. Roma Norte",Veracruz ,VER,91840,el puerto de liverpool s.a.b. de c.v.,23-06-2023,05/23/2026,CRM
+C-010431,Rafael,Márquez Juárez,rmarquez@lacteoslapradera.com.mx,(81) 9782-5665,"Av. Pedregal 4123, Col. Guerrero",Monterrey,Nuevo Leon,64681 ,LáCtEos  La pRAdeRa,2023-10-08,18/04/2024,CRM
+C-010432,Silvia,Pacheco Rojas,,N/A,"Av. Insurgentes Sur 915, Residencial Los Álamos",Villahermosa, Tab.,86091,Chedraui,2024-06-12,2025-01-23,CRM
+C-010433,Francisco,Trejo Herrera,francisco57.trejo@correo.com.mx,+523121002921,"CERRADA LAS FLORES 3798, COL. NARVARTE",Colima,Col.,28030,Energía Solar del Desierto,29/04/2024,,CRM
+C-010434,Óscar,Gutiérrez Mendoza,oscar.gutierrez@gmail.com,045 722 087 1827," Privada Los Pinos 2118, Col. Guerrero ",Toluca,Estado de México,50081,consUltorÍa monTEs blANcOs,2022-07-14,05/05/2022,CRM
+C-010435,-,Cruz Estrada,raulcruz@consultoriamonte.mx,(744) 790-6889,"Camino Real 8708, Col. Narvarte",Acapulco,Guerrero,CP 39505,Consultoría Montes Blancos,11-01-2023,2025-02-12,CRM
+C-010436,Elena,Valdez Mejía,elena.valdez@refaccioneselagu.com.mx,833 327 0685,"Av. Pedregal 1094, Col. Merced",Tampico,TAMAULIPAS,89060,Refacciones El Águila,2026-07-12,2026-09-10,CRM
+C-010437,Gerardo,n/a,gcardenas@gmal.com,045 477 522 4528,"Camino Real 7233, Col. Narvarte",León,gto,37409,EL PALACIO DE HIERRO S.A. DE C.V.,2021-03-22,20220309,CRM
+C-010438,Alicia,Valdez Trejo,alicia83.valdez@soriana.com.mx,(449) 388-3931,"Calle Zaragoza 7068, Fracc. El Pedregal",Aguascalientes, AGS,20314 ,Soriana ,13/02/2026,2026-10-28,CRM
+C-010439,Rosa,Villanueva Trejo,rvillanueva@outlook.com,+52 477 929 2308,"Calle Morelos 985, Col. Centro",León,GTO,37171,PAPELERIA Y OFICINA ATLAS S.A. DE C.V.,2021-05-07,2023-03-17,CRM
+C-010440,Felipe,Calderón Rojas,felipe_calderon@cemex.com.mx,+527226501085," av. división del norte 7128, col. san rafael",Toluca ,Estado de México,50100,Cemex,2023-05-30,06/08/2023,Salesforce
+C-010441,Carlos,SALAZAR PEÑA,carlos.salazar@transportesdelpa.com,0052 844 517 4229,"Calle Hidalgo 5933, Col. Doctores",Saltillo,Coah.,25192 ,Transportes del Pacífico,20/03/2024,2026-10-29,CRM 
+C-010442,Martín,Bautista Guerrero,martinbautistatransportesdelpa.mx,N/A,"Cerrada Las Flores 8985, Col. Guerrero",Acapulco,Gro.,39475,Transportes Del Pacifico S.A. De C.V.,2021-06-06,11/12/2024,CRM
+C-010443,Valeria, Benítez González,VALERIABENITEZ@INMOBILIARIACERR.MX,+527444472887,"Blvd. Manuel Ávila Camacho 6705, Col. Anzures",Acapulco,Guerrero ,n/a,Inmobiliaria Cerro Grande S.A. De C.V.,20240214,01/22/2026,CRM
+C-010444,Francisco,Padilla Lara,,771 343 0407,"Calz. Ignacio Zaragoza 8417, Fracc. Las Américas",Pachuca,Hidalgo,42084,Agencia Aduanal Bahía,05-feb-2022,2026-01-02,CRM
+C-010445,Martha, Carrillo ,MARTHACARRILLO@LIVERPOOL.MX,+52 833 635 3212,"Av. San Jerónimo 5458, Col. Doctores",tampico,Tamaulipas,89374,EL PUERTO DE LIVERPOOL S.A.B. DE C.V.,13-12-2023,19/07/2026,Salesforce
+C-010446,Brenda,Pérez González,bperez@televisa.mx,0449814594363,"AV. LAS PALMAS 7103, COL. CENTRO",Campeche,Campeche,24094,Televisa,13/05/2023,20230702,CRM
+C-010447,Renata,Hernández Gómez,renata74.hernandez@imprentaoroverde.com.mx,52-961-895-7121,"Av. México 4807, Col. Moderna",Tuxtla Gutiérrez,Chis.,29089,Imprenta Oro Verde S.A. De C.V.,29-10-2021,2024-05-17,CRM
+c-010448,Alejandra,Navarro Acosta,anavarro@femsa.com,n/a,"Calle Rayón 3168, Fracc. El Pedregal",Culiacán,SIN,80110,Femsa,06/04/2026,25-04-2026,CRM_MX
+C-010449, Ángel ,Robles Flores,angel66.robles@gmail.com,+529935045887,"Calle Allende 7156, Col. San Rafael",Villahermosa,TAB,86065 ,Liverpool,2022/12/27,2025-11-18,CRM
+C-010450,Martín ,Rodríguez,martin.rodriguez@empresa.mx,0444442915481,"Av. Constitución 2569, Col. Del Valle",San Luis Potosí,S.L.P.,78398,Femsa,01/01/2022,2026-06-25,Salesforce
+C-010451,Felipe,Cabrera Villanueva,n/a,+528441679243,"Privada Los Pinos 9844, Fracc. Las Américas",SALTILLO,COAH,25032,Comercial del Valle,18/04/2024,2026-11-01,CRM
+C-010452,Saúl,Ramos Mendoza,saul.ramos@icloud.com,833-489-7455,"Calle  Juárez 8867, Residencial Los Álamos",tAmpIco,Tamaulipas,89302,Alimentos La Hacienda,2024-04-10,20220610,CRM
+C-010453,Ximena,Rodríguez Mendoza,ximena.rodriguez@proton.me,+527447762832,"Calle 5 de Mayo 6180, Col. Jardines del Sur",Acapulco,Gro.,39342,Taller Mecánico Los Pinos,2025/04/29,26-may-2025,CRM 
+C-010454, Jimena ,Medina  Sandoval,Jimenamedina@PROTON.ME,-,"privada los pinos 388, col. doctores",Veracruz,Ver. ,91787,GRUPO BIMBO S.A.B. DE C.V.,2023-03-31,20240502,crm
+C-010455,Jesús,-,jesus6.cervantes@joyeriaestrellad.mx,+526676529700,"Calle 5 de Mayo 4567, Fracc. El Pedregal",Culiacán,Sin.,80121 ,Joyería Estrella del Sur,24/02/2023,26/08/2025,crm
+C-010456,tomás,Pérez Silva,tomas.perez@hotmail.com,n/a,"av. tecnológico 5825, col. roma norte ",Villahermosa,Tabasco,86149,Fomento Economico Mexicano S.A.B. De C.V.,2025-05-25,2025-10-06,CRM
+C-010457,Francisco,reYEs rOjAs,freyes@agropecuarialasp.com,NULL,"CALLE ALLENDE 5795, COL. INDUSTRIAL ", Morelia,miChOaCan,58007,AGROPECUARIA LAS PALMAS S. DE R.L. DE C.V.,2024-13-40,17/06/2022,Salesforce
+C-010458,Zofía , Molina Estrada ,sofia_molina@vidriosyaluminio.com,0449980490471,"Av. Las Palmas 2072, Residencial Los Álamos",Cancún,q.r.,77537,Vidrios y Aluminios del Norte,20260310,2026-04-15,crm
+C-010459,Verónica,Ramírez Fuentes,veronica93.ramirez@inmobiliariacerr.com,52-998-403-4347,"Av. México 2855, Col. Jardines del Sur",Cancún,QR,77521 , Inmobiliaria Cerro Grande ,14/01/2022,20260109,CRM
+C-010460,Álvaro,Núñez Padilla,alvaro.nunez@correo.com.mx,9936487978,"Av. Insurgentes Sur 501, Fracc. Lomas Verdes",Villahermosa,Tabasco,86047,Seguros Loma Alta,2021-03-11,2026-05-29,CRM
+C-010461,Liliana,Gallegos Peña,liliana.gallegos@fundicionsantaro.mx,4431494714,"Calle Juárez 1868, Col. Santa María",Morelia,Michoacán,58170,Fundición Santa Rosa,2023-12-05,2025-11-02,CRM
+C-010462,Roberto,Soto López,roberto_soto@herramientasdeli.mx,4778625726,"Privada Los Pinos 4803, Fracc. Las Américas",León,Gto,37508,Herramientas Del Istmo,2025-03-02,08/09/2026,CRM
+C-010463,Diego,Trejo Molina,diego_trejo@bimbo.com.mx,442-481-6147,NA,querétaro,Qro.,76130,Bimbo,07/04/2021,2024-09-27,CRM_MX
+C-010464,,Zamora Pacheco,pablo.zamora@correo.com.mx,0052 443 165 7247,"Andador San Pedro 133, Col. Centro",Morelia,MICH,58063,Banorte,04-09-2025,19/03/2026,CRM
+C-010465,Óscar,Fuentes Gallegos, ofuentes@clinicasantaceci.com.mx,0052 229 297 8631,"Cerrada Las Flores 4645, Col. Moderna",Veracruz,VER ,,Clínica Santa Cecilia,10/05/2024,23/07/2024,CRM
+C-010466,Seastián,gallegso salazar,sebastian.gallegos@proton.me,0444423785369,"Av. Constitución 6661, Col. Condesa",Querétaro,Queretaro,76144,GRUPO BIMBO S.A.B. DE C.V.,2021-12-18,2025-03-02,CRM_MX
+C-010467,Sebastián,Lara Espinoza,sebastianlara@serviciosindustr.com.mx,981 610 0434,"Av. Insurgentes Sur 6711, Col. San Rafael",Campeche,Campeche,24049,Servicios Industriales Tepic,2025-07-17,2025-08-27,CRM
+C-010468,Rodrigo,Sandoval León,rsandoval@yahoo.com.mx,0052 229 553 7694,"Privada  Los Pinos 4886, Col. Del Valle",Veracruz,Veracruz,91860 ,AGENCIA ADUANAL BAHÍA,22-01-2024,20250702,CRM
+C-010469,Hugo,Chávez Cruz,hugo_chavez@correo.con.mx,961-963-3754,"Calle Morelos 1870, Col. Polanco",Tuxtla Gutiérrez,Chis.,29028,Hoteles Brisa Maya,06/12/2024,21/09/2026,CRM_MX
+C-010470,Roberto,Ramírez Vázquez,roberto.ramirez@papeleriayoficin.com.mx,+52 444 190 3068,"Blvd. Manuel Ávila Camacho 4933, Col. Industrial", San Luis Potosí,San Luis Potosi,78222,Papelería y Oficina Atlas,2021-12-12,06/18/2021,CRM
+C-010471, Camila,Jiménez Salazar ,camila.jimenez@proton.me,0449518630872,"Av. México 7721, Fracc. Lomas Verdes",Oaxaca,oAXACa,6815,Telcel ,26-06-2026,2026-08-09,CRM
+C-010472,Alejandra,NULL,,045 55 4353 4761,"Calle Hidalgo 1002, Col. Polanco",CDMX,Ciudad de México,08836 ,Boutique Luna de Plata,09/27/2025,02/21/2026,CRM
+C-010473,Silvia,López Castro,silvia.lopez@correo.com.mx,+52 1 662 792 5708,"Av. Madero 2169, Col. Merced",Hermosillo,Son.,83260,Inmobiliaria Cerro Grande,2021-12-31,11/08/2026,CRM
+C-010474,Karla,Cruz Robles,karlacruzgmail.com,+52 55 0933 2960,"Av. Central 9733, Col. Jardines del Sur ",Ciudad de México,D.F.,09474, Transportes Del Pacifico S.A. De C.V.,31/07/2023,20240922,CRM
+C-010475,Sofía,Silva Cortés,sofia.silva@construccionesde.com.mx,045 618 397 0796,NULL,Durango,Durango,3429,Construcciones del Sureste,2021-11-06,25/02/2025,Salesforce
+c-010476,Tomás,Chávez Ramos,tomas_chavez@icloud.com,045 449 679 7129,"Av. Colón 6526, Col. Obrera",Aguascalientes,Ags.,20009,PAPELERÍA Y OFICINA ATLAS,2026-07-26,2026-08-13,CRM
+C-010477,Itzel,Arias Ramírez,itzel_arias@consultoriamonte.mx,8180738676,"Av. Reforma 6155, Col. Narvarte",Monterrey,Nuevo León,64200,Consultoría Montes Blancos,2023-03-08,2023-03-10,CRM
+C-010478,Ignacio,Ortiz Torres,ignacio.ortiz@oxxo.mx,n/a,"Calz. Ignacio Zaragoza 5920, Fracc. Lomas Verdes",Saltillo,Coahuila,25250,CADENA COMERCIAL OXXO S.A. DE C.V.,06/03/2022,2024-05-07,CRM
+C-010479,Miguel,Arias Vázquez,miguel.arias@farmaciasdelcent.com,(443) 695-3176,"Av. Insurgentes Sur 3002, Col. Obrera",Morelia,Michoacan,58320,NULL,24-04-2025,2022-01-03,CRM 
+C-010480,Francisco,Trejo Herrera,francisco57.trejo@correo.com.mx,3121002921,"Cerrada Las Flores 3798, Col. Narvarte",Colima,Colima,28030,Energía Solar del Desierto,2024-04-29,2025-11-14,CRM
+C-010481,Renata,Castañeda Ortiz,renatacastaneda@icloud.com,0449997567697,"Av. Pedregal 2791, Col. Del Valle",Merida,Yuc.,97049, Liverpool,28/04/2022,05-10-2025,CRM
+C-010482,Pablo,Moreno Acosta,pablo.moreno@mueblesriviera.mx,2222629994,"Av. Las Palmas 2987, Col. Moderna",Puebla,Pue.,72435,muebles riviera,22/11/2021,2023-12-31,CRM
+C-010483,María,Acosta León,mariaacosta@icloud.com,0052 618 633 4187,"Av. Reforma 1361, Col. Jardines del Sur",Durango,Dgo.,34296 ,Grupo Bimbo S.A.B. De C.V.,28-02-2024,2026/03/13,CRM
+C-010484,Norma,Romero Zamora,nromero@transportesdelpa.mx,4770583365,"Calle Rayón 2374, Col. Roma Norte",León,Guanajuato,37215,Transportes del Pacífico,2025-06-21,2026-09-18,CRM
+C-010485,Pilar,Sandoval Hernández,psandoval@escuelatecnicaho.mx,(449) 572-5537,"Calle Allende 4453, Col. Roma Norte",Aguascalientes,AGS,20315 ,Escuela Tecnica Horizonte S.C.,11-nov-2022,03/09/2025,CRM
+C-010486,Valeria,Padilla Castañeda,valeria27.padilla@hotmail.com,+52 1 686 416 3092,"Calle 16 de Septiembre 5593, Fracc. El Pedregal",Mexicali,Baja California,21163,Fundición Santa Rosa,05/18/2025,2025-11-25,CRM
+C-010487,Álvaro,Castañeda Sandoval,acastaneda@joyeriaestrellad.mx,045 981 813 2440,"Blvd. Solidaridad 4769, Col. Merced",Campeche,Camp.,24023,Joyería Estrella del Sur,2022-04-10,,CRM
+C-010488, Lucía,Rojas Acosta,lucia_rojas@cultivoshidropon.com.mx,998 590 6318,"Calle Juárez 2613, Col. Santa María",Cancún,QR,77502, CULTIVOS HIDROPONICOS ANDA S. DE R.L. DE C.V. ,23/09/2025,20/03/2026,CRM
+C-010489,Mariana,Reyes Castillo,mariana_reyes@hotmail.com,52-222-886-6655,"Av.  Pedregal 5484, Col. Del Valle",Puebla,Puebla,72342,Energía Solar del Desierto,11-may-2025,20250916,CRM
+C-010490,Iván,Reyes Navarro,IVAN81.REYES@ALSEA.COM,+52 1 477 384 0776,"Av. Universidad 9496, Col. Polanco",León,Gto,CP 37138,Alsea,2024-03-26,2026-10-31,CRM
+C-010491,Ignacio,García Medina,ignacio_garcia@oxxo.com,9816474978,"Av. Constitución 3044, Col. San Rafael",Campeche,Campeche,24050,Oxxo,2026-04-12,2026-07-12,CRM
+C-010492,Gabriela,Peña Herrera,gabriela.pena@outlook.com,618-166-5624,"Av. San Jerónimo 9978, Col. Moderna",DURangO,DGO,34285,Inmobiliaria Cerro Grande,2025-05-01,2026-02-07,CRM
+CRM-10493,josé,Ramírez Velázquez,jose_ramirez@carpinteriariobl.com,0052 722 929 5432,"Blvd. Manuel Ávila Camacho 2160, Col. Industrial",Toluca,Méx.,50191,Carpintería Río Blanco,2023-07-04,10/01/2023,CRM
+C-010494,Paola,zamora gallegos,paola69.zamora@americamovil.mx,045 222 813 1051,"Camino Real 7385, Col. Moderna",Puebla,PUE,72393,AMÉRICA MÓVIL,2024-01-17,03/24/2026,CRM
+c-010495,Saúl,Pacheco Martínez,spacheco@icloud.com,5557430616,"Av. Tecnológico 5560, Col. Santa María",Ciudad de México,Ciudad de México,14888,Tecnologías Sierra Azul,2022-10-30,2021-09-25,CRM
+C-010496,Martha,Castañeda Silva,martha.castaneda@seguroslomaalta.com.mx,0052 951 492 8862," Calle 5 de Mayo 5598, Col. Anzures",Oaxaca,Oaxaca,68032 ,Seguros Loma Alta,01/03/2023,10/18/2024,CRM
+C010497,Rafael,Castañeda  Guerrero,rafael_castaneda@inmobiliariacerr.com.mx,045 449 914 4791,"Av. División Del Norte 4134, Fracc. El Pedregal",Aguascalientes,Ags.,20097,Inmobiliaria Cerro Grande,28-05-2021,15/05/2025,CRM 
+C-010498,Tomás,Chávez Ramos,tomas_chavez@icloud.com,4496797129,"Av. Colón 6526, Col. Obrera",Aguascalientes,Aguascalientes,20009,Papelería y Oficina Atlas,2026-07-26,2026-08-13,CRM
+C-010499,Martín,Benítez Morales, martinbenitez@live.com.mx,0446627569513,,Hermosillo,Sonora,83140,TV Azteca,2023-02-21,2025-01-08,CRM
+C-010500,Ángel,NULL,angel_flores@yahoo.com.mx,(686) 007-5638,"Calle 5 de Mayo 1879, Col. Polanco",Mexicali,Baja Calif.,21123,America Movil S.A.B. De C.V.,2023-01-22,20240818,CRM
+C-010501,Diana ,OROZCO SALAZAR,DIANA.OROZCO@CORREO.COM.MX,664 588 7592,"Calle 16 de Septiembre 7452, Col. Del Valle",Tijuana,B.C.,22066,Consultoría Montes Blancos,04/10/2022,17/03/2026,CRM
+C-010502,Elena,Castro Miranda,elena_castro@aeromexico.com,744-788-2868,"AV. CENTRAL 7771, COL. POLANCO",Acapulco,Guerrero,39858,Aerovías De Mexico S.A. De C.V.,2025/05/16,15-sep-2025,CRM
+C-010503,Emilio,Trejo Rodríguez,emilio.trejo@yahoo.com.mx,(961) 351-4255,"Calle Zaragoza 8807, Col. Narvarte",Tuxtla GUtIÉRrez,CHIS,29100,Boutique Luna de Plata,12/13/2022,06/01/2025,CRM
+C-010504,Paola,Acosta Rosales,pacosta@outlook.com,(951) 479-4948,"Av. División del Norte 7569, Residencial Los Álamos",Oaxaca,Oax.,68110,Sistemas Águila Digital ,,11-02-2026,CRM
+010505,Daniela,Espinoza  Juárez,,,"calle rayón 5305, col. centro",Aguascalientes,AGS,20165,ALSEA S.A.B. DE C.V.,2021-05-22,2026/07/30,crm
+C-010506,Diana,Mendoza Silva,diana42.mendoza@proton.me,(662) 293-3460,"aV. LóPez MAteoS 3506, Col. ObrerA",Hermosillo,son,83358,Elektra,2024-08-12,22-09-2026,CRM
+C-010507,Margarita,Ríos Rodríguez,margarita_rios@icloud.com,2297658838,"Calle 5 de Mayo 2516, Col. Anzures",Veracruz,Veracruz,91967,Lácteos La Pradera,2022-12-24,2024-04-08,CRM
+C-010508,Andrés,Santiago Cabrera,andres92.santiago@escuelatecnicaho.mx,744-048-8149,"Andador San Pedro 7405, Col. Centro",Acapulco,Gro.,39544,Escuela Técnica Horizonte,31/08/2025,2025/12/27,CRM
+C-010509,ISABEL,Reyes Villanueva,isabelreyes@uniformesindustr.mx,0446645184628,"Cerrada Las Flores 2521, Col. Industrial",Tijuana,BC,22407 , Uniformes Industriales Lobo,27-09-2023,19/03/2025,CRM
+C-010510,Juan,Herrera Cervantes,juan.herrera@chedraui.com.mx,045 81 7487 7707,"Av. División del Norte 7728, Col. Anzures",Monterrey,Nuevo León,64232,Chedraui,21-03-2023,18/01/2022,CRM
+C-010511,Camila,paredes morales,,(229) 343-4349,"Av. Las Palmas 4625, Fracc. El Pedregal",VERACRUZ,VER,91943,Hoteles Brisa Maya,15/03/2021,15-01-2022,CRM
+C-010512,Álvaro,,alvaro56.ortega@soriana.mx,045 443 273 6741,"Av. San Jerónimo 5083, Col. Moderna",Morelia,Michoacán,58396,Soriana,N/A,2028-04-24,CRM
+C-010513,Diana,Fuentes Orozco,,0052 33 8308 7102,"Av. Central 5359, Col. Santa María",Guadalajara,JAL,44110,Agencia Aduanal Bahía,2025-01-07,04/07/2022,CRM
+C-010514,Adriana,Rodríguez Vázquez,ADRIANA_RODRIGUEZ@COMERCIALDELVALL.COM,+52 444 161 3336,"Calle Hidalgo 6334, Col. Santa María", San Luis Potosí,S.L.P.,-,Comercial del Valle,2022-09-21,07/03/2023,CRM
+C-010515,Beatriz,Juárez Gallegos,beatriz28.juarez@yahoo.com.mx,+52 662 965 1033,"Calle Hidalgo 9395, Col. Doctores",Hermosillo,Son.,-, CEMEX S.A.B. DE C.V.,14-01-2023,18-dic-2025,CRM
+C-010516,Fernando,Ortiz Domínguez,fernandoortiz@telcel.com,477 182 3220,"Av. Colón 614, Col. Merced",León,gto.,37247,Telcel,2021-12-10,2023-05-05,CRM
+C-010517,Cristina,Quintero Acosta,cristina.quintero@.com,+52 981 836 2863,"Calle Hidalgo 6678, Col. Moderna",Campeche,CAMP,24073,Joyería Estrella del Sur,2021/08/10,2024-12-20,CRM_MX
+C-010518,Isabel,Calderón Juárez,isabel.calderon@comercialdelvall.mx,+52 1 614 431 4638,"Av. México 8247, Fracc. Las Américas",Chihuahua,CHIH,31371,Comercial del Valle,07/02/2026,13/09/2026,crm
+C-010519,Soledad,Navarro  Aguilar,soledad.navarro@fundicionsantaro.mx,0052 449 227 7038,"Blvd. Manuel Ávila Camacho 682, Col. Jardines del Sur",Aguascalientes,Ags.,20233 ,Fundición Santa Rosa,2023/12/14,11/06/2026,CRM
+C-010520,Jimena,Quintero Cabrera,JIMENA.QUINTERO@ICLOUD.COM,+52 744 363 7307,"Blvd. Solidaridad 3074, Col. Jardines del Sur ",Acapulco,Gro.,39781, TV Azteca,2025-08-04,04-02-2026,CRM
+CRM-10521,Javier,Cruz Díaz,javier_cruz@seguroslomaalta.com,(477) 158-9374,"Camino Real 909, Col. Obrera",León,Gto.,37113,Seguros Loma Alta,2023-02-25,19/04/2023,CRM
+C-010522,Roberto ,Márquez Torres,roberto.marquez@outlook.com,0444428089435,"Calz. Ignacio Zaragoza 8246, Col. Del Valle",Querétaro,Querétaro,76009 ,Servicios Industriales Tepic,18/06/2026,08-11-2026,CRM
+C-010523,Arturo,Trejo Reyes,arturo_trejo@icloud.com,0446676170066,"Av. Revolución 1381, Col. Jardines del Sur",Culiacán,Sin.,80051,láctEOs lA prADEra,14-08-2022,2026-05-26,SFDC
+C-010524,Diego, Villanueva Franco,dvillanueva@construccionesde.com.mx,52-222-720-2664,"Calz. Ignacio Zaragoza 2191, Col. Anzures",Puebla,Puebla,72541, construcciones del sureste s.a. de c.v.,20211226,2023-12-14,CRM
+C-010525,Sofía,Castro Jiménez,sofia52.castro@construccionesde.com,618 879 5257,"Av. México 2893, Col. Industrial",Durango,Durango,CP 34095,Construcciones del Sureste,n/a,25/09/2025,CRM
+C-010526,Ricardo,Cortés León,ricardo83.cortes@gmail.com,951 621 5023,"av. colón 1718, col. doctores",Oaxaca,Oax.,68133,Muebles Riviera,15/02/2024,16-feb-2026,CRM
+C-010527,Norma,Benítez Gallegos,norma.benitez@bimbo.com,52-444-376-2352,"CALLE ZARAGOZA 666, FRACC. LAS AMÉRICAS",San Luis Potosí,SAN LUIS POTOSI,78120, Bimbo,2021-10-27,18/07/2025,CRM
+C-010528,Álvaro,CALDerÓn MEJía,alvarocalderon@clinicasantaceci.com,+52 844 845 9405,"Blvd. Solidaridad 6152, Col. San Rafael",Saltillo,Coah.,25133 ,Clínica Santa Cecilia,2026-01-08,04-may-2026,CRM
+C-010529, Concepción,Moreno Zamora,cmoreno@tecnologiassierr.mx,771-105-8088,"Calle Independencia 5551, Col. Centro",Pachuca,HGO,42067,Tecnologías Sierra Azul,2023-12-15,2025-07-06,CRM
+C-010530,pAdiLlA,yesenia rangel,yesenia.padilla@seguroslomaalta.mx,+52 443 005 3954,"Calle Morelos 9423, Col. Moderna",Morelia,mICh,58382,SEGUROS LOMA ALTA S.A. DE C.V.,20230127,2024-06-18,CRM
+C-10531,Gabriela,Santiago Carrillo,gsantiago@logisticadelbaji.com.mx ,0052 777 878 2063,"Blvd. Solidaridad 3033, Col. Merced",Cuernavaca,MOR,62485,Logística del Bajío,n/a,12/02/2025,CRM
+C-010532,FrANcisCo ,Aguilar Cortés,faguilar@cultivoshidropon.com,(771) 305-0440,"Privada Los Pinos 6705, Col. Centro",Pachuca,HGO,42008,Cultivos Hidropónicos Anda,20260318,27/12/2021,CRM
+C-010533,Javier,Bautista Rangel,javier.bautista@transportesdelpa.com,+52 1 443 615 2399,"Privada Los Pinos 4214, Col. San Rafael",Morelia,Mich.,58313, Transportes del Pacífico,11/07/2026,2026/07/15,CRM
+C-010534,Iván,Cervantes Ibarra,icervantes@proton.me,2227211682,"Privada Los Pinos 9706, Col. Narvarte",Puebla,Puebla,72021,Consultoría Montes Blancos,2025-11-12,2026-07-16,CRM
+C-010535,Martha,Arias Martínez,martha18.arias@live.com.mx,7228121437,"Av. Pedregal 2666, Col. Merced",Toluca,Edo. Mex.,50149,Palacio de Hierro ,09/09/2022,2024-01-02,CRM
+C-010536,Rodrigo,Reyes Díaz,rodrigo35.reyescorreo.com.mx,045 662 165 2882,"Camino Real 3908, Col. Doctores",heRmosILlo,Son.,83229,Muebles Riviera,20250718,NA,CRM
+C-010537,Jesús,Acosta Villanueva,jesus.acosta@alsea.mx,045 722 025 6903,"Calle Zaragoza 197, Col. Polanco",Toluca,Estado de México,50121,ALSEA S.A.B. DE C.V.,08/02/2023,2023-11-19,CRM
+C-010538,Eduardo, Márquez Salazar,eduardo31.marquez@escuelatecnicaho.mx,0447229059997,"aV. RevOLución 1139, Fracc. el PedreGAL",Toluca,Edo. México,50108,Escuela Técnica Horizonte,28/09/2023,06-10-2025,CRM
+CRM-10539,Daniela,Zamora Rosales,daniela_zamora@hotelesbrisamaya.mx,(993) 485-2343,"Av. Central 7992, Fracc. El Pedregal",villahermosa,Tabasco,86045,Hoteles Brisa Maya,2023-08-17,2023-10-28,SFDC
+C-010540,Iván,Delgado León,ivan54.delgado@volaris.com.mx,9992874092,"Av. Pedregal 6469, Col. Obrera",Mérida,yucatan,97193, concEsIonarIA vUELa COmpaNia De aviACIoN S.A.b. de c.V. ,17-feb-2023,08/27/2025,CRM
+C-010541,José,Calderón Flores,jose65.calderon@farmaciasdelcent.com,045 312 043 5430,"Av. Constitución 8811, Col. Doctores",Colima,Col.,28077,Farmacias del Centro,2024-12-16,,CRM
+C-010542,Alejandro,oRTiZ cAmpOs,alejandro.ortiz@volaris.mx,0443301782091,"Andador San Pedro 2594, Fracc. El Pedregal",GDL,jalisco,44486,Volaris ,15/06/2022,2024-10-30,CRM
+C-010543,Silvia,CERVANTES ESTRADA,silvia.cervantes@hotmail.com,9994770111,"Av. Reforma 549, Col. Guerrero",Mérida,Yucatán,97188,Hoteles Brisa Maya,07/06/2022,2024/06/03,CRM
+c-010544,Pablo,Lara Mendoza,PABLO_LARA@LIVE.COM.MX,0443353963456,"CERRADA LAS FLORES 3009, COL. CONDESA",Guadalajara,Jal.,44621,HOTELES BRISA MAYA S.A. DE C.V.,08/17/2022,2021-01-05,CRM_MX
+C-010545,Sebastián,Gallegos Salazar,sebastian.gallegos@proton.me,(442) 378-5369,"aV. COnstitucIÓn 6661, col. COndesa",Querétaro,Qro.,76144 ,Bimbo,2021/12/18,02-03-2025,CRM_MX
+C-010546,José ,Lara Rangel,joselara@refaccioneselagu.mx,222 695 4149,"Calle Juárez 2193, Col. Moderna",Puebla,Pue.,72318,Refacciones El Águila,2025-10-06,01/04/2026,CRM_MX
+C-010547,Alejandro,Sandoval Robles,alejandro.sandoval@boutiquelunadepl.mx,52-999-243-3581," Calle Rayón 383, Col. Obrera ",Mérida,YUC,97217,Boutique Luna de Plata,01/03/2024,2025-05-06,CRM
+C-010548,Roberto,Cabrera Torres,roberto_cabrera@icloud.com,+52 1 443 717 8016,"Av. Constitución 5912, Col. Santa María", Morelia ,MICH,58152,-,2026-08-28,03/10/2026,CRM
+C-010549,Roberto,Cabrera Torres,roberto_cabrera@icloud.com,(443) 717-8016,"Av. Constitución 5912, Col. Santa María",Morelia, Michoacan ,58152,FARMACIAS DEL CENTRO S.A. DE C.V.,28-08-2026,2026-10-03,CRM 
+C-010550,Margarita,Fuentes,margarita46.fuentes@textilespueblano.com.mx,+52 1 833 537 9802," Camino Real 2119, Col. San Rafael ",Tampico,tamps,89331 , Textiles Puebla Nova ,2025-04-05,13/03/2026,SFDC
+C-010551,Fernanda,Pacheco Núñez,fernanda20.pacheco@hotelesbrisamaya.com.mx,6679747674,"Av. Reforma 5780, Col. San Rafael",Culiacán,Sinaloa,80288,Hoteles Brisa Maya,2024-01-26,2026-09-24,CRM
+C-010552,Francisco,Reyes Rojas,freyes@agropecuarialasp.com,443-965-5655,"Calle Allende 5795, Col. Industrial",Morelia,Michoacán,58007 ,N/A,20230323,2022-06-17,CRM
+C010553,teresa,NA,teresa.fuentes@sistemasaguiladi.com.mx,993-757-9845,"calle morelos 888, col. polanco",Villahermosa,Tab.,86130,Sistemas Águila Digital,07/09/2021,30/09/2023,CRM
+C-010554,Sofía,Ortiz Hernández,sofia.ortiz@icloud.com,52-833-639-1076,"Av. Central 459, Fracc. Las Américas",Tampico,Tamps.,89003,,2023-02-23,2024-02-16,CRM 
+C-010555,Lucía,Cortés Muñoz,lucia.cortes@oxxo.com,614-414-9230,"Calle Zaragoza 1668, Col. Polanco",Chihuahua,CHIH,31569,NULL,26/03/2022,12/28/2023,CRM
+C-010556,Julio,Cárdenas Navarro,JULIO64.CARDENAS@VIDRIOSYALUMINIO.COM.MX,+524427342208,N/A,Queretaro,Queretaro,7609,Vidrios y Aluminios del Norte,2022-03-21,11-05-2022,CRM
+C-010557,-,Velázquez Gallegos,natalia_velazquez@hotmail.com,+52 1 449 927 8791,"Calle Independencia 9177, Col. Merced",AGUASCALIENTES,AGS,20323,Inmobiliaria Cerro Grande,2022-12-06,16-08-2023,CRM
+C-010558,Ernesto,Rosales Bautista,ernesto.rosales@textilespueblano.mx,045 81 3415 1596,"Av. López Mateos 2493, Col. Santa María",Monterrey,Nuevo Leon,64465 ,Textiles Puebla Nova,18/03/2024,20241109,CRM
+C010559, sAúl ,Zamora Acosta,saulzamora@empresa.mx,+52 961 042 3592,"Av. López Mateos 4434, Col. Del Valle",Tuxtla Gutierrez,Chis.,29156,AEROVÍAS DE MEXICO S.A. DE C.V.,03/11/2022,28/08/2022,CRM
+C-010560,Lucía,González Morales,lucia_gonzalez@.com,045 777 797 1193,,Cuernavaca,Mor.,62259,Lacteos La Pradera S.P.R. De R.L. De C.V.,2026-06-15,2026-07-30,CRM
+C-010561,Fabiola,Pérez Ramos,fabiola.perez@fundicionsantaro.com,492-281-7260,"AV. INSURGENTES SUR 3234, COL. MERCED",Zacatecas,Zac.,CP 98088,Fundición Santa Rosa,2024-01-19,2025-09-30,CRM 
+C-010562,Verónica,Sandoval Vega,veronica.sandoval@transportesdelpa.com,+52 662 990 9686,"Blvd. Solidaridad 3542, Residencial Los Álamos",Hermosillo,Son.,83241,Transportes del Pacífico,09/09/2022,29/01/2024,Salesforce
+C-010563,fernanda,Aguilar García, fernanda82.aguilar@proton.me,+52 1 618 402 1079,"Privada Los Pinos 6741, Col. Narvarte",Durango,Dgo.,CP 34070,GRUPO BIMBO S.A.B. DE C.V.,20211220,31/12/2024,SFDC
+C-010564,Fernando,Domínguez Vargas,fernando.dominguez@yahoo.com.mx,3387325018,"Camino Real 2582, Residencial Los Álamos","Guadalajara, Jal.",Jalisco,44520,SEGUROS LOMA ALTA,07/14/2025,30-09-2026,CRM
+C-010565,Gerardo,Rojas García,gerardo.rojas@soriana.mx,(744) 596-1378,"Calle Morelos 7296, Col. Moderna",Acapulco,Gro.,39828,Soriana,2024-03-21,24/03/2025,CRM 
+C-010566,Ximena,Cortés Mejía,ximena_cortes@serviciosindustr.com,52-222-117-9414,"Av. López Mateos 6780, Col. Guerrero",Puebla ,Puebla,72073,Servicios Industriales Tepic S.A. De C.V.,2026/06/26,2026-07-03,CRM
+C-010567,Natalia,Salinas Chávez,natalia_salinas@outlook.com,0052 477 837 5868,"Calle Morelos 1568, Col. Guerrero",León,Guanajuato,37529,Elektra,20260408,2026-10-08,CRM
+C-010568,Felipe,Fuentes Torres,felipe.fuentes@empresa.mx,N/A,"aV. sAn jEróNimO 1154, fraCc. las aMériCas",Oaxaca,Oax.,68048,Aceites Y Grasas Del Golfo S.A. De C.V.,03-10-2021,26-11-2021,CRM
+C-010569,Silvia,GUTIÉRREZ RAMOS,silvia.gutierrez@correo.com.mx,N/A,"Calle Independencia 8937, Col. Del Valle","Monterrey, N.L. ",Nuevo León,64850,Bimbo,12/01/2022,2025-10-17,CRM
+C-010034,Isabel,Juárez Vargas,ijuarez@outlook.com,8332255015,"Calle Allende 2750, Fracc. El Pedregal",Tampico,Tamaulipas,89199,Seguros Loma Alta,2022-10-05,2023-09-29,CRM
+C-010571,Arturo,NAVARRO JIMÉNEZ,arturo_navarro@outlook.com,(312) 078-9017,N/A,Colima,COL,28010,ACEITES Y GRASAS DEL GOLFO S.A. DE C.V.,24-jul-2021,20250211,CRM
+C-010572, Eduardo,Beltrán Morales,ebeltran@tecnologiassierr.com,+52 667 840 9642,"Av. México 320, Col. Obrera", Culiacán,SIN,80124,Tecnologías Sierra Azul,07-ago-2024,2026-09-21,CRM
+C-010573,Silvia,Silva León,silvia91.silva@empresa.mx,4921628997,"Cerrada Las Flores 2476, Col. Moderna", Zacatecas,ZAC,98031,Construcciones del Sureste,09/24/2024,2024/11/10,CRM
+C-010574,alejandro,Miranda Fuentes,amiranda@outlook.com,618-027-1305,"Calle  5 de Mayo 830, Col. Moderna",Durango,Durango,34139,Fundición Santa Rosa,22/12/2023,2025-09-26,CRM
+C-010575,Regina,Vázquez León,regina_vazquez@oxxo.com.mx,9518221503,"Cerrada Las Flores 8735, Col. Guerrero",Oaxaca,Oaxaca,68141,Oxxo,2023-03-05,2024-09-13,CRM
+C-010576,María,jIménez gaLLeGos,n/a,6184318488," Blvd. Manuel Ávila Camacho 5527, Col. Santa María",Durango,DgO.,34211, inMObILiArIA cerrO GRande ,07/05/2024,2026-03-05,CRM
+C-010577,Karla,Díaz Velázquez,karla.diaz@imprentaoroverde.mx,0444491215501,"Calle Allende 3468, Col. Moderna",agUAscalientes,Ags.,20137,Imprenta Oro Verde,16/11/2025,2026-01-24,CRM
+C-010578,Renata,León Castro,renataleon@correo.com.mx,0446624795393,"Calz. de Tlalpan 3196, Col. Centro",Hermosillo,Sonora,83231,Palacio de Hierro,2026-04-28,2026-07-23,Salesforce
+C-010308,Sofía,Molina Estrada,sofia_molina@vidriosyaluminio.com,9980490471,"Av. Las Palmas 2072, Residencial Los Álamos",Cancún,Quintana Roo,77537,Vidrios y Aluminios del Norte,2026-03-10,2026-04-15,CRM
+C-010580,Daniela,Espinoza Juárez,daniela33.espinoza@alsea.mx,+52 1 449 011 5211," Calle Rayón 5305, Col. Centro",AGUASCALIENTES,Aguascalientes,20165,Alsea,2021-05-22,2026-07-30,CRM
+C-010581,Lucía,Valdez Martínez,lucia87.valdez@correo.com.mx,0446642513228,"Av. Revolución 7164, Col. Moderna",Tijuana,Baja California,22272,Fundicion Santa Rosa S.A. De C.V.,2025-11-14,2026-07-26,CRM
+CRM-10582,Fernando,CÁrdeNAS orozco ,fernandocardenas@seguroslomaalta.com,+52 1 443 276 4298,"CERRADA LAS FLORES 7343, COL. DEL VALLE",Morelia,MICH,58205,SEGUROS LOMA ALTA S.A. DE C.V.,07/19/2025,12-03-2026,crm
+C-010583,Brenda,Gómez Márquez,bgomez@correo.com.mx,4445359784,NA,San Luis Potosí,San Luis Potosi,78014,Textiles Puebla Nova,2023-10-10,2021/08/12,SFDC
+C-010584, Alberto,Ibarra León,alberto_ibarra@aceitesygrasasde.com,0052 771 087 6961,"Calle Allende 7428, Col. Jardines del Sur",Pachuca,Hgo.,42059,ACEITES Y GRASAS DEL GOLFO S.A. DE C.V.,25-06-2024,2024-12-18,CRM
+C-010585,Hugo, Juárez García ,hjuarez@empresa.mx,(686) 080-7402,"Calz. de Tlalpan 9737, Col. Santa María",Mexicali, BC,21047,Uniformes Industriales Lobo,21-jun-2021,14-01-2025,CRM
+C-010586,iván,Guerrero Soto,ivan61.guerrero@elektra.com,n/a,"Calle Hidalgo 5333, Col. Moderna",León,Gto,37461, Elektra,2024-04-20,2026-04-23,CRM
+C-010587,Alberto,Velázquez Trejo,alberto.velazquez@uniformesindustr.mx,777-342-4648,"calle AlLEnde 9211, fracC. Las aMÉRicas",Cuernavaca,MORELOS,62136,Uniformes Industriales Lobo,,2023-07-12,CRM 
+C-010588,Guadalupe,Arias Muñoz,guadalupe3.arias@joyeriaestrellad.com.mx,+529980341768," Av. Central 7492, Col. Polanco ",CANCÚN,Quintana Roo,77535,Joyería Estrella Del Sur,30/11/2021,2025-07-06,CRM
+CRM-10589,Fabiola ,PEÑA MEJÍA,fabiola_pena@icloud.com,0052 833 868 7600,"Calz. Ignacio Zaragoza 8928, Col. Condesa",Tampico,Tamps.,89331,Volaris,,2026-04-16,CRM
+C-010590,Silvia,Ríos Villanueva,silvia.rios@proton.me,0448332334298,"Av. Insurgentes Sur 9094, Fracc. Lomas Verdes",Tampico,Tamps.,89011,Farmacias del Centro,2023/01/08,2026-09-24,CRM
+C-010591,XIMENA,Rodriguez Mendoza,Ximena.rodriguez@PROTON.ME,+52 1 744 776 2832,"Calle 5 de Mayo 6180, Col. Jardines del Sur",Acapulco, Guerrero,39342,TALLER MECANICO LOS PINOS S.A. DE C.V.,29/02/2023,2025-05-26,SFDC
+C-010592,Lucía,Delgado Franco,N/A,951 928 7352,"Calle Morelos 124, Col. San Rafael",Oaxaca,Oaxaca,68122,Distribuidora Nortena S.A. De C.V.,2025-05-23,2026-08-06,CRM
+C-010593,Brenda,Hernández Ruiz,brenda26.hernandez@gmail.com,(229) 914-1972,"Calle Independencia 2593, Col. Guerrero",Veracruz, Veracruz ,91939 ,Seguros Loma Alta,2021/04/09,25/08/2022,CRM
+C-010594, josé,Paredes Espinoza ,joseparedes@serviciosindustr.com.mx,+52 312 693 8975,"Calle 16 de Septiembre 4606, Col. Narvarte",Colima,COL,28010 ,Servicios Industriales Tepic ,28/06/2023,2024-05-15,crm
+C-010595,Jesús,Velázquez Castillo,jesus.velazquez@textilespueblano.com.mx,(686) 801-2553,"Calle Independencia 106, Fracc. Las Américas",Mexicali,Baja Calif.,21091,Textiles Puebla Nova,2023/07/09,2026-09-28,CRM
+C-010596,Ricardo,Ramírez Orozco,-,,"Calz. de Tlalpan 128, Col. Del Valle",Toluca,Méx.,50001,Herramientas Del Istmo S.A. De C.V.,2022-10-26,28-01-2023,CRM
+C-010597,VALERIA,Castillo López,valeria.castillo@gmail.com,045 999 639 3647,"Av. Las Palmas 962, Fracc. El Pedregal",Mérida,Yuc.,97033,banorte,29/05/2024,12-ene-2026,CRM
+C-010598,Ángel,Sánchez Peña,angel.sanchez@icloud.com,0052 771 179 3207,"Calle Morelos 6968, Col. Condesa",Pachuca,HGO,42024,Pescados y Mariscos La Costa,2024-05-09,2025-01-31,CRM
+C-010599, Andrea, Salazar León,andrea63.salazar@icloud.com,+529510358484,"Av. Revolución 1109, Col. Jardines del Sur",Oaxaca,Oaxaca,68002 ,Bimbo,2021-08-12,05/08/2025,CRM
+C-010600,Vicente ,Padilla  Rosales,vicente.padilla@proton.me,7713644297,"Av. SAN JErónImO 7504, COl. anZuRes",Pachuca,Hidalgo,42061,Palacio de Hierro,2024-08-13,20260509,CRM
+C-10601,Elena,Ortiz Ramírez,elenaortiz@grupomodelo.com,6625714307,"Calle Independencia 2718, Col. San Rafael",Hermosillo,Sonora,83354,Grupo Modelo,2023-08-31,2026-09-30,CRM
+C-010602,Iván,Ramos Castañeda,ivan.ramos@elektra.mx,444 309 6680,"Av. Revolución 2525, Col. Guerrero",San Luis Potosí,S.L.P.,78454,Elektra,11/09/2021,26/04/2025,CRM
+C-010603,Fernanda,Vega Salazar,fernanda.vega@seguroslomaalta.mx,9930665078,"Av. Tecnológico 7351, Col. Condesa",Villahermosa,Tabasco,86111,Seguros Loma Alta,12/17/2025,20260915,CRM
+C-010604,Jorge, Ramírez Zamora,jorge47.ramirez@outlook.com,0446861121351,"Av. Central 1974, Col. Jardines del Sur",Mexicali,B.C.,21338,,2023-02-28,,crm
+C-010605,Daniela,Zamora Juárez,daniela89.zamora@yahoo.com.mx,(449) 553-0320,"Calle Hidalgo 6170, Col. Centro ",Aguascalientes,Ags.,20152,Cafeterías La Estación,14/11/2021,23-sep-2025,CRM
+C-010606,Diana, Moreno Medina,diana.moreno@bimbo.com,6145379466,"AV. UNIVERSIDAD 1281, COL. DEL VALLE",Chihuahua,Chihuahua,31033,bimbo,01-02-2024,2026-03-20,crm
+C-010607,n/a,Juárez Rojas,javierjuarez@hotmail.com,662 798 3701,"Av. Universidad 6541, Fracc. Las Américas",Hermosillo,SON,83085,Seguros Loma Alta S.A. De C.V.,09/07/2026,2026-09-13,CRM
+C-010608,Paola,Navarro Sandoval,paola.navarro@icloud.com,+524493002585,"Calz. de Tlalpan 2154, Col. Obrera",Aguascalientes,Aguascalientes,20359,Plásticos del Pedregal ,2023/01/29,2023-04-28,crm
+C-010609, María,Santiago Delgado,maria_santiago@laboratoriosnube.com,33 4479 2778,"Av. sAn jeróniMo 2128, coL. IndustRiAL","Guadalajara, Jal.",Jal.,44619 ,Laboratorios Nube Gris,21/04/2021,2024-05-22,SFDC
+CRM-10610,Fernando,Peña Navarro,fernando49.pena@proton.me,6182620348,"Calle Rayón 5885, Col. Obrera",Durango,Durango,34271,Coppel,2026-04-15,2024-10-30,CRM
+C-010611, Teresa ,Zamora García,tzamora@correo.com.mx,045 442 142 6293,"Av. Constitución 2034, Col. San Rafael",Querétaro,Querétaro,76081,Oxxo,2024-03-18,2026-02-28,CRM
+C-010612,Camila,Medina MOreno,cmedina@escuelatecnicaho.com.mx,6860978876,"Av. Colón 3675, Col. Moderna",Mexicali,B.C.,2109,ESCUELA TECNICA HORIZONTE S.C.,,03/10/2026,CRM
+C-010613, Margarita , Santiago Bautista,MARGARITA7.SANTIAGO@BIMBO.MX,+52 1 614 630 7095,"Av. Universidad 3636, Col. Narvarte",Chihuahua,Chih.,31053 ,Bimbo,02/11/2022,2026-10-23,CRM
+C-010614, Alicia,Flores Arias,alicia.flores@mueblesriviera.mx,+526642430842,"calle allende 5724, fracc. las américas",Tijuana, B.C.,22694, Muebles Riviera,07-03-2023,18/03/2023,CRM
+C-010615,Andrea,Ramírez Miranda,ANDREA.RAMIREZ@YAHOO.COM.MX,999-711-0967,"Av.  Madero 6790, Col. Narvarte",Mérida,Yucatán,97020,GRUPO COMERCIAL CHEDRAUI S.A.B. DE C.V.,2021-12-14,02/03/2026,CRM 
+C-010616,Teresa,Santiago Salinas,teresasantiago@icloud.com,+529935572747,"Privada Los Pinos 7567, Col. Industrial",Villahermosa,TAB,86122,Clínica Santa Cecilia,29-12-2022,2026-10-02,CRM
+C-010617,Diego,Robles Gallegos,NA,477 301 5593,N/A,León,GTO,37410,Seguros Loma Alta,-,29/06/2025,CRM
+C-010618,Guadalupe,Aguilar Velázquez,guadalupe.aguilar@live.con.mx,662 090 9096,"Av. Las Palmas 340, Col. Obrera",Hermosillo,Sonora,83144,Vidrios y Aluminios del Norte,2026-08-26,2026-08-28,CRM
+C-10619,Teresa ,Santiago Salinas,teresasantiago@icloud.com,+52 1 993 557 2747,"PRIVADA LOS PINOS 7567, COL. INDUSTRIAL",Villahermosa,TAB,86122,CLINICA SANTA CECILIA S.A. DE C.V.,29-dic-2022,2026-10-02,CRM 
+C010620,Mónica,Hernández Arias,monica.hernandez@energiasolardeld.mx,492 562 2193,"Av. Constitución 2269, Col. Doctores",zaCATeCas,zac,NA,Energía Solar del Desierto,09/07/2021,06-09-2025,CRM
+C-010621,Sofía,lópez ramírez,sofia.lopez@gmail.com ,(993) 836-0586,"Calle Independencia 2794, Col. Roma Norte",Villahermosa,TAB,8601,FOMENTO ECONOMICO MEXICANO S.A.B. DE C.V.,2024-10-12,19/09/2026,CRM
+C-010622,n/a,lara muñoz,luis.lara@soriana.com.mx,045 222 096 9848,"Av. Madero 6338, Col. Santa María ",Puebla,Pue.,72714,SORIANA,2025-12-30,20/09/2026,CRM
+C-010623,beatriz,Cabrera Solís,beatriz.cabrera@live.com.mx,52-312-688-2120,"Calle 16 de Septiembre 4820, Col. Anzures",Colima,Col.,28010 ,Grupo Comercial Chedraui S.A.B. De C.V.,14/02/2026,2026-10-06,Salesforce
+C-010624, César,GUTIÉRREZ MUÑOZ,cesar.gutierrez@empresa.mx,(442) 116-8834,"Av. López Mateos 830, Col. Jardines del Sur",QUerétaro,QRO,76238,N/A,2021-08-04,2025-02-11,CRM
+C-010625,Emilio, Márquez Ibarra,,993-787-9941,NULL,Villahermosa,tAB.,86029,Cultivos Hidropónicos Anda,07/29/2024,2025-03-27,CRM
+C-010626,Sofía,García Carrillo,sofia_garcia@outlook.com,045 55 0172 7169,"Cerrada Las Flores 7791, Col. San Rafael",Ciudad de México,Ciudad de México,09923,NA,23-06-2025,2026-05-31,CRM 
+C-010627,Diego,Morales Aguilar,diego68.morales@proton.me,(664) 395-2194,"Av.  Insurgentes Sur 799, Col. Moderna",Tijuana,Baja California,22389,Construcciones del Sureste,2023-06-16,2021-04-23,CRM
+C-010628,Armando,González Santiago,armando.gonzalez@grupomodelo.com.mx,52-477-712-5135,"Calle Independencia 3817, Col. Obrera",León,Gto,37064,grupo modelo,05/04/2023,2023-10-28,CRM
+C-010629,Rodrigo,Fuentes Lara,rodrigo.fuentes@live.com.mx,6189269127,,Durango,Dgo. ,34145,Imprenta Oro Verde,2024-07-25,N/A,CRM
+C-010630,Brenda,raMíREz vIllanUeva,N/A,+52 1 664 207 0867,"Av. Las Palmas 142, Col. Santa María", Tijuana,BC,22635,TRANSPORTES DEL PACÍFICO ,17-may-2022,20211125,CRM_MX
+C-010631,Ana,Valdez Campos,ana_valdez@proton.me,771-608-3323," Av. Universidad 7118, Col. Moderna",Pachuca,Hidalgo,42106,Chedraui,11/11/2022,07/02/2026,CRM
+C-010632,Óscar,Ortiz Cortés,oscar.ortiz@soriana.com.mx,(999) 442-9217,"Privada Los Pinos 9621, Col. Condesa",Mérida,YUC,97398,ORGANIZACION SORIANA S.A.B. DE C.V.,10/07/2021,2025-11-08,CRM
+C-010633,FERNANDO,Peña Navarro,fernando49.pena@proton.me,+52 1 618 262 0348,"Calle Rayón 5885, Col. Obrera",Durango,DGO,34271,Coppel,15-abr-2026,NULL,CRM
+C-010634,Rosario,Delgado Vargas,rosariodelgado@hotmail.com,52-993-788-1753,"Calle Independencia 3062, Col. Centro",Villahermosa,TAB,8603,Femsa,2021-03-13,2024-04-29,Salesforce
+C-010635,FELIPE,Gallegos Robles,felipegallegos@vidriosyaluminio.mx,8334536910,"Av. López Mateos 2975, Col. Moderna",Tampico,TAMPS,89383,Vidrios y Aluminios del Norte,10/23/2025,2026-05-24,CRM
+C-010636,,Trejo Cruz,joaquin94.trejo@vidriosyaluminio.con.mx,33-2784-8154,"Cerrada Las Flores 4747, Col. Narvarte",GDL,Jal.,44268, Vidrios y Aluminios del Norte,12-08-2026,19/08/2026,CRM
+C-010637,guadalupe,martínez salinas,guadalupe_martinez@proton.me,+52 614 311 8515,"Blvd. Solidaridad 5480, Col. Obrera",chiHuaHuA,CHIH,31139 ,TV Azteca,2026-04-16,05/20/2026,CRM
+C-010638,Lucía,Vázquez Rojas,n/a,+528334291615,"Cerrada Las Flores 2367, Col. Guerrero",Tampico,Tamps.,89265,Comercial del Valle,2026-07-07,2023-06-14,CRM
+C-010639, alicia ,Reyes Pacheco,areyes@.com,(312) 597-1849,"AV. REVOLUCIÓN 715, COL. SAN RAFAEL",Colima,Colima ,28060,n/a,2021-09-06,20280214,CRM
+C-010640,Gerardo,Cruz Vázquez,NA,+529934125453,"Calle 5 de Mayo 2295, Col. San Rafael",Villahermosa,Tabasco,86117,Carpintería Río Blanco,2021-06-21,2023-04-07,CRM
+C-010641,Fernanda,Flores Benítez,fernandaflores@transportesdelpa.mx,667 771 3159," Av. San Jerónimo 8989, Col. Merced",Culiacán, SIN ,80314,Transportes del Pacífico,26-03-2021,27/08/2023,CRM
+C-010642,María,Ortiz Cárdenas,mortiz@imprentaoroverde.com.mx,+526625654661,"Calle 5 de Mayo 6956, Col. Industrial",Hermosillo,SON,83385,Imprenta Oro Verde,2022-09-01,04-jul-2024,CRM_MX
+C-010643,César,Contreras Morales,cesar.contreras@panaderiasanmart.com,0448136458934,"Av. Tecnológico 5808, Fracc. El Pedregal",MTY, Nuevo León,64961,Panadería San Martín,2021-08-06,01-06-2024,CRM
+C-010644,Manuel,Torres Gutiérrez,manuel6.torres@telcel.com.mx,312-074-5190,"Camino Real 7502, Col. Jardines del Sur",Colima,Colima ,CP 28071,Telcel,2024-09-09,2023-08-21,CRM
+C-10645,Fernando,Vargas Soto,fernandovargas@sistemasaguiladi.com.mx,52-55-4312-4304," Calz. de Tlalpan 7479, Col. Polanco ",Ciudad de México,Cd. de México,14260,Sistemas Aguila Digital S.A. De C.V.,NULL,2024-01-21,CRM
+C-010646,Palina, Chábez Gómez,paulina_chavez@outlook.com,0449939296897,"CALLE MORELOS 7984, COL. CENTRO",Villahermosa,Tab.,86034,Bimbo,2022-05-15,30-jun-2022,crm
+C-010647,Yesenia,Cabrera Vázquez,yesenia_cabrera@proton.me,+52 1 844 983 3125,"Calle 5 de Mayo 7814, Fracc. Lomas Verdes",Saltillo,COAH,25131,Uniformes Industriales Lobo,2023-10-01,25-04-2025,CRM
+C-010648,Liliana,Vega Contreras,liliana49.vega@alsea.com.mx,045 492 322 8294,"Calle Juárez 187, Col. Jardines del Sur",zacATeCas,ZAC,98066,NA,11-01-2022,13/12/2022,CRM
+C-010649,Arturo, Velázquez Márquez,arturo59.velazquez@aceitesygrasasde.com,+524925170690,"Av. Central 8909, Fracc. Las Américas",Zacatecas,Zacatecas,98082,Aceites y Grasas del Golfo,27/06/2026,28/09/2026,CRM 
+C-010650,NULL,-,beatriz_aguilar@tecnologiassierr.com.mx,+52 1 444 511 8486,"Av. Central 4261, Col. Jardines del Sur",San Luis Potosí,S.L.P.,78226, Tecnologias Sierra Azul S.A. De C.V.,20211224,12-04-2023,CRM
+C-010651,Rafael,Soto Martínez,rafael_soto@icloud.com,618 709 6132,"Andador San Pedro 9035, Col. Del Valle ",Durango,DGO,34000,Liverpool,20230925,10/09/2023,CRM
+C-010652,Mariana,Ibarra Carrillo,mariana_ibarra@pescadosymarisco.con,52-662-260-7695,"Av. Colón 2432, Col. Condesa",Hermosillo,Son.,83053,Pescados y Mariscos La Costa,2023-12-09,09/05/2026,CRM
+C-010653,Martha,Carrillo Moreno,marthacarrillo@liverpool.mx,8336353212,"Av. San Jerónimo 5458, Col. Doctores",Tampico,Tamaulipas,89374, Liverpool,07/14/2027,2026-07-19,CRM
+C-010654,Salvador,ESTRADA MOLINA,salvador.estrada@fundicionsantaro..com,998 354 3249,"Av. Reforma 2407, Col. Guerrero",Cancún,QROO,77511 , Fundición Santa Rosa ,10/22/2023,21-06-2026,CRM
+C-010655,Ana,Torres Romero,ana.torres@hotmail.com,52-664-063-4324,"Blvd. Manuel Ávila Camacho 8516, Col. Jardines del Sur",Tijuana,BAJA CALIFORNIA,N/A, Televisa ,30-12-2024,2026-03-14,CRM 
+C-010656,Andrea,Cervantes Cabrera,andreacervantes@hotmail.com,+52 1 664 785 5408,"Calz. de Tlalpan 3271, Col. Jardines del Sur",Tijuana,Baja Calif.,22652,Volaris,2026-01-20,2026-07-05,CRM
+C-010657,Rosario,Cervantes Cortés,rosario1.cervantes@carpinteriariobl.com,+527440706393,"Av. Universidad 6283, Col. Condesa",Acapulco, GRO ,39751,Carpintería Río Blanco,2026-05-13,03/08/2026,CRM
+C-10658,Fernando,Vega Cruz,fernando.vega@gmail.com,7717494664,"Av. Colón 1111, Col. Industrial",Pachuca,Hidalgo,42139,Chedraui,2023-02-18,2024-10-13,CRM
+C-010659,JULIO,Guerrero López,jguerrero@alsea.com,444 927 1351,"Av. Revolución 1952, Col. Moderna",San Luis Potosi,San Luis Potosi,7837,Alsea,20251029,05/10/2026,crm
+C-010660,Liliana,Acosta Solís,lacosta@live.com.mx,312 943 5042,"Av. Central 7302, Fracc. El Pedregal",coLIMa,COLIMA,28077,Sistemas Águila Digital,2021-05-19,17/06/2021,CRM 
+C-010661,Mónica,Rodríguez Ramírez,NULL,229 390 1650,"Av. Reforma 5643, Col. Narvarte",Veracruz ,VERACRUZ,91716,Soriana,01/06/2022,31-08-2023,CRM
+C-010662,Daniela,Cortés Ávila,daniela.cortes@tallermecanicolo.com.mx,222 953 7494,"anDAdOr San pEdRo 2550, coL. centro",Puebla,Pue.,72874 ,Taller  Mecánico Los Pinos,10/03/2026,2026-07-03,CRM
+C-010663,Carlos,Herrera Sandoval,carlos19.herrera@inmobiliariacerr.com,(618) 483-5567,"Av. Revolución 8385, Col. San Rafael",Durango,DGO,n/a,N/A,16-01-2024,23/05/2024,CRM
+C-010664,ramÓN,cruz padilla,rcruz@icloud.com,492 303 0740,NULL,Zacatecas,ZAC,98051 ,Energia Solar Del Desierto S.A. De C.V.,05-11-2021,10/03/2026,CRM
+C-010665, Alicia ,Vega Paredes,alicia.vega@consultoriamonte.mx,N/A,"Calle Morelos 4601, Col. Industrial",Villahermosa,Tabasco,86029,Consultoría Montes Blancos,2025-09-03,2023-11-18,CRM
+C-010666,Carlos,Lara Pacheco,NULL,+52 744 047 8091,"Av. Constitución 5279, Col. Anzures",Acapulco,Guerrero,-,editora brújula,10/04/2021,2026-05-28,CRM_MX
+010667,Norma,Cárdenas Peña,normacardenas@correo.com.mx,045 444 809 0315,"Calle Juárez 6225, Col. Merced",San Luis Potosí,S.L.P.,78147,Palacio de Hierro,07/07/2024,05/07/2025,CRM
+CRM-10668,Pedro,Salinas Estrada,pedro.salinas@proton.me,045 998 577 0707,"Av. Pedregal 2336, Col. Industrial",Cancún,Q.R.,77534,Cultivos Hidropónicos Anda,05/11/2022,2025-06-27,CRM
+C-010669,Ignacio, Vázquez Pérez ,ivazquez@femsa.com.mx,0052 442 695 1914,"Av.  Las Palmas 4978, Col. Del Valle",Querétaro,Qro.,76227,Femsa,07/29/2024,2026-05-30,CRM
+C-010670,hugo,Mejía Benítez,hmejia@televisa.mx,0446141262198,"Av. Las Palmas 2615, Fracc. Lomas Verdes",Chihuahua,Chih.,31683, Televisa ,2023/02/18,03/09/2026,CRM
+C-010671,Gerardo,Ortega Cervantes,gerardoortega@hotmail.com,0052 618 761 6065,"Calle Rayón 2651, Col. San Rafael",Durango,dgo,34034 ,Textiles Puebla Nova,29/04/2024,24/12/2025,CRM
+010672,Rodrigo,Estrada Robles,rodrigo.estrada@.com,+52 449 450 8314,"Av. Revolución 4117, Residencial Los Álamos",Aguascalientes,AGS,20376,PAPELERIA Y OFICINA ATLAS S.A. DE C.V.,03/08/2022,17/12/2023,CRM
+C-010673,Yesenia,Medina Torres,ymedina@uniformesindustr.com,(951) 658-4237,-,oaXaca,Oax.,68047 ,Uniformes Industriales Lobo,17/10/2022,20221122,CRM
+C-010674,César, Soto García,csoto@papeleriayoficin.mx,0052 667 990 9890,, Culiacán,Sinaloa,80237,Papelería y Oficina Atlas,26/06/2026,08/13/2026,CRM
+C-010675,Lucía,Herrera Padilla,lucia.herrera@banorte.mx,(442) 967-0010,"Av. Colón 2260, Col. Obrera",Queretaro,Querétaro,76107, Banorte ,30/11/2024,28/12/2025,CRM
+C-010676,Ximena,Núñez Paredes,ximena.nunez@outlook.com,NA,"priVADa los pINos 5760, CoL. romA noRTE",Morelia,Michoacan,58242,,10/03/2022,2025-05-30,Salesforce
+C-010677,Emilio,Silva Velázquez,emiliosilva@chedraui.mx,(55) 8182-0017,NULL,Ciudad De México,Ciudad De México,05555,Chedraui,06/19/2026,10/09/2026,CRM
+C-010678,Guillermo,Arias Gómez,garias@tvazteca.com.mx,,"Camino Real 5017, Col. Centro",Durango,Durango,CP 34149,TV Azteca,10/10/2023,,CRM
+C-010679,Regina,Ibarra Acosta,ribarra@cultivoshidropon.com,6143279571,"Av. Pedregal 7234, Col. Polanco",Chihuahua,Chihuahua,31499,Cultivos Hidropónicos Anda,2021-06-02,2026-09-20,CRM
+C-010680,Regina,Vázquez,regina_vazquezoxxo.com.mx,951-822-1503,"CERRADA LAS FLORES 8735, COL. GUERRERO",Oaxaca,OAX,68141,CADENA COMERCIAL OXXO S.A. DE C.V.,2023-03-05,13-09-2024,crm
+C-010681,Yesenia,García Padilla,yesenia17.garcia@cemex.mx,+52 1 55 7943 7588,"Av. Colón 3201, Col. Moderna",Ciudad de México,Ciudad de México,04833,Cemex,01/29/2023,2023-06-04,CRM
+C-010682,Dolores,Medina Velázquez,dmedina@hotmail.com,,"Calle Independencia 8339, Col. Industrial",Puebla,Pue,72682,Coppel,2025-06-05,11/12/2025,crm
+C-010683,César ,Rangel Ramírez,cesar.rangel@gmail.com,55-4289-5665,"Av. Pedregal 1271, Col. Roma Norte",cdmx, CDMX ,16794,pLásTIcOs del pedREgal,22/04/2021,18-11-2023,CRM
+C-010684,Jimena,Orozco Ramírez,jimenaorozco@fundicionsantaro.com.mx,0444776930626,,León,GTO,37557,Fundición Santa Rosa,20220505,2023-08-12,CRM
+C-010685,Mónica,Zamora Zamora,mzamora@correo.com.mx,52-55-7584-5015,"Calle Zaragoza 2963, Col. Anzures",Ciudad de México,Ciudad de Mexico,04689,AMERICA MOVIL S.A.B. DE C.V.,31/08/2025,08/04/2024,CRM
+C-010686,Pilar, Soto Campos ,pilar.soto@textilespueblano.com.mx,N/A,"Blvd. Solidaridad 1537, Col. Guerrero",Hermosillo,Son.,83344,Textiles Puebla Nova,20260528,2026-08-27,CRM
+C-010687,Karla,Díaz Velázquez,karla.diaz@imprentaoroverde.mx,4491215501,"Calle Allende 3468, Col. Moderna",Aguascalientes,Aguascalientes,20137 ,Imprenta Oro Verde,n/a,2026-01-24,CRM
+C-010688,Óscar,Ortiz Franco,oscar68.ortiz@herramientasdeli.com.mx,6629668023,"AV. LÓPEZ MATEOS 5243, FRACC. LAS AMÉRICAS",hERmOsILlo,SON,83300,Herramientas Del Istmo S.A. De C.V.,12-06-2026,28/08/2026,CRM
+C-010689,Jimena,Trejo Gutiérrez,jimena_trejo@live.com.mx,662 325 0925,"BLVD. SOLIDARIDAD 1477, COL. CONDESA",HeRmosIlLO,Sonora,83077,BOUTIQUE LUNA DE PLATA S.A. DE C.V.,2024-11-27,09-12-2023,SFDC
+C-010690,Fernanda,Chávez Peña,fernanda_chavez@live.com.mx,+52 1 449 568 4972,"Calz. Ignacio Zaragoza 2413, Col. San Rafael",Aguascalientes,AGS,20382 ,Cultivos Hidropónicos Anda,01/10/2024,05/20/2024,CRM_MX
+C-010691,Camila,Delgado Acosta,camila.delgadoempresa.mx,+52 777 322 7474,"Av. San Jerónimo 6607, Residencial Los Álamos",Cuernavaca,Mor.,62133 ,CULTIVOS HIDROPONICOS ANDA S. DE R.L. DE C.V.,29-06-2024,23/05/2025,CRM_MX
+C-010692,Isabel,Bautista Espinoza,ISABEL.BAUTISTA@ACEITESYGRASASDE.COM,7227576329,"Av. México 4723, Fracc. Lomas Verdes",Toluca,Estado de Mexico,50107 ,N/A,2021-11-13,2022-06-04,CRM
+C-010693,Andrés,Martínez Pérez,andresmartinez@oxxo.com,045 686 740 4120,"Calz. Ignacio Zaragoza 4514, Col. Moderna",Mexicali,BC,21040,Oxxo,2021-06-17,01-10-2021,CRM
+C-010694,Rafael,Castillo Bautista,rafael.castillo@yahoo.com.mx,,"calle hidalgo 1380, fracc. lomas verdes",CampEcHE,cAMP,24087,UNifOrMes inDustrialEs Lobo s.A. de c.v.,02-03-2024,2024-08-04,CRM
+C-010695,Martín,MáRQUez navarrO,mmarquez@live.com.mx,+52 951 730 5479," Av. Constitución 490, Residencial Los Álamos",Oaxaca,OAX,68122,servicios industriales tepic,08/03/2026,2026-10-25,CRM
+C-010696,Sergio,Márquez Bautista,sergio37.marquez@pescadosymarisco..com,229 546 0664,"Calle 5 de Mayo 8033, Col. Guerrero",Veracruz,Veracruz,91728 ,pescadOS y MarIscos La CostA,25/11/2025,10/21/2026,CRM
+C-010697,Fernanda,Silva Calderón,fernanda51.silva@icloud.com,0444446966807,NA,San Luis Potosí,San Luis Potosí,78490,Panadería San Martín,01/06/2022,2023-12-15,CRM 
+C-010698,Lliiana , acostta solís,lacosta@live.com.mx,+52 312 943 5042,"AV. CENTRAL 7302, FRACC. EL PEDREGAL",Colima,COL,28077,Sistemas Águila Digital,19/05/2021,2021-06-17,CRM 
+C-010699,Ernesto,Castillo Herrera,ERNESTO.CASTILLO@CULTIVOSHIDROPON.COM.MX,9988398854,"Av. Reforma 4947, Col. Merced",Cancún,QR,77524,NULL,2024/02/18,2026-07-19,CRM
+C-010700,Felipe,Reyes Morales,felipe99.reyes@empresa.mx,6860208487,"Av. Central 2067, Fracc. Las Américas",Mexicali,b.c.,21382,Energía Solar del Desierto,2026-08-17,31-08-2026,CRM
+C-010701,Cristina,Ibarra Vega,cristina.ibarra@outlook.com,4420030471,"Av. Universidad 1994, Fracc. Las Américas",Querétaro,Querétaro,76048,Banorte,2025-02-23,2026-08-19,CRM
+C-010702,Armando,Vargas González,armando_vargas@farmaciasdelcent.com.mx,8103681644,"Calle 5 de Mayo 3850, Col. Condesa",Monterrey,n.L.,64819,Farmacias del Centro,09/01/2026,08/02/2026,CRM
+C-010703,Emilio,Calderón Carrillo,ecalderon@volaris.com,52-722-722-1090,"Andador San Pedro 7045, Col. Industrial",Toluca,Méx.,50241,Volaris,12-07-2021,11/07/2024,CRM
+C010704,Esteban,Ibarra Quintero,esteban.ibarra@icloud.com,(222) 973-6499,"Calle Zaragoza 5218, Col. Jardines del Sur",Puebla,Pue.,72752 ,ORGANIZACION SORIANA S.A.B. DE C.V.,2024-04-21,2025-04-13,CRM
+C-010705,Pablo,Molina Ruiz,pablo11.molina@cafeteriaslaesta.com.mx,0052 664 334 9400,"Av. Universidad 9250, Fracc. El Pedregal",Tijuana,Bc,22235, Cafeterías La Estación ,20240811,2025-03-19,CRM
+C-010706,andrés,Miranda Martínez,andres22.miranda@yahoo.com.mx,662-741-7796," Cerrada Las Flores 7648, Col. Centro",Hermosillo,Son.,83279 ,ACEITES Y GRASAS DEL GOLFO S.A. DE C.V.,2024/06/08,31/12/2024,CRM
+C-010707,Ricardo,González Chávez,rgonzalez@banorte.com.mx,618-967-7287,"Privada Los Pinos 616, Col. San Rafael",Durango,Durango,34047 ,Banorte,18/12/2023,20/11/2025,CRM
+C-010708,Javier,Ávila Jiménez,javier71.avila@proton.me,477 236 3551,"Andador San Pedro 3093, Col. Anzures",León,GTO,37352,Volaris,03/04/2023,20/05/2025,CRM
+C-010709,ÓScar,CASTILLO FLORES,ocastillo@outlook.com,4431272156,"Av. México 3255, Col. San Rafael",Morelia,Mich.,58120,SISTEMAS AGUILA DIGITAL S.A. DE C.V.,2022-02-11,13/05/2025,CRM
+C-010710,DiAnA,Guerrero Velázquez,NULL,+52 1 744 432 5597,"Av. López Mateos 3367, Fracc. Lomas Verdes",Acapulco,Guerrero,39678,Chedraui,2026-07-22,09/11/2026,CRM
+C-010711,Verónica,Morales Cabrera,veronica.morales@empresa.mx,+52 1 667 038 1720,"Calle Hidalgo 4406, Col. Condesa",Culiacán,SIN,80188,Refacciones El Águila,24/01/2026,2026-03-01,CRM
+C-010712,CAMILA,Silva Juárez,csilva@.com,449 357 7511,"Calle 16 de Septiembre 7146, Residencial Los Álamos",aguascalientes,AGS,,Elektra,28-may-2021,08/02/2024,SFDC
+C-010713,Óscar,Solís Paredes,OSCAR.SOLIS@ALSEA.MX,+52 777 621 8877,"Cerrada Las Flores 6747, Col. Centro",Cuernavaca,Mor. ,62040,ALSEA,2025-04-04,10/05/2026,CRM
+C-010714,Elena,Sandoval Díaz,esandoval@mueblesriviera.mx,+52 1 55 5592 2222,"Av. División del Norte 3707, Col. Doctores",Ciudad de México,Cd. de México,15021,MUEBLES RIVIERA S.A. DE C.V.,2024-06-06,14-ago-2026,SFDC
+C-010715,Concepción,Barrera Ruiz,concepcionbarrera@laboratoriosnube.mx,52-444-432-0095,"Calle Zaragoza 6850, Col. Del Valle", SLP ,San Luis Potosi,78123,Laboratorios Nube Gris,02/07/2021,20210125,SFDC
+C-010716,Camila,Ortiz Vázquez,camila_ortiz@americamovil.com.mx,0446673053765,"Calle Allende 815, Fracc. Las Américas",Culiacán,Sin.,80192,américa móvil,2026-03-27,03-11-2026,CRM
+C-010717,Hugo,Beltrán Aguilar,hbeltran@hotmail.com,0443125609231,"Av. Constitución 1947, Col. Doctores",Colima,COL,28002,Refacciones El Aguila S.A. De C.V.,07/08/2022,2022-11-16,CRM
+C-010718,Vicente,Castillo Cárdenas,vicente.castillo@outlook.com,0052 442 308 0312,"Av. Central 8930, Fracc. Lomas Verdes ",qro, Queretaro,76288,Femsa,24-abr-2022,03/05/2025,CRM
+C-010719,Orozco,Armando Márquez,armando69.orozco@agropecuarialasp.com,771 677 2603,"Av. Madero 6891, Col. Jardines del Sur",Pachuca,Hidalgo,42067,AGROPECUARIA LAS PALMAS S. DE R.L. DE C.V.,05/12/2026,07/01/2023,SFDC
+C-010720,Ignacio,Vargas Miranda,NULL,+52 81 7700 9794,"Calle Juárez 5107, Col. Jardines del Sur",Monterrey, Nuevo Leon,64266,Cemex,2025-02-03,15-09-2025,CRM
+C-010721,Sofía,Orozco González,sofia81.orozco@empresa.mx,+52 1 998 573 0964,"Av. Madero 1156, Col. Anzures",Cancún,Quintana Roo,77503,Transportes del Pacífico,28/08/2025,24/05/2026,CRM
+C-010722,liliana, Miranda Rodríguez,lmiranda@live.com.mx,+52 998 410 4619,"Calz. de Tlalpan 3190, Col. Santa María",Cancún,QR,77532 ,Seguros Loma Alta,04/06/2025,10/31/2026,CRM
+C-010723,Ricardo ,García González,rgarcia@outlook.com,81-8565-6079,"Av. México 3915, Col. Obrera",Monterrey,NUEVO LEÓN,6433,Pescados y Mariscos La Costa,2021-08-24,24/04/2025,CRM
+C-010724,Beatriz,Moreno Herrera,beatriz_moreno@live.com.mx,0444772912150,"Av. San Jerónimo 3744, Col. Industrial",León,Guanajuato,,Boutique Luna de Plata,05/12/2021,2025-05-02,CRM
+C-010725,Gerardo,Salinas Muñoz,GSALINAS@BOUTIQUELUNADEPL.COM.MX,+528441914943,NULL, Saltillo,Coah.,25001,Boutique Luna de Plata,07/29/2026,20260831,SFDC
+C-010726,Diana,Franco Ortiz,diana28.franco@agenciaaduanalba.com.mx,9981420464," Calle Allende 3995, Residencial Los Álamos",Cancún,Q. Roo,77506,Agencia Aduanal Bahía,2021-11-11,05/08/2021,CRM
+C-010727,Julio,García Campos,julio_garcia@gmail.con,(993) 288-0771,"AV. MADErO 2208, ResIDENCiaL los álamOs",Villahermosa,Tab.,86127 ,Agropecuaria Las Palmas,28/12/2024,2025-09-17,CRM
+C-010728,Yesenia,Pérez Lara,yesenia.perez@yahoo.com.mx,045 442 668 6708,"Calz. de Tlalpan 7107, Fracc. Las Américas",Querétaro,Querétaro,76120 ,Bimbo,10/16/2025,21/09/2026,CRM
+C-010729,Silvia,Caldreón Castro,scalderon@proton.me,(951) 026-7286,"CALLE ZARAGOZA 715, COL. CENTRO",Oaxaca ,Oaxaca ,68035,ALSEA S.A.B. DE C.V.,21/07/2024,2026-04-16,CRM 
+C-010730,Itzel,HERRERA RODRÍGUEZ,itzel.herrera@transportesdelpa.mx,52-477-466-4614,"Av. Colón 7351, Col. San Rafael",León,Guanajuato,37002,TRANSPORTES DEL PACÍFICO,23/03/2025,23-10-2021,CRM
+C-010731,Carlos,Cervantes Hernández,carlos.cervantes@distribuidoranor.mx,N/A,"CALLE 16 DE SEPTIEMBRE 9168, FRACC. EL PEDREGAL",Mérida,YUC.,97273,Distribuidora Norteña,2026-01-09,2026-02-10,CRM
+C-010732,Felipe,Reyes Flores,felipe.reyes@banorte.com,(33) 6379-6553,"Calle Morelos 4751, Col. Condesa",Guadalajara,JAL ,44657,Banorte,2022-10-11,13/10/2022,CRM
+C-010733,Soledad, Solís Navarro,ssolis@icloud.com,N/A,"Calle Juárez 3174, Col. Guerrero",Culiacán,Sinaloa,80213,Servicios Industriales Tepic,2024-08-26,09/27/2026,CRM
+C-010734,Martín,Hernández Cárdenas,martinhernandez@grupomodelo.com,52-667-553-9249,"Camino  Real 1799, Fracc. Las Américas",Culiacán,SIN,80069,Grupo Modelo,17-04-2022,20240814,CRM
+C-010735,YEsENiA ,Cervantes Mejía,yesenia52.cervantes@hotmail.com,NA,"Calle 16 de Septiembre 2304, Col. Polanco",Hermosillo,Son.,83008,Imprenta Oro Verde S.A. De C.V.,18/10/2022,20/12/2022,CRM
+C-010736,jesús,Cabrera Chávez,jcabrera@imprentaoroverde.mx,NA,"Blvd. Manuel Ávila Camacho 7068, Col. Industrial",Puebla,Pue.,72155,Imprenta Oro Verde,2023-05-04,13/04/2026,CRM
+C-010737,Iván,Tapia Bautista,ivan.tapia@fundicionsantaro.com.mx,6674326162,"Calle Hidalgo 5069, Fracc. Las Américas",Culiacán,Sin.,80440, Fundición Santa Rosa ,2024-06-06,20250408,CRM
+C-010738,Gabriela,Mejía Guerrero,gabriela12.mejia@outlook.com,,"Av. unIVeRSidAd 8855, fracc. eL pEdrEgAl", Hermosillo ,Son.,83122,REFACCIONES EL AGUILA S.A. DE C.V.,2025-01-29,06/30/2025,crm
+CRM-10739,Rafael,Molina Guerrero,rafael.molina@gmail.com,0052 492 811 7079,"Calle Rayón 5998, Col. Centro",Zacatecas,zAcaTeCAs ,98003,GRUPO COMERCIAL CHEDRAUI S.A.B. DE C.V.,20/04/2021,2022/08/15,CRM
+C-010740,Daniela,Mendoza Miranda,daniela_mendoza@logisticadelbaji.com.mx,52-981-460-4927,"Calle Zaragoza 9367, Col. Moderna",Campeche,CAMP,24086 ,Logistica Del Bajio S.A. De C.V.,2025-03-12,2022-02-23,CRM
+C-010741,Óscar,Beltrán  Romero,oscar29.beltran@proton.me,0052 614 763 7574,"Calz. de Tlalpan 9349, Col. Santa María",Chihuahua,Chihuahua ,31358,ACEITES Y GRASAS DEL GOLFO S.A. DE C.V.,2026-07-22,2026-09-03,CRM
+C-010742,Luis,Calderón Cárdenas,luis.calderon@outlook.com,52-771-112-8637,,Pachuca,HGO,42017,Textiles Puebla Nova,2025-06-29,25/03/2026,CRM
+C-010743,Daniela,TAPIA CASTILLO,danielatapia@distribuidoranor.mx,618 477 2380,"Av. Revolución 1779, Fracc. Las Américas",Durango,Durango,34234, Distribuidora Nortena S.A. De C.V. ,2021-10-24,2022-10-11,CRM
+C-010744,Martha,Orozco Núñez,martha.orozco@farmaciasdelcent.mx,993-915-7206,"Av. Insurgentes Sur 9600, Col. Anzures",Villahermosa, TAB,86024,FARMACIAS DEL CENTRO S.A. DE C.V.,2022-12-31,2024-01-02,CRM
+CRM-10745,ánGel,Gómez Mejía,NA,+52 1 771 253 5681," Av. México 7869, Fracc. Lomas Verdes ",pAcHUCa,Hgo.,42143,SORIANA,2023-05-15,2025-05-30,CRM_MX
+C-010746,Paola,Silva Villanueva,PAOLASILVA@LIVE.COM.MX,+527228257933,"Camino Real 2760, Col. Roma Norte",Toluca,Estado de Mexico,50217,Grupo Modelo,2022-10-08,2024-06-02,CRM
+C-010747,Margarita,Fuentes Flores,margarita46.fuentes@textilespueblano.com.mx,833-537-9802,"CAMINO REAL 2119, COL. SAN RAFAEL",Tampico,Tamps.,CP 89331,Textiles Puebla Nova,2025-04-05,13/03/2026,CRM
+C-10748,MIRANDA,Jorge Castro ,jorge.miranda@soriana.com,686-774-1464,"Av. Madero 5059, Col. Roma Norte",Mexicali , b.c.,21096 ,Soriana,03/14/2023,2025-06-07,SFDC
+C-010749, Guadalupe,Sandoval Chávez,guadalupe58.sandoval@herramientasdeli.mx,52-993-357-5494,"Calle Morelos 3386, Fracc. El Pedregal",Villahermosa,TAB,86090,Herramientas del Istmo,2024-10-28,07-feb-2026,CRM
+C-010750,Álvro,Gómes Rodríguez,NA,+52 1 686 622 0287,"PRIVADA LOS PINOS 6263, COL. DEL VALLE",mexicali,Baja Calif.,21295,Taller Mecánico Los Pinos ,30/07/2025,2026-11-08,CRM
+C-010751,Isabel ,Fuentes Cortés,Ifuentes@HOTMAIL.COM,0446647450898,"Calle Independencia 7159, Col. Doctores",Tijuana,Baja Calif.,22636,Cafeterías La Estación,2025-03-11,01/04/2025,CRM
+C-010752,José,Pacheco Miranda,jose_pacheco@hotmail.com,+526186407454,"Andador San Pedro 203, Residencial Los Álamos",Durango,DGO,34167,-,2026/02/06,21/08/2026,CRM
+C-010753,Alicia,Campos Ortega,alicia.campos@hotmail.com,744-300-3040,"Blvd.  Manuel Ávila Camacho 3932, Col. Polanco",Acapulco,Guerrero,39444,SISTEMAS AGUILA DIGITAL S.A. DE C.V.,04-03-2022,2022-10-21,CRM 
+C-010754,Roberto,Paredes Cabrera,roberto84.paredes@proton.me,NULL,"PRIvada lOs PInoS 5005, COl. DocTorEs",Oaxaca,Oax.,68045,Elektra,2023-04-16,10/11/2024,Salesforce
+C-010755,Felipe,Muñoz  Silva,,+52 1 33 0600 3295,"Av. Central 4535, Fracc. El Pedregal",Guadalajara,Jalisco,44674,Comercial del Valle,NA,2024-06-28,CRM
+C-010756,Adriana,Soto Ramos,asoto@outlook.com,0052 449 583 0116,"Av. Pedregal 6488, Col. Condesa",Aguascalientes,Ags.,,Alsea,24/06/2021,12/17/2021,CRM
+C-010757,Carmen,Gallegos Navarro,cgallegos@tvazteca.com.mx,0447221786245,"Calz. Ignacio Zaragoza 1097, Col. Condesa",Toluca,Edo. Mex.,50040, TV Azteca,2026-01-26,06-10-2026,CRM
+C-010758,CONCEPCIÓN,gómez carrillo,concepciongomez@tecnologiassierr.com.mx,0446188508641,"Calz. de Tlalpan 6473, Col. Del Valle",Durango,DGO.,34126,-,20221003,04/11/2025,CRM
+C-010759,Salvador, Guerrero Espinoza,salvadorguerrero@correo.com.mx,-,"Av. División del Norte 3420, Col. Centro",Acapulco,GRO,CP 39596,Servicios Industriales Tepic,2025-04-24,2026-03-10,CRM
+C-010760, Concepción,Paredes Chávez,concepcion_paredes@proton.me,NULL,"Av. Madero 9745, Col. Jardines Del Sur",Qro,Qro.,,GRUPO MODELO S. DE R.L. DE C.V.,2023-08-27,09-11-2024,CRM
+C-010761,Juan,Cárdenas Trejo,juancardenas@proton.me,0052 442 445 6818,"Privada Los Pinos 6305, Col. Condesa",Querétaro,Qro.,76188,Alimentos La Hacienda,02/05/2025,2026/05/16,CRM
+C-010762,VÁZQUEZ,Ignacio Pérez,IVAZQUEZ@FEMSA.COM.MX,(442) 695-1914,"AV. LAS PALMAS 4978, COL. DEL VALLE",Qro,Qro.,76227,FOMENTO ECONOMICO MEXICANO S.A.B. DE C.V.,2028-11-01,05/30/2026,Salesforce
+C-010763,Silvia,Ávila Herrera,silvia28.avila@hotmail.com,492-235-2514,N/A,Zacatecas,ZAC,98083,CARPINTERIA RIO BLANCO S.A. DE C.V.,2024-08-21,2025/06/06,CRM
+C-010764,Fabiola,Carrillo Ibarra,Fabiola63.carrillo@LIVE.COM.MX,+52 1 443 084 5128,"Calle Rayón 5053, Col. San Rafael",Morelia,Mich.,58102,Femsa,24-ago-2022,08-oct-2025,CRM
+C-010765,VERÓNICA,Juárez Vega,veronica.juarez@gmail.com,618-401-2140,"Av. Madero 7463, Col. Jardines del Sur",Durango,DGO,34075 ,Hoteles Brisa Maya,08/01/2024,2025-12-10,CRM
+C-010766,Jimena,Medina Sandoval,jimenamedina@proton.me,+52 1 229 634 6359,"Privada Los Pinos 388, Col. Doctores",verAcruZ,Veracruz,91787,bIMbo,20230331,2024-05-02,CRM
+C-010767, Liliana,Contreras Pacheco,liliana.contreras@alimentoslahacie.com,+527779766243,"Blvd. Manuel Ávila Camacho 6476, Col. Obrera",Cuernavaca , Mor. ,62271,Alimentos La Hacienda,18-05-2025,27-03-2026,CRM
+C-010768,Carmen,Ramos Fuentes,carmenramos@soriana.com,0052 981 997 3256,"Cerrada Las Flores 5599, Fracc. Lomas Verdes",Campeche,Camp.,24083,Soriana ,20250507,22/08/2025,CRM
+C-010769,Felipe ,Tapia Padilla ,ftapia@mueblesriviera.com.mx,+52 1 998 403 7164,"bLVD. mAnUel ávilA cAmaCho 9019, rESIDeNCial lOs áLaMOs",Cancún ,Q. Roo,77526,MUEBLES RIVIERA S.A. DE C.V.,2024-12-07,2025-10-05,CRM_MX
+C-010770,Alejandra,Castro Cárdenas,alejandra_castro@yahoo.com.mx,33 6052 1456,"Calle Independencia 4034, Col. Narvarte",guadalajara,JAL,44337, AMERICA MOVIL S.A.B. DE C.V. ,06/19/2022,14/09/2026,CRM
+C-010771,Soledad,Mejía Ramírez,soledadmejia@outlook.com,,"Av. Las Palmas 9373, Col. Condesa",Monterrey,N.L,64070 ,Oxxo,14/03/2025,30/06/2025,crm
+C-010772,Enrique,Rosales Cervantes,enrique.rosales@correo.com.mx,(998) 939-2240,"Av. Constitución 5193, Col. Doctores",Canún,Q.R.,77515,LiVerPool,03/24/2026,08-11-2026,CRM
+C-010773,Fernando,Miranda Núñez,fernando47.miranda@laboratoriosnube.mx,7771348761,"AV. TECNOLÓGICO 891, COL. DOCTORES ",Cuernavaca,Mor.,62296, Laboratorios Nube Gris,16/02/2022,2024-03-28,CRM
+C-010774,Esteban, Díaz Aguilar ,estebandiaz@volaris.mx,+529986679657,"av. san jerónimo 2192, col. condesa",Cancún,QR,77522 ,CONCESIONARIA VUELA COMPANIA DE AVIACION S.A.B. DE C.V.,18/08/2024,20220519,CRM
+C-010775,Jimena,Ibarra Díaz,jibarra@empresa.mx,+527713891970,"Av. lópEz MaTeos 3087, cOL. sanTa marÍA",Pachuca,HGO,42194 ,Imprenta Oro Verde,2022-05-02,19/03/2025,CRM
+C-010776,Raúl,Pérez Cervantes,raul_perez@hotmail.com,(81) 0838-5075,"Calz. Ignacio Zaragoza 3708, Col. Anzures","Monterrey, N.L.",NL,6475,Construcciones del Sureste,14/02/2023,2024-02-26,CRM
+C-010777,,Padilla Ibarra,luis.padilla@textilespueblano.mx,0052 961 827 8672,"Calz. Ignacio Zaragoza 457, Fracc. Las Américas",Tuxtla Gutiérrez,CHIS,29077,Textiles Puebla Nova,22-01-2022,2025-11-23,crm
+C-10778,Alejandra,mendoza miranda ,alejandra.mendoza@correo.com.mx,442-780-2276,"calz. iGnaciO ZARAGoza 6501, coL. cEntRo ", Querétaro ,Qro.,76167,Papelería y Oficina Atlas,2025-08-22,16/02/2026,CRM
+C-010779,Cristina,Valdez Vázquez,cvaldez@empresa.mx,4495024536,"Av. Reforma 2774, Col. Anzures",Aguascalientes,Aguascalientes,20272,Seguros Loma Alta,2023-02-07,2024-11-18,CRM
+010780,Itzel,Gutiérrez Rosales,itzel44.gutierrez@yahoo.com.mx,5573966291,n/a,Ciudad de México,DF,06715,Comercial del Valle,2026-04-21,30/09/2026,CRM
+C-010781,Guadalupe,Soto Domínguez,guadalupe.soto@proton.me,+52 981 183 9438,"Av. Central 1948, Col. Jardines del Sur",Campeche,CAMP,24099,Editora Brujula S.A. De C.V.,2022-09-12,2023-02-16,CRM
+C-10782,Ignacio,García Medina,ignacio_garcia@oxxo.com,+529816474978,"Av. Constitución 3044, Col. San Rafael",Campeche,CAMP,24050,Oxxo,2026/04/12,2026-07-12,CRM
+c-010155,Jorge,Miranda Castro,jorge.miranda@soriana.com,6867741464,"Av. Madero 5059, Col. Roma Norte",Mexicali,Baja California,21096,Soriana,2023-03-14,2025-06-07,CRM
+C010784,Sofía,López Ramírez,sofia.lopez@gmail.com,9938360586,"Calle Independencia 2794, Col. Roma Norte",Villahermosa,Tabasco,86011,Femsa,2024-10-12,2026-09-19,CRM
+C-010785,Regina,Ibarra Acosta,ribarra@cultivoshidropon.com,52-614-327-9571,,Chihuahua,CHIH.,31499,Cultivos Hidropónicos Anda,2021-06-02,20-sep-2026,CRM
+C-010786,Renata,Díaz Fuentes,rdiaz@palaciodehierro.com,+52 477 010 1894,"Privada  Los Pinos 2342, Col. Roma Norte",León,GTO,N/A,Palacio de Hierro,2023-07-23,2024-03-08,CRM
+C-010787,Andrea,Jiménez Beltrán ,andrea.jimenez@empresa.mx,+524777665399," Privada Los Pinos 9989, Col. Polanco",León,Guanajuato,37043,Papelería y Oficina Atlas,06/07/2022,2022-11-28,CRM
+C-010788,Sebastián,Molina Delgado,sebastianmolina@live.con.mx,33 9440 4388,"Calle 16 de Septiembre 5224, Col. Moderna",Guadalajara,Jal.,44654,EDITORA BRUJULA S.A. DE C.V.,N/A,2025-02-19,CRM
+C-010789,Sofía,Villanueva Silva,sofiavillanueva@.com,4775876667,"Cerrada Las Flores 3948, Col. Jardines del Sur",León,Guanajuato,37466,Escuela Tecnica Horizonte S.C.,05/03/2023,2026-10-16,CRM
+C-010790,Felipe,Márquez Peña,felipe.marquez@lacteoslapradera.com,6185024596,"Andador  San Pedro 3991, Col. Condesa",Durango,Dgo.,34031 ,Lácteos La Pradera,02-04-2024,2024-11-06,CRM
+C-010791,Álvaro,Núñez Padilla,alvaro.nunez@correo.com.mx,045 993 648 7978,"Av. Insurgentes Sur 501, Fracc. Lomas Verdes",Villahermosa, tabasco ,86047,Seguros Loma Alta,2021-03-11,29-may-2026,CRM
+C-010792,Manuel,Morales Hernández,manuel46.morales@grupomodelo.com.mx,+52 844 528 7910,"Calle Morelos 1121, Col. Guerrero",Saltillo,Coah.,25146,Grupo Modelo,2023-03-10,2026-07-04,CRM
+CRM-10010,Mónica,Mejía Padilla,monica94.mejia@hotelesbrisamaya.mx,5587458676,"Av. Colón 4548, Col. Roma Norte",Ciudad de México,Ciudad de México,11299,Hoteles Brisa Maya,2026-03-23,2026-07-13,CRM
+C-010794, Raúl ,Sandoval Martínez,-,+52 1 744 303 2989," Blvd. Manuel Ávila Camacho 9762, Col. Condesa ",Acapulco,Gro.,39969,PAPELERIA Y OFICINA ATLAS S.A. DE C.V.,2021-11-25,2025-05-09,CRM
+C-010795,Roberto,Márquez Lara,roberto51.marquez@fundicionsantaro.com.mx,0449939400037,"Calle 5 de Mayo 2115, Col. Industrial",Villahermosa,tab.,86095,Fundición Santa Rosa,26-abr-2024,2026-03-10,CRM_MX
+C-010796,Alberto,Barrera Contreras,alberto.barrera@liverpool.com,52-55-9197-1292,"Calle Hidalgo 1928, Col. Polanco",Ciudad de México,DF,04839,Liverpool,2023-01-06,2024-07-23,CRM
+C-010797,Natalia,Vázquez Núñez,natalia.vazquez@pescadosymarisco.com.mx,6672902940,"BLVD. MANUEL ÁVILA CAMACHO 1117, COL. SANTA MARÍA",cUliACán,Sin.,CP 80282,PESCADOS Y MARISCOS LA COSTA S.A. DE C.V.,2026-08-01,2026-09-15,CRM 
+C-010798,Emilio,Márquez Cabrera,emilio.marquez@outlook.com,0447716222910," Privada Los Pinos 1592, Residencial Los Álamos",Pachuca,Hidalgo,42162,Tecnologías Sierra Azul,15/05/2025,2025-08-21,CRM
+C-010799,Guillermo,Velázquez Arias, guillermo29.velazquez@farmaciasdelcent.mx,312-830-2226,"Calle Allende 846, Residencial Los Álamos",Colima,COL,28061,FARMACIAS DEL CENTRO S.A. DE C.V.,25/05/2025,05/25/2025,Salesforce
+C-010800,María,Domínguez Ríos,maria.dominguez@telcel.com.mx,0052 833 949 0581,"Av.  Reforma 4548, Col. San Rafael",Tampico,Tamps.,CP 89265,NULL,2025-04-03,,CRM
+C-010801,Roberto,Márquez Lara,roberto51.marquez@fundicionsantaro.com.mx,52-993-940-0037,"Calle 5 de Mayo 2115, Col. Industrial",Villahermosa,TAB,86095,Fundición Santa Rosa,26/04/2024,2026-03-10,CRM
+C-010802,Jesús,López Castro,jesus.lopez@logisticadelbaji.com.mx,+529990985926,"Av. Pedregal 1618, Col. Condesa",Mérida,Yucatan,CP 97013,logística del bajío,08/11/2025,NULL,CRM
+C-010803,liliana,Zamora Fuentes,liliana.zamora@consultoriamonte.com,981 834 0108,,Campeche,CAMP,24046,Consultoría Montes Blancos,2026/03/02,03/22/2026,CRM_MX
+C010804,feRNAnDA,sandoval quintero,fernanda_sandoval@live.com.mx,0446869157169,"AV. PEDREGAL 3196, COL. MERCED",Mexicali,BC,21197,LACTEOS LA PRADERA S.P.R. DE R.L. DE C.V.,2021-05-29,2024-02-19,CRM 
+C-010272,Saúl,Ríos Ávila,saulrios@cultivoshidropon.mx,4496312707,"Calle 5 de Mayo 300, Col. Santa María",Aguascalientes,Aguascalientes,20252,Cultivos Hidropónicos Anda,2021-09-27,2021-03-14,CRM
+C-010806,Julio,Pérez Martínez ,julio_perez@empresa.mx,,"Cerrada Las Flores 665, Col. Guerrero",Veracruz,Veracruz,NULL,Femsa,26-04-2026,2026/05/01,CRM
+C-010807,Jesús,Solís Orozco,jesussolis@cultivoshidropon.com.mx,449-872-2970,"av. insurgentes sur 1485, col. merced",Aguascalientes,AGS,20287,Cultivos Hidropónicos Anda,05/03/2023,2022-02-01,CRM
+C-010808,Patricia,Robles Ibarra,probles@outlook.com,,"Av. Madero 5230, Fracc. El Pedregal",Durango,DGO,34270,Lácteos La Pradera,2023-08-13,01/05/2024,CRM
+C-010809,RAÚL,González Ríos,rgonzalez@inmobiliariacerr.com,477 624 0974,"Blvd. Manuel Ávila Camacho 3307, Col. Narvarte",león,Guanajuato,37525 ,INMOBILIARIA CERRO GRANDE S.A. DE C.V.,05/03/2023,02/10/2024,CRM
+C-010810,ALBERTO, Castañeda Gallegos ,acastaneda@alsea.com.mx,961-410-7509,"Privada Los Pinos 9459, Col. Industrial",Tuxtla Gutiérrez,Chiapas,NULL,Alsea,02/27/2024,15/12/2024,SFDC
+C-010811,Rafael,Márquez Juárez,rmarquez@lacteoslapradera.com.mx,8197825665,"Av. Pedregal 4123, Col. Guerrero",Monterrey,Nuevo León,64681,Lácteos La Pradera,2023-10-08,2024-04-18,CRM
+C-010812,Cristina,Vázquez Cárdenas,cristina.vazquez@uniformesindustr.mx,n/a," Calle Hidalgo 9380, Col. Santa María ",Zacatecas,Zacatecas,98037,Uniformes Industriales Lobo S.A. De C.V.,07-10-2023,07/15/2024,CRM
+C-010813,Ángel,Gómez Mejía,agomez@soriana.mx,52-771-253-5681,"Av. México 7869, Fracc. Lomas Verdes",Pachuca,Hidalgo,42143,Organizacion Soriana S.A.B. De C.V.,15-05-2023,30/05/2025,CRM
+C-010814,Iván,Morales Cruz,imorales@tecnologiassierr.com,(951) 867-4242," Av. Revolución 6664, Col. Del Valle ",Oaxaca,OAX,68091 ,Tecnologías Sierra Azul,2026-08-14,2026-10-20,CRM
+C-010815,Pilar,Chávez Lara ,pilar.chavez@live.com.mx,+52 1 722 959 9800,"Av. Madero 2308, Residencial Los Álamos",Toluca,Edo. de Méx.,50053,Banorte,10/02/2025,2023/02/04,CRM
+C-010816,Álvaro,Gómez Rodríguez,ALVARO.GOMEZ@GMAIL.COM,686-622-0287,"Privada Los Pinos 6263, Col. Del Valle",Mexicali,b.c.,21295,taller mecánico los pinos,30/07/2025,08/11/2026,CRM
+C-010817,Alicia,Núñez Moreno,alicia.nunez@vidriosyaluminio.com.mx ,+52 662 110 3927,"Av. División del Norte 6855, Col. Santa María",Hermosillo,Son.,83337 ,Vidrios y Aluminios del Norte,29-10-2022,2026/03/29,SFDC
+C-010818,Esteban,Arias Ávila,esteban_arias@farmaciasdelcent.com.mx,NULL,"Av. Constitución 6299, Residencial Los Álamos",Hermosillo,Sonora ,83377,Farmacias del Centro,2024-03-09,08/08/2025,CRM_MX
+C-010819,Claudia,Aguilar Molina, claudia32.aguilar@aceitesygrasasde.mx,+528449155236,"Av. Madero 9152, Col. Narvarte",Saltillo, Coahuila ,25178,Aceites y Grasas del Golfo,2024-04-11,2026-01-08,CRM
+C-010820,Álvaro,García Navarro,alvarogarcia@pescadosymarisco.com,4495979005,"Calle Juárez 1081, Col. Industrial",Aguascalientes,Aguascalientes,20364,Pescados y Mariscos La Costa,2022-11-22,2025-05-09,CRM
+CRM-10821,Romero,Elena Carrillo,elena_romero@farmaciasdelcent.com,+52 686 116 1336,"Calle Allende 1319, Fracc. El Pedregal",Mexicali,Baja Calif.,21098,FARMACIAS DEL CENTRO S.A. DE C.V.,27/06/2025,14/09/2026,crm
+C-010822, Eduardo,Ibarra Gonzalez,eibarraaeromexico.mx,+52 33 3113 8655,"Av. Colón 7417, Col. Centro",Guadalajara,Jal,44233,AEROVÍAS DE MEXICO S.A. DE C.V.,2026-06-05,2026-11-04,Salesforce
+C-010823, Guillermo,Bautista Villanueva,guillermo_bautista@palaciodehierro.com.mx,+52 1 444 115 4871,,sLp,S.L.P.,78158 ,Palacio de Hierro,2022-10-29,22/08/2023,CRM 
+C-010824,Ana,Orozco  Domínguez,,045 722 292 6012,"Cerrada Las Flores 7395, Col. San Rafael",TOLUCa,Edo. México,50224,Joyería Estrella del Sur,20210914,2026-09-21,CRM
+C-010825,Rafael,tORres Orozco,rafael_torres@refaccioneselagu.mx,52-55-3316-5197,"Av. Revolución 2702, Col. Moderna",Ciudad de México, Ciudad de México,05616,REFACCIONES EL AGUILA S.A. DE C.V.,03-ago-2021,2024-07-24,CRM
+C-010826,Martín,sAnTiagO SaLAZAR,martinsantiago@yahoo.com.mx,744-860-1200,"Av. División del Norte 3804, Col. Santa María",Acapulco ,Guerrero,39728,Palacio  de Hierro,01/07/2022,16/04/2022,CRM
+C-010827,Alberto,Reyes Aguilar,NULL,+524495968965,"Calle Independencia 8104, Col. Condesa",Aguascalientes,AGs.,20299,INMOBILIARIA CERRO GRANDE S.A. DE C.V.,01-may-2025,2026-07-12,CRM
+C-010828,Carlos,Gallegos Padilla,NA,0052 477 643 8218,"Av. Reforma 3411, Fracc. Las Américas",León,GTO,n/a,Aceites y Grasas del Golfo,2022-07-21,19/09/2021,CRM
+c-010829,Isabel,León Reyes,isabel.leon@telcel.mx,0444490585994,"Av. López Mateos 7409, Col. Guerrero",Aguascalientes,Ags.,20219,Telcel,19/01/2025,2025-02-18,CRM
+C-010830,Arturo,Mendoza Moreno,ARTURO.MENDOZA@EMPRESA.MX,+526677878336,"Calle 5 de Mayo 4120, Col. Obrera",culiacán,Sin.,80189 ,INMOBILIARIA CERRO GRANDE S.A. DE C.V.,08/03/2026,2026-05-25,CRM
+CRM-10831, Concepción ,Soto Torres,N/A,0447220000467,"Calle Morelos 4184, Col. Roma Norte",Toluca,Edo. Mex.,50272,Refacciones El Aguila S.A. De C.V.,06-06-2026,2026-11-07,CRM
+C-010832,-,Ortiz Ramos,fernando_ortiz@fundicionsantaro.com,0446626463138,NULL,Hermosillo,Sonora,83076,Fundición Santa Rosa,2024-05-29,2025-05-28,CRM
+C-010833,Alberto,Ortega Ramírez,alberto_ortega@outlook.com,0052 771 748 6097,"caLlE ZARaGOza 7262, col. POlanco",Pachuca,Hgo.,42009,Panadería San Martín,19/12/2025,21-ago-2023,CRM
+c-010834,Patricia,Romero Moreno,patriciaromero@outlook.com,7715156078,"Av. Tecnológico 8313, Fracc. El Pedregal",Pachuca,Hidalgo,42150,Radiomovil Dipsa S.A. De C.V.,2025-02-08,08-04-2026,CRM
+C-010835,FELIPE,CAMPOS SALAZAR,felipecampos@femsa.mx,+52 1 81 4740 4955,"Av. Constitución 7008, Col. Del Valle",Monterrey,Nuevo Leon,64268 ,FEMSA,24-11-2023,19/03/2028,Salesforce
+C010836,VERRÓNICA,Járez Vega,NA,618-401-2140,"Av. Madero 7463, Col. Jardines del Sur",Durango ,Durango,34075,HOTELES BRISA MAYA S.A. DE C.V.,20240108,10/12/2025,CRM
+C-010837,Alberto,Ibarra León,alberto_ibarra@aceitesygrasasde.com,7710876961,"Calle Allende 7428, Col. Jardines del Sur",Pachuca,Hidalgo,42059,Aceites y Grasas del Golfo,2024-06-25,2024-12-18,CRM
+C-010838,Beatriz,Cárdenas  Ortiz,beatrizcardenas@fundicionsantaro.com.mx,52-844-671-3293,"Blvd. Solidaridad 7690, Col. Polanco",Saltillo,COAH,25052,fundición santa rosa,31-oct-2022,2026/02/22,crm
+C-010839,Yezenia,Veltrán Hernández,-,(477) 950-9318,"Calle Hidalgo 2411, Col. Condesa",León,Gto.,37221,Uniformes Industriales Lobo,07/06/2023,2023-11-13,crm
+010840,Guillermo,Ruiz Velázquez,guillermoruiz@sistemasaguiladi.com.mx,0449997926269,"Calle Allende 9335, Col. Narvarte",mérida,Yucatán,97160,Sistemas Águila Digital,19-01-2023,2026-06-15,CRM
+C-010841,Carlos, Salazar Lara ,N/A,+52 33 4504 8421,"Blvd. Manuel Ávila Camacho 7792, Col. Industrial",guADalajAra,JAL,44254,Grupo Modelo,07/11/2021,2026-04-27,CRM
+C-010842,Lorena, Ávila,lorena.avila@seguroslomaalta.com,0449619957110,"BLVD. MANUEL ÁVILA CAMACHO 2147, COL. SAN RAFAEL",Tuxtla Gutierrez,chis,29051,SEGUROS LOMA ALTA S.A. DE C.V.,2026-04-05,15/13/2025,SFDC
+C-010843,sauL,Leon Ortega,SAUL.LEON@BANORTE.MX,477-889-0544,"Av. Madero 3634, Col. Roma Norte",León,Guanajuato,37331,GRUPO FINANCIERO BANORTE S.A.B. DE C.V.,25/04/2026,2026-06-06,CRM_MX
+C-010844,gUilLErmo,Castañeda Chávez,guillermo57.castaneda@hotmail.com,+52 618 242 9112," Blvd. Manuel Ávila Camacho 3952, Col. Del Valle",Durango,Dgo.,34290,Pescados y Mariscos La Costa,04/22/2025,20261007,CRM
+C-010845,María ,Sánchez Molina,msanchez@gmail.com,771 923 5337,"Calle Hidalgo 5541, Col. Santa María",Pachuca ,Hidalgo,42143,Fundición  Santa Rosa,10/08/2024,22/09/2024,CRM
+C-010846,Gerardo,Espinoza Trejo,gerardo.espinoza@gmail.com,0445501811303,"Av. Tecnológico 5458, Col. Narvarte",Ciudad de México,México,16462,N/A,07/10/2024,2025-05-08,CRM
+C-010847,María,Cárdenas Campos,maria.cardenas@tvazteca.com.mx,961-283-0676,"Av. Madero 2877, Col. Jardines del Sur",Tuxtla Gutiérrez,Chis.,29143,TV Azteca,2023-12-27,2025-06-30,SFDC
+C-010848,clAUdIa,Rangel Torres,claudia.rangel@gmail.com,+529515193195,"Av. Reforma 2459, Col. Centro",Oaxaca,OAX,68053,Panadería San Martín,2021-08-24,23/07/2025,crm
+C-010849,n/a,Rojas Villanueva,n/a,+526641783688,"Blvd. Solidaridad 417, Fracc. Lomas Verdes",Tijuana, baja calif. ,22291,CAFETERIAS LA ESTACION S.A. DE C.V.,18/04/2025,22-01-2026,CRM
+C-010850, alicia,MEJIA SOTO,amejia@yahoo.com.mx,+52 492 606 3126,"AV. CONSTITUCIÓN 22, FRACC. LOMAS VERDES",Zacatecas,Zac.,98077,AMERICA MOVIL S.A.B. DE C.V.,28/09/2025,2025-11-03,CRM
+C-010851,Ángel,Rodríguez Ibarra,Angel.rodriguez@PESCADOSYMARISCO.MX,52-771-222-3184,"Av. Central 5592, Residencial Los Álamos",Pachuca,Hidalgo,42025 ,Pescados y Mariscos La Costa,2025-01-25,18-01-2026,CRM
+C-010852,Fernanda,Pacheco Núñez,fernanda20.pacheco@hotelesbrisamaya.com.mx,+52 667 974 7674,"Av.  Reforma 5780, Col. San Rafael",Culiacán,Sin.,80288,Hoteles Brisa Maya,01/26/2024,2026-09-24,CRM
+C-010853,Valeria,Castillo Torres,valeria.castillo@agenciaaduanalba.com.mx,0052 844 992 2743,"Av. San Jerónimo 1643, Col. Moderna",Saltillo,COAH,,-,2024-09-25,02-11-2025,CRM
+C-010854,Sofía ,Navarro Tapia,sofia41.navarro@proton.me,998-918-4698,"AV. UNIVERSIDAD 8469, COL. GUERRERO",Cancún,Q.R.,77530,Transportes del Pacífico,2026-03-05,2026-04-10,CRM
+C-010855,Norma,Romero Zamora,nromero@transportesdelpa.mx,0052 477 058 3365,"Calle Rayón 2374, Col. Roma Norte",LEÓN,Guanajuato,37215,Transportes del Pacífico,21/06/2025,2026-09-18,CRM
+C-010856,N/A,Cruz Padilla,mariana78.cruz@transportesdelpa.com,477-241-1696,"Blvd. Manuel Ávila Camacho 2206, Col. Del Valle",león,Gto.,37267 ,Transportes Del Pacífico,2026-07-20,12/09/2026,CRM
+C-010857,Miguel,Juárez Salazar,miguel.juarez@refaccioneselagu.com.mx,9516765821,"Av. Reforma 2042, Col. Industrial",Oaxaca,Oaxaca,68079,Refacciones El Águila,2025-02-20,2025-09-22,CRM
+C-010858,Carmen,n/a,carmen.acosta@yahoo.com.mx,6869292329,"Av. Colón 3589, Fracc. Lomas Verdes",Mexicali,BC,21345,Fundición Santa Rosa,2025-04-19,03/11/2026,CRM
+C-010859,Silvia, VeGa cárDeNAs ,silviavega@proton.me,0449938671673,"Av. Pedregal 2128, Residencial Los Álamos",Villahermosa,Tab. ,86170,Grupo Modelo,06/07/2022,2023-02-22,CRM
+010860,Salvador,Cárdenas Franco,scardenas@proton.me,+52 1 477 759 3879,"Andador San Pedro 1279, Col. Santa María",León,Gto.,37486,América Móvil,06/06/2023,11-06-2023,CRM
+C-010861,Regina,Vázquez León,regina_vazquez@oxxo.com.mx,-,"Cerrada Las Flores 8735, Col. Guerrero",Oaxaca,Oax.,68141,CADENA COMERCIAL OXXO S.A. DE C.V.,2023-03-05,2024-09-13,CRM
+C-010862,Felipe,Reyes Flores,felipe.reyes@banorte.com,0443363796553," CALLE MORELOS 4751, COL. CONDESA ",Guadalajara,Jalisco,44657,banorte,2022-10-11,2022-10-13,CRM 
+C-010863,Enrique,Villanueva,enrique_villanueva@hotmail.com,777-556-3864,"BLVD. MANUEL ÁVILA CAMACHO 6937, COL. GUERRERO ",Cuernavaca,MOR,62343,PESCADOS Y MARISCOS LA COSTA S.A. DE C.V.,2026-06-26,06-nov-2026,CRM_MX
+C-010864,Saúl,VILLANUEVA,saul9.villanueva@mueblesriviera.com,771-490-4786,"Av. Constitución 9689, Fracc. El Pedregal ", Pachuca ,Hidalgo,42054,Muebles Riviera,2022-11-01,19-09-2026,crm
+c-010865,Trejo,Emilio Rodríguez,,0449613514255,"Calle Zaragoza 8807, Col. Narvarte ",Tuxtla Gutiérrez,Chis.,29100,BOUTIQUE LUNA DE PLATA S.A. DE C.V.,20221213,01/06/2025,Salesforce
+C-010866,Rafael,-,rafael.vargas@live.com.mx,+52 442 459 1288,"Av. Madero 6338, Col. Industrial",Querétaro,Queretaro,76160,Coppel,2024-04-25,2026-05-14,CRM
+010867,-,Tapia Díaz,alejandra_tapia@escuelatecnicaho.com.mx,0052 222 688 4177,"Calle Allende 9358, Col. San Rafael",Puebla,PUE,72478,Escuela Técnica Horizonte,20/06/2024,30/04/2025,CRM
+C-010868,aLejAnDRa,herrera franco,alejandra_herrera@boutiquelunadepl.mx,55 4353 4761,"Calle Hidalgo 1002, Col. Polanco ",CDMX,D.F.,08836,BOUTIQUE LUNA DE PLATA,27/09/2025,2026-02-21,SFDC
+C-010869,Concepción,Valdez Juárez,concepcion66.valdez@proton.me,52-312-368-1821,"Calle  Zaragoza 8769, Col. Condesa",Colima,Col. ,2806,,24-oct-2024,06/22/2025,CRM
+C-010870,,León Villanueva,monicaleon@volaris.mx,+52 1 998 022 0158,"Calle 16 de Septiembre 5090, Col. Guerrero",Cancun,Quintana Roo,77504,Volaris,16-09-2025,11/06/2026,CRM
+C-010871,Pedro,Cabrera Cortés,pedro.cabrera@transportesdelpa.mx,+52 1 998 497 5183,-,Cancún,Q.R.,77512,Transportes del Pacífico,04/06/2026,16/06/2026,CRM
+C010872,Miguel,Juárez Salazar,miguel.juarez@refaccioneselagu.com.mx,0052 951 676 5821,,Oaxaca,Oax.,68079,Refacciones  El Águila,20/02/2025,2025-09-22,CRM
+C010873,beatriz,Aguilar Zamora,baguilar@outlook.com,+522292192408,"Av. López Mateos 1767, Col. Narvarte",Veracruz,Veracruz,91997,,03-08-2021,08/09/2025,CRM
+C-010874,Paulina,Chávez Gómez,paulina_chavez@outlook.com,0052 993 929 6897,"CalLe MoReLOS 7984, cOL. CENtRO",Villahermosa,TAB,86034,BIMBO,15/05/2022,06/30/2022,SFDC
+C-010875,Julio, Molina Morales,julio.molina@icloud.com ,045 312 946 2049,"Privada Los Pinos 6857, Col. Polanco", Colima ,Col.,28014,Inmobiliaria Cerro Grande,2023-01-22,2025-07-25,CRM
+C-010876,Lucía,Tapia Chávez,ltapia@yahoo.com.mx,045 312 879 4920,"Av. Revolución 3545, Col. Roma Norte",Colima,COL,28029,Pescados y Mariscos La Costa,2024-07-06,03-06-2026,CRM
+C-010877,Tomás,Vega Gallegos,tomas.vega@live.com.mx,442 516 5561,"Av. Colón 9113, Col. Narvarte",Qro,QRO,76005,Coppel,23/04/2025,2026-01-22,crm
+C-010878,Ignacio,Carrillo Ávila,ignacio_carrillo@volaris.com.mx,045 81 0085 6392,"Av. México 5689, Col. San Rafael",Monterrey,N.L.,64662,Volaris,27-03-2021,2021-08-26,CRM
+C-010269,Miguel,Vega Robles,mvega@soriana.com.mx,6626441448,"Blvd. Manuel Ávila Camacho 3688, Fracc. Las Américas",Hermosillo,Sonora,83191,Soriana,2021-06-04,2023-06-13,CRM
+C010880,Paulina,Arias Velázquez,N/A,52-686-922-5050,"Calz. Ignacio Zaragoza 6511, Col. Merced",Mexicali,B.C.,,Farmacias del Centro,20231003,05-02-2025,CRM 
+C-010881,Margarita, Ríos Rodríguez,margarita_rios@icloud.com,+52 1 229 765 8838,"Calle 5 de Mayo 2516, Col. Anzures",Veracruz,VER,91967,lácteos la pradera,24/12/2022,15/13/2025,CRM_MX
+C-010882,Pilar,Cruz Mejía,,+52 33 9455 3898,"Calle 16 de Septiembre 5719, Col. San Rafael",Guadalajara,JAL ,44307,TALLER MECANICO LOS PINOS S.A. DE C.V.,04/09/2025,2026-01-16,CRM
+C-010883,armando,Cabrera Gallegos,armando_cabrera@empresa.mx,+52 1 981 874 4365,N/A,Campeche,Camp.,24017 ,Papelería y Oficina Atlas,07/22/2021,30/05/2023,CRM
+C-010884,Sofía,Rodríguez Cruz ,sofia_rodriguez@alsea.com.mx,+52 1 777 021 7564,"Calle Zaragoza 6289, Col. Narvarte",Cuernavaca,MOR,62009,Alsea,20-06-2021,02/12/2026,CRM
+C-010885,Ricardo,Velázquez Jiménez,ricardo_velazquez@yahoo.com.mx,52-442-580-1560,"Calle 16 de Septiembre 4479, Col. Jardines del Sur",Querétaro,Queretaro,76023 ,AmÉrICa móvil,2024/04/24,13/07/2024,CRM 
+C-010195,Cristina,Contreras Pacheco,cristina64.contreras@icloud.com,9999675751,"Av. San Jerónimo 7988, Col. San Rafael",Mérida,Yucatán,97098,Boutique Luna de Plata,2025-01-24,2026-04-09,CRM
+C-010887,Lucía,Tapia Chávez,ltapia@yahoo.com.mx,+52 312 879 4920,"Av. Revolución 3545, Col. Roma Norte",Colima,COL,28029,PESCADOS Y MARISCOS LA COSTA S.A. DE C.V.,2024-07-06,03-06-2026,SFDC
+C-010888,Héctor,Pérez González,hector13.perezproton.me,52-999-576-2904,"Av. Las Palmas 283, Fracc. Las Américas",Merida ,Yucatán,97172,Muebles Riviera,20210916,17-03-2024,CRM_MX
+C-010889,Fernanda,León Ramírez,fleon@escuelatecnicaho.mx,52-81-8261-1165,"Av. Las Palmas 1878, Fracc. Las Américas ",Monterrey,Nuevo Leon,64255,Escuela Técnica Horizonte,29-may-2022,12/12/2025,CRM
+C-010890,Ignacio,Orozco Gómez,iorozco@gmail.com,+52 1 993 031 1974,"Av. Central 9528, Fracc. Lomas Verdes",Villahermosa,Tab.,86131 ,femsa,10-03-2021,2024-11-07,CRM
+C-010891,Ximena,Vega González,ximena74.vega@proton.me,+529612292271," Av. México 9268, Fracc. El Pedregal",Tuxtla Gutiérrez,Chiapas,29064,,2025-07-03,2025-09-06,CRM
+C-010892,Carlos,Campos Navarro,carloscampos@mueblesriviera.com,8337225273,"Calle Independencia 9102, Fracc. Las Américas ",Tampico,tamaulipas,89272,Muebles Riviera,2025-10-17,2026/04/10,CRM
+C-010893,Héctor,Flores Juárez,hector_flores@proton.me,833-204-0884,n/a, Tampico,Tamaulipas,89164 ,Muebles Riviera,04/19/2026,06/26/2026,CRM
+C-010894,Héctor,Gómez Vega,hgomez@hotmail.com,045 229 410 6020,"Av. San Jerónimo 5211, Fracc. Lomas Verdes",Veracruz, Ver.,91790,Servicios Industriales Tepic,2026-08-28,2026-10-07,CRM_MX
+c-010895,Renata,López Benítez,rlopez@carpinteriariobl.com.mx,52-444-950-6845,"Calle Hidalgo 2035, Fracc. Lomas Verdes",San Luis Potosi,San Luis Potosí,78347,Carpintería Río Blanco,13/04/2022,2026-10-26,CRM
+C-010896,Óscar,Herrera González,oscar_herrera@empresa.mx,+52 1 998 308 9411,N/A,Cancún,Quintana Roo,77532,Vidrios y Aluminios del Norte,05/09/2026,28-06-2026,CRM
+C-010897,Dolores,Bautista Romero,dolores23.bautista@hotelesbrisamaya.mx,+52 1 449 015 5026,"Calle Zaragoza 9694, Col. Narvarte",Aguascalientes,AGS,CP 20120,Hoteles Brisa Maya,08-03-2021,2022-12-15,CRM
+C-010898,Ignaacio,ortIZ tOrRES,ignacio.ortiz@oxxo..mx,0448441652870,"Calz. Ignacio Zaragoza 5920, Fracc. Lomas Verdes",Saltillo,Coahuila ,25250,CADENA COMERCIAL OXXO S.A. DE C.V.,03/06/2022,07/05/2024,CRM
+C-010899,carlos,Salinas Benítez,carlos.salinas@yahoo.com.mx,+52 1 744 346 2247," Av. División del Norte 1303, Col. Moderna ",Acapulco,GRO,NA,Lácteos La Pradera,2024-10-10,01-08-2026,CRM
+C-010900,Valeria,Moreno García,vmoreno@aeromexico.mx,N/A,NULL,Pachuca,Hgo.,CP 42187,Aeroméxico,05/01/2026,2026-01-07,CRM
+C-010901,Valeria,Ávila Castillo,valeria.avila@panaderiasanmart.mx,0447714936281,"Av. San Jerónimo 4473, Col. Narvarte",Pachuca,Hgo.,n/a, Panadería San Martín,11/11/2023,2024/11/23,CRM
+C-010902,Guadalupe,Valdez Sánchez,guadalupe_valdez@coppel.com,045 614 440 2416,"Av. Las Palmas 1438, Fracc. Las Américas",Chihuahua,CHIH,31491 ,Coppel,2024-04-29,2026-10-21,CRM
+C-010903,Eduardo,Herrera Beltrán,eduardo24.herrera@empresa.mx,+523385200863," Privada Los Pinos 3014, Col. Guerrero",Guadalajara,JAL ,44351,Servicios Industriales Tepic,14-11-2024,10-ene-2026,CRM
+C-010904,Claudia,Cortés Ortiz,claudia.cortes@aeromexico.com.mx,045 662 740 9861,"Av. Madero 4101, Col. San Rafael",Hermosillo,Sonora,8310,AEROVÍAS DE MEXICO S.A. DE C.V.,2023-04-10,2021-05-24,CRM
+C-010905,n/a,Benítez Zamora,rafael57.benitez@aceitesygrasasde.com,n/a,"Calle 5 de Mayo 1193, Fracc. El Pedregal",MOReLiA,Michoacán,58254,Aceites Y Grasas Del Golfo S.A. De C.V.,25/10/2021,03-sep-2026,crm
+C010906,Joaquín,Núñez Molina,joaquin3.nunez@cultivoshidropon.com,(492) 797-9665,"Av.  Revolución 7104, Col. Del Valle",Zacatecas ,Zacatecas,98055,Cultivos Hidropónicos Anda,11/16/2024,26-abr-2025,CRM
+C-010907,Yesenia,Ortega Martínez,yesenia_ortega@editorabrujula.com.mx,0052 614 011 1187,"AV. UNIVERSIDAD 3399, COL. MODERNA",Chihuahua,Chih.,31344,Editora Brújula,26/11/2024,08/29/2025,CRM
+C-010908,Armando,Silva Ruiz,asilva@hotelesbrisamaya.com,0443129262270,"Av. Pedregal 5143, Col. Industrial",Colima,Col.,28055,Hoteles Brisa Maya,11-01-2026,29-03-2026,CRM 
+C-010909,Beatriz,Bautista Tapia,NULL,-," Av. México 7961, Col. Santa María ",Aguascalientes,Aguascalientes,20323,CARPINTERIA RIO BLANCO S.A. DE C.V.,14/11/2024,07-04-2025,CRM
+C-010910,Rodrigo,Paredes Ríos,rparedes@proton.me,0052 981 198 3767,"Av. Constitución 7847, Fracc. Las Américas",Campeche,Campeche,24097,Grupo Modelo,2025-08-08,2026-06-29,crm
+C-010911,Patricia,Estrada Ruiz,PATRICIA.ESTRADA@EMPRESA.MX,222 639 9926,"Av. Insurgentes Sur 1909, Col. Obrera",Puebla,Puebla,72918, Refacciones El Águila,30/07/2026,03/08/2026,CRM
+C-010912,adriaNA,TORRES DÍAZ,adriana_torres@hotmail.com,+52 667 883 4423,"Av. López Mateos 3574, Col. Narvarte",Culiacán,Sinaloa,80443 ,TRanSPOrTeS del paCÍfiCo,27/07/2021,2024-07-25,CRM
+C-010913,Francisco,Cortés Delgado,fcortes@joyeriaestrellad.mx,(614) 726-5842,"CALLE ZARAGOZA 6538, COL. JARDINES DEL SUR",Chihuahua, CHIH ,31172,Joyería Estrella del Sur,2022-03-17,2025-02-13,CRM
+C-010914,Cruz,Raúl Estrada,raulcruz@consultoriamonte.mx,0447447906889,"CAMINO REAL 8708, COL. NARVARTE",Acapulco,Gro.,39505,CONSULTORIA MONTES BLANCOS S.C.,2023-01-11,02/12/2025,CRM_MX
+C-010915, Isabel ,Salinas Vargas,n/a,981 583 8913," Av. Tecnológico 8349, Col. Merced",Campeche,CAMP,24038,GRUPO COMERCIAL CHEDRAUI S.A.B. DE C.V.,2022-04-05,2025-05-27,CRM
+C-010916,Eduardo,Ibarra González,eibarra@aeromexico.mx,+523331138655,"Av. Colón 7417, Col. Centro","Guadalajara, Jal.",Jal,44233, Aeroméxico,2026-06-05,2026-11-04,CRM
+C-010917,Margarita ,Rangel Muñoz,margarita.rangel@serviciosindustr.mx,+52 33 5367 8475,"Calle 5 de Mayo 9140, Col. Merced",Guadalajara,JAL,44920,Servicios Industriales Tepic,04-jul-2024,21-09-2024,SFDC
+010918,Joaquín,Rangel Rojas,joaquin_rangel@correo.com.mx,+52 1 222 790 8032,"Calle Independencia 4210, Fracc. El Pedregal",Puebla,pUe.,72863,Oxxo,2024-07-22,04/03/2026,CRM
+C-010919,Ignacio,Estrada Díaz,NULL,+52 662 271 2153,"Av. Las Palmas 6198, Col. San Rafael",Hermosillo ,Son.,83353,Elektra,06/07/2024,2025-04-29,CRM
+C-010920,Lorena,Fuentes Rosales,lorena.fuentes@hotmial.com,667 465 0970,"Av. México 1747, Fracc. Las Américas",Culiacán,SIN,NULL,Imprenta Oro Verde,01/16/2026,20260609,CRM
+C-010921,Liliana,Gallegos Peña,liliana.gallegos@fundicionsantaro.mx,0444431494714,"Calle Juárez 1868, Col. Santa María",Morelia,Mich.,58170,Fundición Santa Rosa,2023/12/05,02/11/2025,CRM
+C-010922,Fernando,Cárdenas Orozco,fernandocardenas@seguroslomaalta.com,+52 1 443 276 4298,"Cerrada Las Flores 7343, Col. Del Valle",morelia,Michoacán,58205,seguros loma alta,07/19/2025,2026-03-12,CRM
+C-010923,Jorge,medina guerrero,jorgemedina@agenciaaduanalba.mx,+527717063461,"andador san pEDRo 6297, cOL. jArdinEs del suR",Pachuca,HGO,42079,NULL,15-01-2022,2022-11-22,CRM
+C-010924,Lorena,Mejía Santiago,lorena.mejia@logisticadelbaji.com,+52 722 943 9529,"Calle Independencia 5414, Col. Moderna",Toluca,Edo. Mex.,CP 50203,Logística del Bajío,24-02-2025,17-abr-2026,CRM
+C-010925,Javier,Peña Vázquez,jpena@energiasolardeld.mx,3364511223,"Calz.  Ignacio Zaragoza 2707, Col. San Rafael",Guadalajara,Jal,44112,Energía Solar del Desierto,2022-09-10,2024-01-28,crm
+C-010926,Eduardo,CháVeZ CastaÑEda,eduardo19.chavez@consultoriamonte.com.mx,045 614 964 3725,"Av. Colón 6324, Col. Roma Norte",Chihuahua,Chih.,31135 ,Consultoría Montes Blancos,2024-10-29,29/01/2025,SFDC
+C-010927,Pilar,Beltrán Pacheco,pilar.beltran@outlook.com,045 981 966 8188,"Calle Rayón 6985, Col. Anzures",Campeche,Campeche,24054,Femsa,01/05/2023,29/11/2025,CRM
+C-010928,Sofía,Gallegos Bautista,sgallegos@boutiquelunadepl.com.mx ,667-006-9896,"Calz. Ignacio Zaragoza 9757, Col. Polanco",Culiacán,SIN,80172,Boutique Luna de Plata,2021-04-05,29-11-2022,CRM
+C-010929,Elena,Reyes Gutiérrez, ereyes@laboratoriosnube.com,52-477-420-6200,"Camino Real 8032, Col. Guerrero",León,Gto,37235 ,NULL,2026-07-07,07/05/2026,CRM
+C-010930,Isabel,Rosales Pacheco,irosales@outlook.com,(33) 5178-2901,"Av. México 3727, Col. Guerrero",Guadalajara,JAL,44882,uniformes industriales lobo,15-07-2025,20260315,CRM
+c-010931,Soto, pedro jiménez ,pedro.soto@chedraui.com.mx,NA,"CALLE ZARAGOZA 9511, COL. ROMA NORTE",Durango,Dgo.,34080,Chedraui,14/11/2024,2025-08-18,SFDC
+C-010932,Manuel,Mejía Cabrera,manuel_mejia@joyeriaestrellad.com,+529515094207,"CALLE RAYÓN 8380, COL. SAN RAFAEL",Oaxaca,oaxaca,68032,jOyerÍa estRelLa deL suR,27-06-2022,08/07/2024,CRM
+C-010933,Verónica,Rangel Ibarra,n/a,-,"Av. México 4119, Col. Merced",León , Gto.,3759,Imprenta Oro Verde,2022-08-24,2024-02-11,CRM
+C-010934,Ernesto,Navarro Peña,ernestonavarro@outlook.com,045 961 070 3470,"Av. Insurgentes Sur 4724, Col. Anzures",tuxtla,Chis.,29159,AMERICA MOVIL S.A.B. DE C.V.,2026-08-10,07-11-2026,CRM
+C-010935,Fernando,SALINAS GARCÍA,fernando.salinas@live.com.mx,7719673057,"Calle Morelos 5746, Col. Del Valle",Pachuca,Hidalgo,42146,Femsa,26-01-2024,20240422,CRM_MX
+C-010936,Ximena,Benítez Díaz,xbenitez@americamovil.com.mx,+525528313305,"Av. División del Norte 6224, Col. Narvarte",Ciudad  de México,D.F.,04624,América Móvil,05/07/2024,03/13/2026,CRM
+C-010937,Soledad,Moreno Robles,soledad_moreno@tallermecanicolo.com.mx,6866263505,"Calle Zaragoza 1881, Col. Del Valle",Mexicali,BC,21024,Taller Mecánico Los Pinos,26-sep-2022,2023-06-05,CRM
+C-010938,Diana,mUÑOz NÚÑez,dianamunoz@tvazteca.com,+52 1 844 871 5477,"Av. Reforma 1918, Col. Centro",Saltillo,Coah.,25226,TV  AZTECA S.A.B. DE C.V.,2022-07-05,2026-03-16,CRM
+C-010939,fElIPe,Campos Salazar ,-,,"Av. Constitución 7008, Col. Del Valle",Monterrey,Nuevo Leon,64268,FOMENTO ECONOMICO MEXICANO S.A.B. DE C.V.,2023/11/24,08/05/2026,crm
+C-010940,valeria,Espinoza Fuentes,valeria_espinoza@yahoo.com.mx,443 909 5901,"cAlLE moRELos 9956, FRAcc. lOmas verdes ",Morelia,MICH ,58238,AGROPECUARIA LAS PALMAS S. DE R.L. DE C.V.,2027-05-06,27/02/2025,CRM
